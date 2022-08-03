@@ -5,27 +5,16 @@
     
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 2
-      h1  Instalaciones y alojamiento pecuario
+        span 7
+      h1  Equipos e Implementos
     
-    #t_2_1.titulo-segundo
-      .h4 2.1. Tipos
+   
 
-    #t_2_2.titulo-segundo
-      .h4 2.2.	Espacio mínimo vital
-
-    #t_2_3.titulo-segundo
-      .h4 2.3.	Mantenimiento
-
-    #t_2_3.titulo-segundo
-      .h4 2.4.	Instalaciones según especie y fase de desarrollo	
-
-    
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema3',
   data: () => ({
     // variables de vue
   }),

@@ -1,19 +1,75 @@
 .banner-principal-decorativo
   &-1
+    animation: rotation 75s infinite linear
+    position: absolute
+    top: 8%
+    right: 8%
+  &-2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
-  &-2
-    animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
+    top: 62%
+    right: 67%
 
 @keyframes float1
   0%
-    transform: translateY(20px)
+    transform: translateX(20px)
 
   100%
-    transform: translateY(0px)
+    transform: translateX(0px)
+
+@-webkit-keyframes rotation 
+  from 
+    -webkit-transform: rotate(0deg)  
+  to 
+    -webkit-transform: rotate(359deg)
+
+//Tema 1
+
+.bg_fondo_1
+  position: relative
+  img, p
+    position: relative
+  &::before
+    content: ''
+    position: absolute       
+    margin: 0 -0rem
+    top: 4rem
+    left: 0%
+    width: calc(100% + 0rem)
+    height: 300px
+    background-image: url("../assets/curso/tema1/fond.jpg")
+    background-repeat: no-repeat
+    @media screen and (max-width: 1400px)        
+      content: ''
+      position: absolute       
+      margin: 0 0rem
+      top: 1rem
+      left: 0%
+      width: calc(100% + 0rem)
+      height: 500px
+      background-image: url("../assets/curso/tema1/fond.jpg")
+      background-repeat: no-repeat
+    @media screen and (max-width: 760px)        
+      content: ''
+      position: absolute       
+      margin: 0 0rem
+      top: 0rem
+      left: 0%
+      width: calc(100% + 0rem)
+      height: 900px
+      bbackground-image: url("../assets/curso/tema1/fond.jpg")
+      background-repeat: no-repeat
+
+.bloque-texto-g 
+  position: relative
+  display: flex
+  justify-content: flex-start
+
+.bloque-texto-g__img 
+  width: 50%
+  position: absolute
+  top: 0px
+  left: 50%
+  bottom: 0
+  background-position: center
+  background-size: cover
