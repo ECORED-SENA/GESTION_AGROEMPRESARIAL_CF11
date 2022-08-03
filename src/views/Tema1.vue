@@ -22,51 +22,36 @@
       .col-md-10
         p La producción pecuaria ha tenido progresos importantes en los últimos años gracias a la evolución de las tecnologías en materia de:
     
-    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="fade-down")
+    SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
       .tarjeta-avatar
-        img(src='@/assets/curso/tema4/vec1.svg' alt='AvatarTop')
+        img(src='@/assets/curso/tema1/vec1.svg' alt='AvatarTop')
         .tarjeta.color-1
           .text-black.p-4
-            h4.text-center PANTALLA
-            p.text-center Interfaz de salida, lo que quiere decir que la máquina comunica al humano a través del ambiente gráfico para trabajar, por lo general en sistemas POS las pantallas son táctiles, por lo que es también interfaz de entrada, pues el humano le transmite información a la máquina.
+            p.text-center Alimentación
       
       .tarjeta-avatar
-        img(src='@/assets/curso/tema4/vec2.svg' alt='AvatarTop')
-        .tarjeta.color-2
-          .text-black.p-4
-            h4.text-center IMPRESORA
-            p.text-center Interfaz de salida, pues la máquina transmite o convierte datos en elementos entendible para el humano. Las impresoras en puntos de venta son con rollos especiales e impresión térmica.
-
-      .tarjeta-avatar
-        img(src='@/assets/curso/tema4/vec3.svg' alt='AvatarTop')
-        .tarjeta.color-3
-          .text-black.p-4
-            h4.text-center TECLADO
-            p.text-center Dispositivo que presenta el conjunto de las teclas con los símbolos para escribir el idioma y otras adicionales para ejecutar comandos a la computadora. Como permite que el humano le ingrese información a la computadora, es un dispositivo de entrada.
-
-      .tarjeta-avatar
-        img(src='@/assets/curso/tema4/vec4.svg' alt='AvatarTop')
+        img(src='@/assets/curso/tema1/vec2.svg' alt='AvatarTop')
         .tarjeta.color-1
           .text-black.p-4
-            h4.text-center LECTOR CÓDIGO DE BARRA
-            p.text-center O escáner es un dispositivo que utiliza un láser para leer un código de barras y entrar información de manera automática al sistema. Por esta razón, igual que el teclado es una interfaz de entrada.
+            p.text-center Mejoramiento genético
 
       .tarjeta-avatar
-        img(src='@/assets/curso/tema4/vec5.svg' alt='AvatarTop')
-        .tarjeta.color-2
+        img(src='@/assets/curso/tema1/vec3.svg' alt='AvatarTop')
+        .tarjeta.color-1
           .text-black.p-4
-            h4.text-center LECTOR BIOMÉTRICO
-            p.text-center Se trata de un sensor de huellas digitales dactilares. Es un dispositivo de entrada, que es capaz de leer, guardar e identificar las huellas dactilares.
+            p.text-center Equipamiento
 
       .tarjeta-avatar
-        img(src='@/assets/curso/tema4/vec6.svg' alt='AvatarTop')
-        .tarjeta.color-3
+        img(src='@/assets/curso/tema1/vec4.svg' alt='AvatarTop')
+        .tarjeta.color-1
           .text-black.p-4
-            h4.text-center <i>MOUSE</i>
-            p.text-center Dispositivo que se maneja con una sola mano y permite dirigir el movimiento del puntero que aparece en pantalla para transmitir diversas órdenes o comandos, por esto es una interfaz de entrada.
+            p.text-center Sanidad animal
 
-
-
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema1/vec5.svg' alt='AvatarTop')
+        .tarjeta.color-1
+          .text-black.p-4
+            p.text-center Instalaciones
 
     #t_1_1.titulo-segundo
       .h4 1.1. Características
