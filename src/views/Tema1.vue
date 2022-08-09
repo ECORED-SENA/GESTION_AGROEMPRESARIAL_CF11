@@ -69,7 +69,7 @@
     .row 
       .col-md-12
         .tarjeta.fondo-slyder.mb-5
-          SlyderA
+          SlyderA(tipo="b")
             .row
               .col-md-6.mb-4.mb-md-0
                 h5 Adaptabilidad
