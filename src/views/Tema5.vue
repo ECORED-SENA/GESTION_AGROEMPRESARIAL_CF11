@@ -20,7 +20,7 @@
             p La introducción de animales nuevos debe hacerse bajo serias medidas de bioseguridad, ya que cerca del 90% de la entrada de enfermedades es a causa del ingreso de animales nuevos al establecimiento. Por ende, se recomienda que el nivel de bioseguridad y cuidados de la granja de origen sea superior a la granja receptora y evitar la adquisición de animales nuevos en gran medida.
     separador 
 
-    #t_5_1.titulo-segundo
+    #t_5_1.titulo-segundo.color-acento-contenido
       .h4 5.1.	Procedimientos
 
     p.mb-4 Al ingresar los animales nuevos se deben tener claros los protocolos de bioseguridad de cada producción, para así, proceder al descargue de los animales en el área de cuarentena dispuesta por el predio, para allí realizar el aislamiento y vigilancia de los mismos en busca de sintomatología. No menos importante se debe respetar el periodo de aclimatación de los animales nuevos, logrando que el nivel de estrés y alteración del sistema inmune se regule para evitar muertes repentinas o enfermedades. Se pueden ver algunos procedimientos a seguir:
@@ -29,12 +29,12 @@
       .col-md-12
         .crd.clr-paleYellow.p-4.mb-4
           .row.align-items-center.justify-content-center.mb-4 
-            .col-md-4
+            .col-lg-4
               .titulo-principal1.color-acento-contenido.mb-0
-                .titulo-principal1__numero
-                  h5.p-1.mb-1.text-white Solicitud de documentos sanitarios vigentes
+                .titulo-principal1__numero.p-1
+                  h5.text-white Solicitud de documentos sanitarios vigentes
               p Revisión de la documentación.
-            .col-md-1
+            .col-lg-1
               figure
                 img(src='@/assets/curso/tema5/documentos.png', alt='Niño en una granja alimentando una cabra')
 
@@ -61,7 +61,7 @@
                 img(src='@/assets/curso/tema5/carro2.png', alt='Niño en una granja alimentando una cabra')
     separador
 
-    #t_5_2.titulo-segundo
+    #t_5_2.titulo-segundo.color-acento-contenido
       .h4 5.2.	Documentos sanitarios oficiales
 
     p.mb-4 Documentos sanitarios oficiales para realizar el transporte de animales vivos con destino ya sea al matadero u otros predios pecuarios, es importante conocerlos ya que al momento de la recepción se deben revisar y verificar su validez, estos son:

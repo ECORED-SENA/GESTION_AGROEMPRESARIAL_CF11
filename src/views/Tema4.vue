@@ -24,7 +24,7 @@
     p.mb-4 Los animales deben ser tratados con respeto y forma compasiva, entre los aspectos del bienestar animal se encuentra la muerte digna en el momento que corresponda y que sea estrictamente necesario terminar con el sufrimiento del animal. 
     p.mb-4 Entre los principios básicos de bienestar animal siempre se habla de la regla de las “cinco libertades”
 
-    .row
+    .row.mb-4
       .col-md-12
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta-avatar
