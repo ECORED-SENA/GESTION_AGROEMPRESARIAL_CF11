@@ -54,7 +54,7 @@
               | Ventiladores.  
     separador
 
-    #t_3_1.titulo-segundo
+    #t_3_1.titulo-segundo.color-acento-contenido
       .h4 3.1.	Funcionamiento
 
     p.mb-4 Siendo estos equipos utilizados por los operarios para brindar al animal el mejor confort y buenas condiciones para su crecimiento y producción según sea el caso. Los equipos deben ser empleados de manera adecuada según la etapa productiva del animal y su condición física.
@@ -131,10 +131,114 @@
           h5 2 - Automáticos de libre alimentación
           p.text-center Comederos en los cuales el animal aprende a liberar el alimento así comiendo cada que el animal tenga hambre o deseos de alimentarse, aplicando así un sistema de alimentación a voluntad del animal.
 
+    .row.mb-3
+      .col-lg-2
+        figure
+          img.p-2(src='@/assets/curso/tema3/subtitulo2.png' alt='Bebederos')
 
-    #t_3_2.titulo-segundo
+    p.mb-4 Los bebederos son fundamentales para la hidratación de los animales, estos deben estar siempre disponibles para cada animal que lo requiera, ya que la falta de hidratación provoca problemas de deshidratación, golpe de calor, baja en el consumo de alimento, etc., teniendo en cuenta lo anterior es un recurso determinante en el sistema productivo por esta razón no puede faltar. Estos bebederos tienen que estar en condiciones óptimas de limpieza, ubicación y altura, para que los animales dependiendo de la fase de desarrollo puedan acceder con facilidad a este, a continuación, se ven sus variedades:
+
+    .row.align-items-center.mb-5
+      .col-md-6
+        .row.justify-content-center   
+          .col-lg-12
+            LineaTiempoD.color-primario
+              .row.align-items-center(numero="1" titulo="Bebedero de cubeta") 
+                .col-md-4
+                  figure
+                    img(src='@/assets/curso/tema3/1.jpg' alt='Bebedero de agua')
+                .col-md-8  
+                  p Recipientes de plásticos, requieren una limpieza continua y recambio de agua manual puede ser utilizado para hidratar varios animales al tiempo.
+
+              .row.align-items-center(numero="2" titulo="Distribuidores de agua autocontenida")
+                .col-md-4
+                  figure
+                    img(src='@/assets/curso/tema3/2.jpg' alt='Distribuidores de agua de plastico')
+                .col-md-8  
+                  p Bebederos de plástico que requieren un llenado manual son muy utilizados en aves, su instalación puede ser colgante, requieren un acostumbramiento del animal.
+
+              .row.align-items-center(numero="3" titulo="Bebederos de campana")
+                .col-md-4
+                  figure
+                    img(src='@/assets/curso/tema3/3.jpg' alt='Bebedero')
+                .col-md-8  
+                  p Son utilizados en los galpones de aves generalmente porque proporcionan agua de bebida a un grupo numeroso de aves, son fáciles de limpiar y de trasladar, se instalan directamente al suministro de agua.
+
+              .row.align-items-center(numero="4" titulo="Bebederos automáticos (tipo mordida) (niple)") 
+                .col-md-4
+                  figure
+                    img(src='@/assets/curso/tema3/4.jpg' alt='Diferentes bebederos automáticos')
+                .col-md-8  
+                  p Son bebederos que son automáticos requieren de un acostumbramiento del animal para aprender a beber se requiere de una calibración especial en presión de agua, flujo y altura es recomendable que la presión se aumente a medida que el animal se desarrolla.
+
+              .row.align-items-center(numero="5" titulo="Bebederos de canal") 
+                .col-md-4
+                  figure
+                    img(src='@/assets/curso/tema3/5.jpg' alt='Vacas bebiendo agua')
+                .col-md-8  
+                  p Son bebederos muy utilizados en ganadería bovina pequeños rumiantes y para hidratar equinos, consta de un canal lleno de agua que puede ser conectado directo al suministro o llenado por los cuidadores.
+
+      .col-md-6
+        figure
+          img.p-2(src='@/assets/curso/tema3/vacas.jpg' alt='Seis vacas bebiendo agua')
+
+    .titulo-principal1.color-acento-contenido.mb-2
+      .titulo-principal1__numero
+        span 
+      h3 Producción
+
+    p.mb-4  Son todos los equipos utilizados para mejorar los factores productivos asegurando las mejores condiciones al animal, brindándole el mayor bienestar y confort para que exprese todo su potencial productor. Dentro de estos equipos se tienen las criadoras o calentadores, los nidales, ordeñadoras mecánicas, ventiladores, siendo estos los tratados a continuación:
+
+    .row.mb-4
+      TabsC.color-primario
+        .py-3.py-md-4(titulo="Criadoras")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Estas criadoras son resistencias que se calientan contando con una campana para focalizar y direccionar el calor y una lámpara infrarroja (de luz blanca) y generan una fuente de calor, esta debe ser debidamente vigilada para evitar sobrecalentamiento y posibles quemaduras o problemas fotosensibilización, son utilizadas en animales recién nacidos.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/tema3/img5.png', alt='Pollos bebes')
+
+        .py-3.py-md-4(titulo="Nidales")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Son utilizados en aves de postura y es allí donde se depositan los huevos, debe de ser cómodos y atractivos para los animales se consideran que sean oscuros para que la gallina lo vea como un lugar seguro y realice la ovoposición, estos nidos pueden ser comunales.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/tema3/img6.png', alt='Pollos bebes')
+
+        .py-3.py-md-4(titulo="Ordeñadoras mecánicas")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p Este equipo permite realizar el ordeño de los animales son muy utilizados en grandes rumiantes como en pequeños, estas máquinas aplican vacío parcial al pezón para lograr extraer la leche, ejerce fuerzas que provoca un masaje en el pezón para aumentar la circulación del mismo evitando congestiones y posibles problemas de mastitis, estos equipos cuentan con un copa de ordeño, pezoneras, bomba de vacío, regulador de vacío, recibidor y bomba para la leche, mangueras de conducción, colector de ordeño, motor, entre otras. Es importante realizar una previa limpieza u desinfección de las diferentes partes para evitar enfermedades o alteraciones en el producto.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/tema3/img7.png', alt='Pollos bebes')
+
+        .py-3.py-md-4(titulo="Ventiladores")
+          .row
+            .col-md-6.mb-4.mb-md-0
+              p En el interior de los diferentes ya sean galpones, cocheras entre otros, se necesita que la temperatura sea la ideal para los animales para dar las mejores condiciones de manejo, la ventilación nos ayuda a regular la temperatura y la humedad en casos de calor extremo, también nos ayuda a la eliminación de los diferentes gases (amoniaco, dióxido de carbono, etc.) que se producen en los sistemas productivos y quedan contenidos en las naves de producción para mantener una ventilación ideal se requiere tener en cuenta los siguientes factores: 
+              p • Velocidad del aire para la etapa productiva. 
+              p • La renovación de aire.  
+              p • Circulación del aire.
+            .col-md-6
+              figure
+                img(src='@/assets/curso/tema3/img8.png', alt='Pollos bebes')
+    separador 
+
+
+    #t_3_2.titulo-segundo.color-acento-contenido
       .h4 3.2.	Técnicas de manejo
 
+    .row.mb-4
+      .col-md-12.col-12
+        .bloque-texto-g1.color-rojo.p-3.p-sm-4.p-md-5
+          .bloque-texto-g1__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema3/cerdos.jpg')})`}"
+          )
+          .bloque-texto-g1__texto.p-4
+            p Las diferentes técnicas de manejo son establecidas por el tipo de equipo usado ya que cada equipo dispone de sus técnicas de manejo, para este es importante determinar para cuantos animales está fabricado el equipo, en caso de los comederos hay unas especificaciones para cuantos animales, de esta manera se tendrá que realizar la cuenta de cuantos comederos se necesita para la producción. Es importante en las técnicas de manejo tener en cuenta las condiciones de limpieza y desinfección de los componentes ya que estos están en directo contacto con los animales y pueden ser causantes de la proliferación de agentes infecciosos.
     
 
 </template>
