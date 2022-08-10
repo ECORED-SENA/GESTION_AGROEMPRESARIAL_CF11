@@ -92,7 +92,7 @@
 
     p.mb-4 Muchos de los animales domésticos que se utilizan para una explotación pecuaria son considerados animales de presa (bovinos, cerdos, équidos aves, caprinos, ovinos y lagomorfos) por lo que su comportamiento puede ser de fuga y hay que tener en cuenta algunas recomendaciones generales:
 
-    .row.mb-4
+    .row.align-items-center.mb-4
       .col-md-6
         ul.lista-ul--color
           li 
@@ -109,10 +109,65 @@
             | Evitar en máxima medida golpes directos e indirectos hacia los animales, se debe tener una manipulación adecuada y eficiente que permita manejo tranquilo en cada explotación.
           li 
             i.fas.fa-angle-right
-            | ●	Manejo adecuado de iluminación y corrientes de aire que puedan generar un cambio en el comportamiento animal, afección a salud y por tanto al bienestar (especial cuidado en explotación avícola y porcícola).
+            | Manejo adecuado de iluminación y corrientes de aire que puedan generar un cambio en el comportamiento animal, afección a salud y por tanto al bienestar (especial cuidado en explotación avícola y porcícola).
   
       .col-md-6
+        figure
+          img(src='@/assets/curso/tema4/1.jpg', alt='Niño en una granja alimentando una cabra')
 
+    .row.align-items-center.mb-4
+      .col-md-6
+        figure.mb-4
+          img(src='@/assets/curso/tema4/2.jpg', alt='Rebaño de ovejas')
+
+      .col-md-6
+        p.mb-4 Cuando se requiera el desplazamiento de animales domésticos de presa, se deben tener en cuenta unas recomendaciones:
+        ul.lista-ul--color
+          li 
+            i.fas.fa-angle-right
+            | Todo el camino debe estar despejado.
+          li 
+            i.fas.fa-angle-right
+            |	Evitar sombras que puedan asustar los animales. 
+          li 
+            i.fas.fa-angle-right
+            |	Se debe dirigir a los animales con calma y en silencio, de requerir ruidos deben ser leves y con voz suave para no alterar y generar nerviosismo.
+          li 
+            i.fas.fa-angle-right
+            |	Los animales deben tener libertad y se debe respetar el tiempo de cada uno, permitir que avancen siguiendo a otros con calma y a un paso normal. 
+          li 
+            i.fas.fa-angle-right
+            |	No se debe presionar a los animales que vienen en la parte de atrás de la manada, según las características de comportamiento animal, en esta posición avanzan animales viejos, muy jóvenes y animales enfermos por lo que si se genera presión los animales no avanzarán por el contrario se presentará un retroceso.
+
+      .row.align-items-center.mb-4
+        .col-md-6
+          ul.lista-ul--color
+            li 
+              i.fas.fa-angle-right
+              |	Muchos animales como los bovinos no avanzarán si ven un callejón sin salida, aparte de esto se rehusarán a caminar si existe poca iluminación en el camino.
+            li 
+              i.fas.fa-angle-right
+              |	Los animales no deben ser manipulados por personal agresivo.
+            li 
+              i.fas.fa-angle-right
+              |	No agredir a los animales, no halar la cola, extremidades o cabeza.
+            li 
+              i.fas.fa-angle-right
+              |	Evitar la presencia de otros animales como los perros que no estén entrenados debidamente y caballos. 
+            li 
+              i.fas.fa-angle-right
+              |	El uso de tábano eléctrico está restringido en animales como bovinos y cerdos adultos (solo debe ser aplicado en los cuartos traseros del animal cuando sea estrictamente necesario) y no es apropiado el uso en animales como equinos, caprinos, ovinos y animales jóvenes. 
+    
+        .col-md-6
+          figure
+            img(src='@/assets/curso/tema4/3.jpg', alt='Animales de granja')
+
+    .row.mb-4
+      .col-lg-12
+        .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
+          p.mb-0 La garantía de un buen trato hacia los animales desde el primer momento que pisen la granja de explotación pecuaria no solo es beneficioso para el animal y la producción si no para un manejo fácil y seguro a través de su vida y sus años productivos, ya que los animales recuerdan experiencias atemorizantes o que les ocasionan dolor y desarrollan comportamientos defensivos para evitarlo. 
+
+    p.mb-4 La garantía de un buen trato hacia los animales desde el primer momento que pisen la granja de explotación pecuaria no solo es beneficioso para el animal y la producción si no para un manejo fácil y seguro a través de su vida y sus años productivos, ya que los animales recuerdan experiencias atemorizantes o que les ocasionan dolor y desarrollan comportamientos defensivos para evitarlo. 
 
 </template>
 
