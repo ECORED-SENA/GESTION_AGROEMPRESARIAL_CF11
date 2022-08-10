@@ -29,45 +29,67 @@
     .row.justify-content-center.mb-4
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Glándula mamaria rumiantes")
-          .col-md-3
+          .col-md-12
+            p.mb-4 Está compuesta por 4 cuartos completamente independientes, dos delanteros y dos traseros. Los cuartos traseros tienen mayor capacidad de producción hasta aproximadamente el 60% y un 40% los cuartos delanteros; estos cuartos están separados por tejido conectivo no definido y los cuartos derechos e izquierdos están separados por un ligamento suspensorio medio. No existe la posibilidad de compartir leche de un cuarto a otro, existe la probabilidad de intercambio sanguíneo. Posición inguinal. 
+            p Cada cuarto finaliza en un pezón que tiene una longitud aproximada de 7 a 8cm, estos pezones están constituidos por 4 capas: Epidermis, dermis, músculo y endotelio.
+          .col-md-12
             figure
-              img(src='@/assets/curso/tema2/imgslyder.png', alt='Granja')
-          .col-md-9.mb-4.mb-md-0
-            p Se recomienda que según el tipo de explotación avícula los galpones deben construirse en un terreno con buen drenaje y una corriente natural, donde las corrientes de aire no sean tan fuertes se recomienda aprovechar si hay árboles para así regular la temperatura y utilizarlos de barrera para romper el viento. Debe estar en un lugar de fácil supervisión lejos del ruido y cualquier causal de estrés para el animal lejos de las aguas estancadas o tierras con tendencia a inundarse. 
+              img(src='@/assets/curso/tema8/1.jpg', alt='Granja')
+          
 
         .row.align-items-center(titulo="Glándula mamaria de la yegua")
-          .col-md-12.mb-md-2
-            p La orientación del galpón es importante según la zona en la que se va a construir y las condiciones climáticas de la misma, ya sea para clima frío y templado o para clima cálido.
-          .col-md-3.mb-md-2
-            figure
-              img(src='@/assets/curso/tema2/imgslyder1.png', alt='Orientación para clima frío y templado')
-          .col-md-9.mb-md-2
-            h5.mb-3 Clima frio y templado:
-            p.mb-5 Este clima se considera desde los 15 y 20 grados centígrados donde el eje más largo del galpón se direccione de norte a sur esto para lograr una mayor temperatura provocada por la luz solar que el este permanentemente se posiciona sobre el galpón.
-            h5.mb-3 Clima cálido:
-            p.mb-5 Las condiciones de clima cálido se presentan a temperaturas mayores de los 20 grados centígrados donde el eje del galpón se debe ubicar de manera de oriente a occidente para así tener periodos de sombra y regular un poco la temperatura.
+          .col-md-7
+            p.mb-4 La yegua posee dos glándulas mamarias que al igual que en la vaca están separadas y no hay intercambio de leche solo de flujo sanguíneo; las glándulas son completamente independientes, el pezón de la yegua es en forma de cilindro y suele ser más pigmentada.
+            p Posee dos ligamentos suspensorios que son lateral (mayor soporte de la glándula) y medial; la ubre tiene una capa delgada de piel con escaso pelo. Posición inguinal.
 
+          .col-md-5
+            figure
+              img(src='@/assets/curso/tema8/2.jpg', alt='Orientación para clima frío y templado')
+          
         .row.align-items-center(titulo="Glándula mamaria en cerdas")
-          .col-md-12.mb-md-4
-            p Los materiales empleados en la construcción de galpones generalmente son estructuras elaboradas con hierro y hormigón o ladrillos en algunas unidades pecuarias se emplean mallas de alambre para ayudar a la eliminación de gases y evaporación del calor. 
-            p Los galpones en la actualidad se pueden dividir en dos clases o tipos dependiendo su tecnología aplicada y características estos son: los galpones tradicionales y los galpones mucho más modernos con tecnología para el control y confort medioambiental que son galpones de ambiente controlado.
+          .col-md-7
+            p.mb-4 Se encuentran formando dos líneas paralelas sobre la pared ventral del cuerpo es decir de posición toracolumbar.
+            p Se unen al cuerpo por medio de tejido adiposo y conectivo por medio de la fascia. Son 2 pares de glándulas torácicas, cuatro ventrales y un par inguinal para un total de 12 a 14 glándulas. Cada pezón está compuesto por una glándula y cada pezón tiene dos salidas al exterior. 
 
-          .col-md-3.mb-4
+          .col-md-5
             figure
-              img(src='@/assets/curso/tema2/imgslyder2.png', alt='Galpón de pollos')
-          .col-md-9
-            h5 Galpones tradicionales:
-            p Son los más comunes y antiguos donde se alojan los animales en ocasiones, solo se cuenta, con medios de aireación por ventiladores, el uso de cortinas para controlar las condiciones ambientales y generar un mejor ambiente para el animal.
-          .col-md-3
-            figure
-              img(src='@/assets/curso/tema2/imgslyder3.png', alt='Galpón con trabajador')
-          .col-md-9
-            h5 Galpones de ambiente controlado:
-            p Son galpones con un sistema tecnológico de regulación e información contando con un sistema controlado de ventilación, refrigeración por evaporación o aspersión de agua para generar un ambiente más fresco, o sistemas de calefacción automática para generar un ambiente más cálido mucho más utilizado en el manejo del pollito. Este también cuenta con sistema de iluminación para brindar al pollo una luz constante así eliminado los factores negativos del fotoperiodo.
+              img(src='@/assets/curso/tema8/3.jpg', alt='Orientación para clima frío y templado')
         
-        .row.align-items-center(titulo="Duración de la lactancia")      
+        .row.align-items-center.justify-content-center(titulo="Duración de la lactancia")
+          .col-md-12 
+            p Es el tiempo aproximado que se espera que un animal tenga de producción de leche, se debe tener en cuenta la raza y condiciones ambientales.
+          .col-md-8
+            .tabla-a
+              table
+                thead
+                  tr
+                    th.text-center Animal
+                    th.text-center Duración
+                tbody
+                  tr
+                    td.text-center Vaca
+                    td.text-center 305 días
+                  tr
+                    td.text-center Yegua
+                    td.text-center 11 - 12 meses
+                  tr
+                    td.text-center Oveja
+                    td.text-center 6 - 7 meses
+                  tr
+                    td.text-center Cabra
+                    td.text-center 7 - 8 meses (sistema intensivo)
+                  tr
+                    td.text-center Cerda
+                    td.text-center 21 a 28 días
 
+    .titulo-principal1.color-acento-contenido.mb-2
+      .titulo-principal1__numero
+        span 
+      h3 Anomalías de las glándulas mamarias
 
+    p.mb-4 Se pueden agrupar en secciones por el tipo de anomalía y origen, como se ve a continuación:
+
+    SlyderB.vaca.p-4.mb-5(:datos="datosSlyder")
 
 
 </template>
@@ -76,7 +98,32 @@
 export default {
   name: 'Tema3',
   data: () => ({
-    // variables de vue
+    datosSlyder: [
+      {
+        titulo: 'Malformaciones',
+        texto:
+          'Las malformaciones se pueden producir en diferentes partes de la glándula mamaria, pezón, conductos, esfínteres, entre otros. <br></br>Pezones supernumerarios: común en cerdas.<br></br>Polimastia: mayor número de glándulas mamarias.<br></br>Ausencia de pezón (Atelia).',
+        imagen: require('@/assets/curso/tema8/tetas1.jpg'),
+      },
+      {
+        titulo: 'Alteraciones (tamaño y estructura)',
+        texto:
+          'Hiperplasia mamaria<br></br>Crecimiento descontrolado de células dentro de la glándula mamaria.<br></br>Quistes<br></br>Sáculos que son llenados por presencia de líquido debido a una salida secretora obstruida.<br></br>Inflamación<br></br>La inflamación de la glándula mamaria es la afección más común en animales, existen de diferentes tipos por el origen que tenga, entre los más comunes están:<br></br>Tumores<br></br>De origen conectivo y origen epitelial como adenomas y carcinomas.<br></br>edema y endurecimiento, se observan cambios físicos en la leche.',
+        imagen: require('@/assets/curso/tema8/tetas2.jpg'),
+      },
+      {
+        titulo: '',
+        texto:
+          'Mastitis aguda<br></br>Más frecuente después del parto y se puede presentar en cualquier momento, puede deberse a un comienzo de algo crónico, se pueden evidenciar cambios físicos en la leche. Puede causar a la hembra fiebre y anorexia.<br></br>Mastitis crónica<br></br>En ocasiones es debido a mastitis agudas no tratadas correctamente, se puede observar edema y endurecimiento, se observan cambios físicos en la leche.<br></br>Mastitis granulomatosa<br></br>Se evidencia como tejido conectivo fibroso y puede ser a causa de diferentes bacterias como Staphilococcus aureus, Actinobacillus lignierensii y amitis micóticas Aspergillus fumigatus.',
+        imagen: require('@/assets/curso/tema8/tetas3.jpg'),
+      },
+      {
+        titulo: 'Trastornos circulatorios',
+        texto:
+          'Edema<br></br>Empieza siendo fisiológico y puede volverse patológico, causando un endurecimiento irreversible de la ubre, obstruyendo ductos principales para la segregación de la leche.<br></br>Hemorragia<br></br>Pueden ser superficiales o profundas, en las superficiales son hematomas generados por golpes pequeños o petequias que se suelen desvanecer con el paso de los días, las hemorragias profundas se dan por traumatismos severos y son difíciles de controlar.',
+        imagen: require('@/assets/curso/tema8/tetas4.jpg'),
+      },
+    ],
   }),
   mounted() {
     this.$nextTick(() => {
