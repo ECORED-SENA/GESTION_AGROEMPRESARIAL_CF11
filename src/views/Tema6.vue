@@ -29,7 +29,7 @@
 
     .row.justify-content-center.mb-4 
       .col-md-6
-        .crd.clr-paleYellow.p-4.mb-4.align-items-center
+        .crd.clr-paleYellow6.p-4.mb-4.align-items-center
           p.mb-4 Las diferentes actividades de manejo animal requieren de una programación, dependiendo de la práctica de manejo que se vaya a realizar, es importante tener en cuenta que estas actividades son determinadas principalmente por el tipo de sistema productivo y la especie a tratar, cabe tener en cuenta también el tiempo de producción del animal para así determinar cada cuanto tiempo es requerida la actividad. 
           p.mb-4 Las actividades como el pesaje en las aves se realizan cada 15 días o cada 30 días dependiendo el sistema productivo, en el ganado cada 60 días, y en las demás especies generalmente cada 30 días, las actividades de despique en las aves ponedoras se realiza entre los primeros 8 a12 días y posteriormente se hace un refuerzo entre la semana 10 a la12 más o menos, en relación con el despezuñado, el primer recorte se realiza a los 3 meses de edad y se repite cada 3 y 6 meses, dependiendo del tipo de explotación. 
       .col-md-6
@@ -52,31 +52,31 @@
     p.mb-4 Es importante para la atención del parto reconocer los signos característicos de una gestación para así aprender a identificar el animal que se encuentra en este estado.
 
     .row.mb-4
-      .col-md-12
+      .col-md-12.col-12
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/1.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa4.p-4
               p.text-center <b>Agrandamiento de la ubre</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/2.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa4.p-4
               p.text-center <b>Tumefacción vulvar</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/3.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa4.p-4
               p.text-center <b>Agrandamiento de pezones y venas mamarias.</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/4.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa4.p-4
               p.text-center <b>Agrandamiento del abdomen llegándose a volver muy prominente y tenso. </b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/5.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa4.p-4
               p.text-center <b>En algunos casos expulsión de leche por la ubre.</b>
 
       .row.mb-4.align-items-center.justify-content-center.mb-4
@@ -99,36 +99,35 @@
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/6.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa5.p-4
               p.text-center <b>Buscar un lugar adecuado para poder trabajar</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/7.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa5.p-4
               p.text-center <b>Si se requiere sujetar el animal.</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/8.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa5.p-4
               p.text-center <b>Limpiar la zona vulvar.</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/9.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa5.p-4
               p.text-center <b>Colocarse guantes.</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/10.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa5.p-2
               p.text-center <b>Iniciar la evaluación de la situación y evaluar si el animal requiere la intervención. </b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema6/11.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa5.p-4
               p.text-center <b>Siempre conserve la calma y precaución.</b>
             
       p.mb-4 Existen casos donde la hembra por sus propios medios no puede expulsar el feto y el parto se complica, esto es llamado parto distócico, en ese momento el operario puede realizar una técnica la cual consisten en introducir la mano para intentar empujar el feto para facilitar la salida, puede presentarse por anormalidades del feto, tamaño excesivamente grande, o problemas de posicionamiento fetal. 
-      p.mb-4 
 
       .row.mb-4
         .col-md-12.col-12
@@ -214,13 +213,13 @@
           figure
             img.p-2(src='@/assets/curso/tema6/subtitulo4.png' alt='despique')
 
-      .row.align-items-center.justify-content-center.mb-4
+      .row.justify-content-center.mb-4
         .col-md-6
-          figure
+          figure.align-items-center
             img(src='@/assets/curso/tema6/img8.jpg' alt='limpieza en las tetas de la vaca')
         .col-md-6
           p.mb-4 Esta técnica consiste en el recorte del tejido corneo sobrante que crece por condiciones normales pero la falta de desgaste del animal genera que este crezca más de lo normal causando alteraciones en el caminar acumulación de material que posteriormente se transforma en una patología mucho más complicada, por ende, se realiza el corte de las mimas.
-          .crd.clr-paleYellow.p-4.mb-4.align-items-center
+          .crd.clr-paleYellow7.p-4.mb-4.align-items-center
             p.mb-0 Este recorte debe hacerse con mucho cuidado solo cortando la parte que crece en exceso y se hace de manera progresiva, en caso de ver sangrado detener la práctica.
 
 

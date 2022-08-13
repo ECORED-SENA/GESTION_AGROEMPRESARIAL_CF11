@@ -31,7 +31,7 @@
 
     .row.justify-content-center.mb-4
       .col-md-4.align-items-center
-        .crd.clr-paleYellow.p-4.mb-4
+        .crd.clr-paleYellow-1.p-4.mb-4
           p.mb-0 Los diferentes tipos de instalaciones dependen principalmente de la explotación pecuaria y del recurso de inversión, existen alojamientos tradicionales en los cuales su inversión es mínima y se utilizan elementos propios de los predios pecuarios como lo son guaduas, madera, entre otros para darle un control y cuidado al animal, por otro lado están los alojamientos sistematizados en los cuales su infraestructura es mucho más costosa y se logra un control de las condiciones medioambientales con ayuda de la tecnología, logrando así un mayor bienestar animal y eliminando todas las condiciones de estrés. 
       .col-md-8
         figure
@@ -216,27 +216,27 @@
 
     .row.mb-5
       .col-sm-6.col-xl-4.mb-3.mb-xl-0
-        .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
+        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
-          .tarjeta-flip__contenedor
+          .tarjeta-flip__contenedor.color-2
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/flip1.png')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
+            .tarjeta-flip__contenido.p-5.p-xl-5
               h1 Mantenimiento preventivo
               p Este tipo de tareas tiene como objetivo principal reducir todos los riesgos, fallas y posibles daños en las instalaciones, es importante tener en cuenta las programaciones de mantenimiento de cada producción.
 
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.color-secundario(@mouseover="indicadorTarjetaFlip = false")
-          .tarjeta-flip__contenedor
+        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
+          .tarjeta-flip__contenedor.color-2
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/flip2.png')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
+            .tarjeta-flip__contenido.p-5.p-xl-5
               h1 Mantenimiento correctivo
               p El mantenimiento correctivo consiste en reparar la avería después de producirse, es importante realizarla lo más rápido posible después de que sucede ya que si es una avería que afecte un área productiva importante puede causar retrasos importantes y por ende perdidas económicas considerables.
 
       .col-sm-6.col-xl-4.mb-4.mb-sm-0
-        .tarjeta.tarjeta-flip.color-acento-contenido(@mouseover="indicadorTarjetaFlip = false")
-          .tarjeta-flip__contenedor
+        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
+          .tarjeta-flip__contenedor.color-2
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/flip3.png')})`}")
-            .tarjeta-flip__contenido.p-4.p-xl-5
+            .tarjeta-flip__contenido.p-5.p-xl-5
               h1 Mantenimiento predictivo
               p La importancia de este tipo de mantenimiento es la recopilación y análisis de datos que permiten realizar estrategias de mantenimiento, si se detectan datos o valores que para su análisis pueden ser raros o de cuidado se puede considerar un mantenimiento preventivo.
 
@@ -317,7 +317,7 @@
     .row 
       .col-md-6
         .crd.clr-paleYellow2.p-4.mb-4
-          p.mb-0 <b>a)</b> La localización de cada nave en el contexto global de las edificaciones de la granja con objeto de minimizar y facilitar el trasiego de animales dentro y entre naves. 
+          p.mb-4 <b>a)</b> La localización de cada nave en el contexto global de las edificaciones de la granja con objeto de minimizar y facilitar el trasiego de animales dentro y entre naves. 
       .col-md-6
         .crd.clr-paleYellow3.p-4.mb-4
           p.mb-0 <b>b)</b> El volumen y, especialmente, la superficie construida total y útil para los animales, que junto al tipo de suelo, el tamaño de los grupos y a la distribución del utillaje, ha de constituir la base para el control físico y social de los animales.

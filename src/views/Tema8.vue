@@ -59,12 +59,12 @@
           .col-md-12 
             p Es el tiempo aproximado que se espera que un animal tenga de producción de leche, se debe tener en cuenta la raza y condiciones ambientales.
           .col-md-8
-            .tabla-a
+            .tabla-b
               table
                 thead
                   tr
-                    th.text-center Animal
-                    th.text-center Duración
+                    th.text-center.text-white Animal
+                    th.text-center.text-white Duración
                 tbody
                   tr
                     td.text-center Vaca

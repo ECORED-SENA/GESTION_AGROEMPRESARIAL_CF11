@@ -29,27 +29,27 @@
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta-avatar
             img(src='@/assets/curso/tema4/1.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa3.p-4
               p.text-center <b>Libre de hambre, sed y malnutrición</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema4/2.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa3.p-4
               p.text-center <b>Libre de temor y angustia</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema4/3.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa3.p-4
               p.text-center <b>Libre de incomodidades como molestias físicas y térmicas</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema4/4.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa3.p-4
               p.text-center <b>Libre de dolor y enfermedad</b>
 
           .tarjeta-avatar
             img(src='@/assets/curso/tema4/5.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa3.p-4
               p.text-center <b>Libre expresión en comportamiento animal natural</b>
 
     p.mb-4 Todo animal que cumpla una función deportiva, trabajo, producción, investigación, entre otros, debe tener garantía de buena salud y condición corporal además de comodidades básicas de vida y eso debe ser un deber ético de las personas que se hacen cargo del animal. 
@@ -114,6 +114,9 @@
       .col-md-6
         figure
           img(src='@/assets/curso/tema4/1.jpg', alt='Niño en una granja alimentando una cabra')
+    
+    .row.mb-2
+      .linearoja
 
     .row.align-items-center.mb-4
       .col-md-6

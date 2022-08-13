@@ -27,7 +27,7 @@
 
     .row 
       .col-md-12
-        .crd.clr-paleYellow.p-4.mb-4
+        .crd.clr-paleYellow5.p-4.mb-4
           .row.align-items-center.justify-content-center.mb-4 
             .col-lg-4
               .titulo-principal1.color-acento-contenido.mb-0
@@ -37,7 +37,10 @@
             .col-lg-1
               figure
                 img(src='@/assets/curso/tema5/documentos.png', alt='Niño en una granja alimentando una cabra')
-
+          
+          .row.justify-content-center
+            .col-md-10  
+              .lineamarilla
 
           .row.align-items-center.justify-content-center.mb-4
             .col-md-5
@@ -49,6 +52,9 @@
                   h5.p-1.mb-1.text-white Verificación del medio de transporte y condición animal
               p Se realiza una verificación visual de las condiciones en la que fueron transportados los animales evaluando conjuntamente a los animales para descartar muertes, laceraciones, heridas, entre otras injurias causadas en el viaje.
 
+          .row.justify-content-center
+            .col-md-10  
+              .lineamarilla
 
           .row.align-items-center.justify-content-center.mb-4
             .col-md-5
@@ -67,7 +73,7 @@
     p.mb-4 Documentos sanitarios oficiales para realizar el transporte de animales vivos con destino ya sea al matadero u otros predios pecuarios, es importante conocerlos ya que al momento de la recepción se deben revisar y verificar su validez, estos son:
 
     .tarjeta.bg1.p-4.mb-5
-      PasosB.color-acento-contenido
+      PasosB.color-acento-botones
         .row.align-items-center(titulo="").p-4
           .col-lg-7
             h4 1. Registro de usuario ante el sistema de identificación

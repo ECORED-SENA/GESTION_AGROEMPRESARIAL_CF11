@@ -16,31 +16,31 @@
           h5 Figura 1
           span Clases de equipos e implementos
       
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
       .col-md-5
         figure
           img(src='@/assets/curso/tema3/img1.png', alt='Alimentación')
       .col-md-3
-        .crd.clr-paleYellow.align-items-center.p-4
+        .crd.clr-amarillo.p-4
           ul.lista-ul--color
-            li 
+            li.mb-3 
               i.fas.fa-angle-right
               | Comederos. 
-            li 
+            li.mb-3 
               i.fas.fa-angle-right
               | Bebederos. 
             li 
               i.fas.fa-angle-right
               | Distribución del alimento.
 
-    .row.justify-content-center
+    .row.justify-content-center.align-items-center
       .col-md-5.mb-md-0
         figure
           img(src='@/assets/curso/tema3/img2.png', alt='Alimentación')
       .col-md-3.mb-md-0
-        .crd.clr-paleYellow.align-items-center.p-4
+        .crd.clr-rosa.p-4
           ul.lista-ul--color
-            li 
+            li
               i.fas.fa-angle-right
               | Criadoras.
             li 
@@ -82,30 +82,30 @@
     p.mb-4 Estos comederos pueden ser individuales o colectivos según sea el sistema productivo.
 
     SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-      .tarjeta.color-rosa.p-4
+      .tarjeta.color-rosa2.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-9
             img(src='@/assets/curso/tema3/1.png' alt='Gallina')
         h2.text-center 1 - Bandeja o plato
         p.text-center Se utiliza para alimentar animales pequeños en fase de aprendizaje, se recomienda no usar en grupos grandes ya que puede causar peleas.
 
-      .tarjeta.color-rosa.p-4
+      .tarjeta.color-rosa2.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-9
             img(src='@/assets/curso/tema3/2.png' alt='Caballos')
         h2.text-center 2 - En canoa
         p.text-center Se utiliza para alimentar animales pequeños en fase de aprendizaje, se recomienda no usar en grupos grandes ya que puede causar peleas.
 
-      .tarjeta.color-rosa.p-4
+      .tarjeta.color-rosa2.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-9
             img(src='@/assets/curso/tema3/3.png' alt='Galpón de pollos')
         h2.text-center 3 - Longitudinales o lineales
         p.text-center Se utilizan para la alimentación de grandes grupos de animales donde se brinda el alimento de manera uniformes para que todos los animales consuman igual dentro de este tipo de comedero puede haber divisiones entre animales para evitar riñas y así segura el consumo de los animales más tímidos.
 
-      .tarjeta.color-rosa.p-4
+      .tarjeta.color-rosa2.p-4
         .row.justify-content-center.mb-3
-          .col-8
+          .col-9
             img(src='@/assets/curso/tema3/4.png' alt='Comedero de pollos')
         h2.text-center 4 - Con tolva
         p.text-center Se utiliza para grandes grupos de animales y generalmente en producciones intensivas ya que su funcionamiento es el disponer alimento en la tolva y que por gravedad y consumo de los animales este vaya llenando la bandeja inferior así teniendo una disponibilidad de alimento mucho más constante y permanente.
@@ -142,7 +142,7 @@
       .col-md-6
         .row.justify-content-center   
           .col-lg-12
-            LineaTiempoD.color-primario
+            LineaTiempoD.color-linea
               .row.align-items-center(numero="1" titulo="Bebedero de cubeta") 
                 .col-md-4
                   figure
@@ -192,7 +192,7 @@
     .row.mb-4
       TabsC.color-primario
         .py-3.py-md-4(titulo="Criadoras")
-          .row
+          .row.p-4
             .col-md-6.mb-4.mb-md-0
               p Estas criadoras son resistencias que se calientan contando con una campana para focalizar y direccionar el calor y una lámpara infrarroja (de luz blanca) y generan una fuente de calor, esta debe ser debidamente vigilada para evitar sobrecalentamiento y posibles quemaduras o problemas fotosensibilización, son utilizadas en animales recién nacidos.
             .col-md-6
@@ -200,7 +200,7 @@
                 img(src='@/assets/curso/tema3/img5.png', alt='Pollos bebes')
 
         .py-3.py-md-4(titulo="Nidales")
-          .row
+          .row.p-4
             .col-md-6.mb-4.mb-md-0
               p Son utilizados en aves de postura y es allí donde se depositan los huevos, debe de ser cómodos y atractivos para los animales se consideran que sean oscuros para que la gallina lo vea como un lugar seguro y realice la ovoposición, estos nidos pueden ser comunales.
             .col-md-6
@@ -208,7 +208,7 @@
                 img(src='@/assets/curso/tema3/img6.png', alt='Pollos bebes')
 
         .py-3.py-md-4(titulo="Ordeñadoras mecánicas")
-          .row
+          .row.p-4
             .col-md-6.mb-4.mb-md-0
               p Este equipo permite realizar el ordeño de los animales son muy utilizados en grandes rumiantes como en pequeños, estas máquinas aplican vacío parcial al pezón para lograr extraer la leche, ejerce fuerzas que provoca un masaje en el pezón para aumentar la circulación del mismo evitando congestiones y posibles problemas de mastitis, estos equipos cuentan con un copa de ordeño, pezoneras, bomba de vacío, regulador de vacío, recibidor y bomba para la leche, mangueras de conducción, colector de ordeño, motor, entre otras. Es importante realizar una previa limpieza u desinfección de las diferentes partes para evitar enfermedades o alteraciones en el producto.
             .col-md-6
@@ -216,7 +216,7 @@
                 img(src='@/assets/curso/tema3/img7.png', alt='Pollos bebes')
 
         .py-3.py-md-4(titulo="Ventiladores")
-          .row
+          .row.p-4
             .col-md-6.mb-4.mb-md-0
               p En el interior de los diferentes ya sean galpones, cocheras entre otros, se necesita que la temperatura sea la ideal para los animales para dar las mejores condiciones de manejo, la ventilación nos ayuda a regular la temperatura y la humedad en casos de calor extremo, también nos ayuda a la eliminación de los diferentes gases (amoniaco, dióxido de carbono, etc.) que se producen en los sistemas productivos y quedan contenidos en las naves de producción para mantener una ventilación ideal se requiere tener en cuenta los siguientes factores: 
               p • Velocidad del aire para la etapa productiva. 

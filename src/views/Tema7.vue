@@ -24,12 +24,12 @@
           h5 Tabla 3.
           span Gestación por especie
       .col-md-8
-        .tabla-a
+        .tabla-b
           table
             thead
               tr
-                th.text-center Especie
-                th.text-center Tiempo de duración
+                th.text-center.text-white Especie
+                th.text-center.text-white Tiempo de duración
             tbody
               tr
                 td.text-center Bovino 
@@ -56,12 +56,12 @@
           h5 Tabla 4.
           span Periodo de presentación de celo
       .col-md-8
-        .tabla-a
+        .tabla-b
           table
             thead
               tr
-                th.text-center Especie
-                th.text-center Periodo de presentación
+                th.text-center.text-white Especie
+                th.text-center.text-white Periodo de presentación
             tbody
               tr
                 td.text-center Bovinos 
@@ -83,38 +83,38 @@
 
     .row.justify-content-center.mb-4
       .col-md-5
-        h5 Métodos para el diagnóstico y seguimiento de la gestación:
+        h5.text-center Métodos para el diagnóstico y seguimiento de la gestación:
 
     .row.mb-4
       .col-md-12
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-          .tarjeta-avatar
+          .tarjeta-avatar1
             img(src='@/assets/curso/tema7/1.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa6.p-2
               h5.text-center La ausencia de celo
               p.text-center Si el celo no se repite quiere decir que el animal está preñado.
 
-          .tarjeta-avatar
+          .tarjeta-avatar1
             img(src='@/assets/curso/tema7/2.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa6.p-2
               h5.text-center Palpación
               p.text-center Se utiliza para detectar y realizar seguimiento de la preñez.
 
-          .tarjeta-avatar
+          .tarjeta-avatar1
             img(src='@/assets/curso/tema7/3.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa6.p-2
               h5.text-center Progesterona en leche
               p.text-center estas pruebas son útiles para realizar seguimiento a animales con problemas de preñez, al momento de la monta o inseminación los niveles deben estar bajos y después de 18 a 21 días estas deben aumentar.
 
-          .tarjeta-avatar
+          .tarjeta-avatar1
             img(src='@/assets/curso/tema7/4.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa6.p-2
               h5.text-center Crecimiento fetal
               p.text-center si bien es un método de diagnóstico muy tardío, se puede utilizar como signo de diagnóstico. Teniendo en cuanta que la gran parte del crecimiento fetal se da en los últimos meses.
 
-          .tarjeta-avatar
+          .tarjeta-avatar1
             img(src='@/assets/curso/tema7/5.png' alt='AvatarTop')
-            .tarjeta.color-primario.p-4
+            .tarjeta.color-rosa6.p-2
               h5.text-center Análisis de progesterona en sangre
               p.text-center los análisis de sangre son métodos muy utilizados en granjas o predios muy tecnificados en este se evidencia los niveles de progesterona en sangre los cuales en caso de una preñez tienen que aumentar y permanecer elevados.
 
