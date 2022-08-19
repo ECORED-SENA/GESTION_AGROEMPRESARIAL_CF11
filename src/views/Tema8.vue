@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 8
-      h1  Equipos e Implementos
+      h1  Lactación
     
     .row.mb-4
       .col-md-12.col-12
@@ -102,25 +102,25 @@ export default {
       {
         titulo: 'Malformaciones',
         texto:
-          'Las malformaciones se pueden producir en diferentes partes de la glándula mamaria, pezón, conductos, esfínteres, entre otros. <br></br>Pezones supernumerarios: común en cerdas.<br></br>Polimastia: mayor número de glándulas mamarias.<br></br>Ausencia de pezón (Atelia).',
+          'Las malformaciones se pueden producir en diferentes partes de la glándula mamaria, pezón, conductos, esfínteres, entre otros. <br></br><b>Pezones supernumerarios:</b> común en cerdas.<br></br><b>Polimastia:</b> mayor número de glándulas mamarias.<br></br><b>Ausencia de pezón</b> (Atelia).',
         imagen: require('@/assets/curso/tema8/tetas1.jpg'),
       },
       {
         titulo: 'Alteraciones (tamaño y estructura)',
         texto:
-          'Hiperplasia mamaria<br></br>Crecimiento descontrolado de células dentro de la glándula mamaria.<br></br>Quistes<br></br>Sáculos que son llenados por presencia de líquido debido a una salida secretora obstruida.<br></br>Inflamación<br></br>La inflamación de la glándula mamaria es la afección más común en animales, existen de diferentes tipos por el origen que tenga, entre los más comunes están:<br></br>Tumores<br></br>De origen conectivo y origen epitelial como adenomas y carcinomas.<br></br>edema y endurecimiento, se observan cambios físicos en la leche.',
+          '<b>Hiperplasia mamaria</b><br></br>Crecimiento descontrolado de células dentro de la glándula mamaria.<br></br><b>Quistes</b><br></br>Sáculos que son llenados por presencia de líquido debido a una salida secretora obstruida.<br></br><b>Inflamación</b><br></br>La inflamación de la glándula mamaria es la afección más común en animales, existen de diferentes tipos por el origen que tenga, entre los más comunes están:<br></br><b>Tumores</b><br></br>De origen conectivo y origen epitelial como adenomas y carcinomas.<br></br>edema y endurecimiento, se observan cambios físicos en la leche.',
         imagen: require('@/assets/curso/tema8/tetas2.jpg'),
       },
       {
         titulo: '',
         texto:
-          'Mastitis aguda<br></br>Más frecuente después del parto y se puede presentar en cualquier momento, puede deberse a un comienzo de algo crónico, se pueden evidenciar cambios físicos en la leche. Puede causar a la hembra fiebre y anorexia.<br></br>Mastitis crónica<br></br>En ocasiones es debido a mastitis agudas no tratadas correctamente, se puede observar edema y endurecimiento, se observan cambios físicos en la leche.<br></br>Mastitis granulomatosa<br></br>Se evidencia como tejido conectivo fibroso y puede ser a causa de diferentes bacterias como Staphilococcus aureus, Actinobacillus lignierensii y amitis micóticas Aspergillus fumigatus.',
+          '<b>Mastitis aguda</b><br></br>Más frecuente después del parto y se puede presentar en cualquier momento, puede deberse a un comienzo de algo crónico, se pueden evidenciar cambios físicos en la leche. Puede causar a la hembra fiebre y anorexia.<br></br><b>Mastitis crónica</b><br></br>En ocasiones es debido a mastitis agudas no tratadas correctamente, se puede observar edema y endurecimiento, se observan cambios físicos en la leche.<br></br><b>Mastitis granulomatosa</b><br></br>Se evidencia como tejido conectivo fibroso y puede ser a causa de diferentes bacterias como Staphilococcus aureus, Actinobacillus lignierensii y amitis micóticas Aspergillus fumigatus.',
         imagen: require('@/assets/curso/tema8/tetas3.jpg'),
       },
       {
         titulo: 'Trastornos circulatorios',
         texto:
-          'Edema<br></br>Empieza siendo fisiológico y puede volverse patológico, causando un endurecimiento irreversible de la ubre, obstruyendo ductos principales para la segregación de la leche.<br></br>Hemorragia<br></br>Pueden ser superficiales o profundas, en las superficiales son hematomas generados por golpes pequeños o petequias que se suelen desvanecer con el paso de los días, las hemorragias profundas se dan por traumatismos severos y son difíciles de controlar.',
+          '<b>Edema</b><br></br>Empieza siendo fisiológico y puede volverse patológico, causando un endurecimiento irreversible de la ubre, obstruyendo ductos principales para la segregación de la leche.<br></br><b>Hemorragia</b><br></br>Pueden ser superficiales o profundas, en las superficiales son hematomas generados por golpes pequeños o petequias que se suelen desvanecer con el paso de los días, las hemorragias profundas se dan por traumatismos severos y son difíciles de controlar.',
         imagen: require('@/assets/curso/tema8/tetas4.jpg'),
       },
     ],

@@ -87,8 +87,7 @@
           p.mb-4 Después de reconocer los animales en estado de gestación se debe realizar una marcación, separación o marcación clara para identificar al animal y realizar un seguimiento para cuando esté próximo a parir y realizar la asistencia del parto. 
           p.mb-4 Los animales próximos a parir se evidencian intranquilos, se acuestan, se levantan, de 12 a 14 horas antes del parto se observan buscando lugares tranquilos, oscuros, rincones, en ocasiones realizan o hacen nido.
           .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
-            h5 Protocolos
-            p.mb-0 Los protocolos de manejo animal son el conjunto de reglas o lineamientos que rigen las actividades realizadas para el manejo animal, este protocolo debe ser determinado a partir de la especie a manejar y el sistema productivo, es importante tener en cuenta los requisitos, descripción de la actividad, el nivel, los criterios de cumplimiento.
+            p.mb-0 Para la atención del parto se requiere conocer las fases del parto donde abarcan diferentes procesos fisiológicos primero se realiza una preparación por parte del animal próximo a parir que puede tener un tiempo de 1-4 horas, posterior a este se realiza una dilatación con un periodo de tiempo más o menos de 2-4 horas, y finalmente una fase de expulsión donde el o los fetos salen con una duración más o menos de 2-4 horas estos tiempos son relativos ya que se tienen en cuenta las variables raciales y de especie.
 
     .row.justify-content-center.mb-4
       .col-md-8
@@ -166,8 +165,8 @@
             img(src='@/assets/curso/tema6/img5.jpg' alt='ordeño de vaca')
 
         .col-md-6
-          p.mb-4 Dentro de los procedimientos de manejo animal encontramos uno muy utilizado para evaluar factores productivos tanto de los animales como del predio pecuario este es el pesaje, este consiste por medio de básculas determinar el peso de los animales, para así evaluar diferentes factores de crecimiento y ganancias de peso.
-          p.mb-0 Es importante disponer de una báscula o una cinta biométrica, la importancia de este radica en la identificación de animales o lotes donde sus ganancias son pobres y no son productivos siempre se deben realizar muestras significativas en caso de no poder realizar el pesaje de todos los animales este se usa principalmente en las aves ya que el crecimiento de estas es muy parejo bajo buenas condiciones de alimentación.
+          p.mb-4 Esta labor se conoce como la extracción de leche de las ubres de los animales, siendo esta una de las labores más importantes en los sistemas productivos especializados en lechería, este proceso de ordeñe debe realizarse más o menos en un promedio de tiempo de 3 a 4 minutos, este tiempo tiene una explicación fisiológica la cual consisten en el tiempo en que la acción de la oxitocina ayuda en los procesos de extracción de la leche. 
+          p.mb-0 <b>Un ordeño bien realizado debe ser rápido sin interrupciones, completo, sin dolor y bajo las medidas de higiene necesarias tanto del manipulador, el equipo de ordeño y la ubre del animal.</b>
 
       .row.mb-4
         .col-lg-12
@@ -176,12 +175,14 @@
 
       .row.align-items-center.justify-content-center.mb-4
         .col-md-6
-          p.mb-4 Dentro de los procedimientos de manejo animal encontramos uno muy utilizado para evaluar factores productivos tanto de los animales como del predio pecuario este es el pesaje, este consiste por medio de básculas determinar el peso de los animales, para así evaluar diferentes factores de crecimiento y ganancias de peso.
-          p.mb-0 Es importante disponer de una báscula o una cinta biométrica, la importancia de este radica en la identificación de animales o lotes donde sus ganancias son pobres y no son productivos siempre se deben realizar muestras significativas en caso de no poder realizar el pesaje de todos los animales este se usa principalmente en las aves ya que el crecimiento de estas es muy parejo bajo buenas condiciones de alimentación.
+          p.mb-4 El pre-sellado es antes de las labores de ordeño donde primero se realiza una limpieza de los pezones, posterior se sumergen en la solución desinfectante, a continuación, los pezones deben secarse de manera uniforme logrando un secado óptimo eliminando todo el componente de la solución desinfectante. 
+          p.mb-0 Posterior a este se realizan el respectivo despunte donde se eliminan los 3 a 4 primeros choros de leche para eliminar así todo residuo ya sea suciedad, desinfectante, etc.
 
         .col-md-6
           figure
             img(src='@/assets/curso/tema6/img6.jpg' alt='limpieza en las tetas de la vaca')
+
+      .lineamarilla.mb-4
 
       .row.mb-3
         .col-lg-2

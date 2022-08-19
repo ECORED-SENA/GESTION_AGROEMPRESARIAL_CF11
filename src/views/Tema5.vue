@@ -61,7 +61,9 @@
               .titulo-principal1.color-acento-contenido.mb-0
                 .titulo-principal1__numero
                   h5.p-1.mb-1.text-white Descargue de los animales
-              p Este proceso debe realizarse de manera calmada y tranquila por parte de los operarios para evitar que los animales entren en pánico o estrés y puedan sufrir lesiones, se recomienda que se realice a través de plataformas especiales para el descargue y cargue de animales las cuales deben contar con superficies antideslizante con un inclinación menor a 20 grados, se debe asegurar que la entrada la salida del camión hacia la rampa quede bien alineada y a una distancia cercana para evitar fracturas de miembros por parte de los animales. 
+              p.mb-4 Este proceso debe realizarse de manera calmada y tranquila por parte de los operarios para evitar que los animales entren en pánico o estrés y puedan sufrir lesiones, se recomienda que se realice a través de plataformas especiales para el descargue y cargue de animales las cuales deben contar con superficies antideslizante con un inclinación menor a 20 grados, se debe asegurar que la entrada la salida del camión hacia la rampa quede bien alineada y a una distancia cercana para evitar fracturas de miembros por parte de los animales. 
+              p Es importante realizar un conteo para asegurar que coincidan los animales descargados con los adquiridos o citados en la documentación. 
+
             .col-md-5
               figure
                 img(src='@/assets/curso/tema5/carro2.png', alt='Niño en una granja alimentando una cabra')
@@ -85,23 +87,23 @@
         .row.align-items-center(titulo="").p-4
           .col-lg-7
             h4 2. Guía Sanitaria de Movilización Interna (GSMI)
-            p Es un instrumento de control sanitario por medio del cual el ICA autoriza la movilización de animales, teniendo en cuenta condiciones sanitarias favorables en un momento específico, tanto en el lugar de origen como en el de destino de los animales o de los productos que se van a movilizar. Estas condiciones dan la base para la autorización o no de la movilización y permiten al ICA intervenir de manera oportuna para prevenir la difusión de enfermedades y la ocurrencia de epidemias (ICA, 2021).
+            p Es un instrumento de control sanitario por medio del cual el ICA autoriza la movilización de animales, teniendo en cuenta condiciones sanitarias favorables en un momento específico, tanto en el lugar de origen como en el de destino de los animales o de los productos que se van a movilizar. Estas condiciones dan la base para la autorización o no de la movilización y permiten al ICA intervenir de manera oportuna para prevenir la difusión de enfermedades y la ocurrencia de epidemias (<b>ICA, 2021</b>).
           .col-lg-5
             figure
               img(src='@/assets/curso/tema5/2.png' alt='Hombres primitivos con un mamut').mb-4
 
         .row.align-items-center(titulo="").p-4
           .col-lg-7
-            h4 La tecnología en la Edad Media
-            p Documento que ampara la vacunación de las enfermedades de control oficial en Colombia, para las especies: bovina, bufalina, porcina, équida y las demás que disponga el ICA (ICA, 2021).
+            h4 3. Registro Único de Vacunación (RUV)
+            p Documento que ampara la vacunación de las enfermedades de control oficial en Colombia, para las especies: bovina, bufalina, porcina, équida y las demás que disponga el ICA (<b>ICA, 2021</b>).
           .col-lg-5
             figure
               img(src='@/assets/curso/tema5/3.png' alt='Hombres primitivos con un mamut').mb-4
 
         .row.align-items-center(titulo="").p-4
           .col-lg-7
-            h4 La tecnología en la Edad Moderna
-            p Documento que ampara la identificación de los animales en las zonas declaradas libres y en proceso de Erradicación de Peste Porcina clásica en Colombia según la normativa vigente (ICA, 2021).
+            h4 4. Registro Único de Identificación (RUI)
+            p Documento que ampara la identificación de los animales en las zonas declaradas libres y en proceso de Erradicación de Peste Porcina clásica en Colombia según la normativa vigente (<b>ICA, 2021</b>).
           .col-lg-5
             figure
               img(src='@/assets/curso/tema5/4.png' alt='Hombres primitivos con un mamut').mb-4

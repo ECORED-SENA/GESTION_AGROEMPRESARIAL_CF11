@@ -94,7 +94,7 @@
           .col-9
             img(src='@/assets/curso/tema3/2.png' alt='Caballos')
         h2.text-center 2 - En canoa
-        p.text-center Se utiliza para alimentar animales pequeños en fase de aprendizaje, se recomienda no usar en grupos grandes ya que puede causar peleas.
+        p.text-center Es muy utilizado para la alimentación y suplementación de rumiantes y equinos, ya que se le puede adicionar componentes líquidos junto con el alimento, generalmente se usa uno por animal o pequeños grupos. 
 
       .tarjeta.color-rosa2.p-4
         .row.justify-content-center.mb-3

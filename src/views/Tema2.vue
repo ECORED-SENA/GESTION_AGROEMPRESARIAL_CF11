@@ -44,112 +44,90 @@
         .tarjeta.fondo-slyder.mb-5
           SlyderA(tipo="b")
             .row
-              .col-md-6.mb-4.mb-md-0
+              .col-md-4.mb-4.mb-md-0
                 h5 Tradicionales
-                p Para este tipo de producción requieren unas instalaciones mucho más sencillas y practicas ya que los animales se alojan en los diferentes potreros, o áreas donde se alimentan y realizan su ciclo productivo durante la gran parte de su vida requiere una menor infraestructura  a comparación de la sistematizada o cerrados, por ende sus costos de producción son mucho menores, Los materiales que se usen en la construcción de deben ser de fácil adquisición y de bajo costo, para minimizar los costos de producción pero que al mismo tiempo ofrezcan larga durabilidad, resistencia y confort al animal especialmente en las zonas donde hay una interacción directa con el animal.
+                p Para este tipo de producción requieren unas instalaciones mucho más sencillas y practicas ya que los animales se alojan en los diferentes potreros, o áreas donde se alimentan y realizan su ciclo productivo durante la gran parte de su vida requiere una menor infraestructura  a comparación de la sistematizada o cerrados, por ende sus costos de producción son mucho menores, Los materiales que se usen en la construcción deben ser de fácil adquisición y de bajo costo, para minimizar los costos de producción pero que al mismo tiempo ofrezcan larga durabilidad, resistencia y confort al animal especialmente en las zonas donde hay una interacción directa con el animal.
             
-              .col-md-6
+              .col-md-8
                 figure
                   img(src='@/assets/curso/tema2/img1.png', alt='Ternero')
 
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Diversidad
-                p Las especies pecuarias se pueden trabajar bajo diferentes esquemas, los cuales van desde los más tecnificados y avanzados hasta los más básicos y elementales, lo cual de por sí demuestra la amplitud de modelos y la diversidad de montajes por medio de los que se puede ejercer la actividad productiva. 
-            
-              .col-md-6
+              .col-md-12.mb-4.mb-md-0
+                h5 Alojamiento Tradicional
                 figure
                   img(src='@/assets/curso/tema2/img2.png', alt='Galpón de gallinas')
 
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Rendimientos
-                p Las especies animales que se emplean para la producción pecuaria son fruto de un proceso de selección que se ha llevado a cabo durante miles de años, tomando en cuenta precisamente variables como sus rendimientos y capacidad productiva.  
+              .col-md-4.mb-4.mb-md-0
+                h5 Sistematizadas
+                p.mb-4 Para realizar este tipo de infraestructuras e instalaciones se debe tener en cuenta un factor bastante determinante como lo es el factor económico ya que la realización de este tipo de construcción es bastante costosa, pero también depende de unos factores como lo son la localización, el tipo de producción, el clima entre otros ya que en climas cálidos las construcciones pueden ser menores ya que no requieren tanto del control medioambiental como lo puede exigir un clima mucho más frio y lluvioso.
+                p Existen instalaciones que son necesarias y de común denominador para cualquier sistema productivo o explotación pecuaria como lo son la bodega de almacenamiento, los silos de almacenamiento de alimento (en caso de necesitarlo), la bodega de almacenamiento de alimento, áreas de oficinas.   
             
-              .col-md-6
+              .col-md-8
                 figure
                   img(src='@/assets/curso/tema2/img1.png', alt='Chivo')
             
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Domesticación
-                p Otras de las características de las especies animales es la capacidad que poseen para relacionarse con el ser humano y adaptarse al manejo, lo que se ha denominado un proceso de domesticación, el cual es supremamente importante para desarrollar sistemas pecuarios como los que se conocen hoy día. 
-            
-              .col-md-6
+              .col-md-12.mb-4.mb-md-0
+                h5 Alojamiento Sistematizado
                 figure
-                  img(src='@/assets/curso/tema2/img3.png', alt='Animales de granja')
+                  img(src='@/assets/curso/tema2/img3.png', alt='Supervisor')
 
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Diversos usos y subproductos
-                p Las especies que son aprovechadas comercialmente tienen la característica de poseer varios usos, además del principal. Por ejemplo, en la producción bovina existen productos principales, como leche y carne; pero también estos animales proveen otras materias primas como el cuero o la carnaza, lo cual les confiere una connotación especial.
+              .col-md-4.mb-4.mb-md-0
+                h5 Bodega de almacenamiento
+                p Esta debe contar con la debida separación de los diferentes implementos utilizados en la explotación, siguiendo un orden especifico y puede contar con divisiones, su construcción puede ser en ladrillo cemento, metálico, madera entre otros materiales, es de gran importancia controlar las condiciones medio ambientales como la humedad, el calor entre otras.
             
-              .col-md-6
+              .col-md-8
                 figure
-                  img(src='@/assets/curso/tema2/img4.png', alt='Materiales')
+                  img(src='@/assets/curso/tema2/img4.png', alt='Bodegas industriales')
             
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Diversos usos y subproductos
-                p Las especies que son aprovechadas comercialmente tienen la característica de poseer varios usos, además del principal. Por ejemplo, en la producción bovina existen productos principales, como leche y carne; pero también estos animales proveen otras materias primas como el cuero o la carnaza, lo cual les confiere una connotación especial.
-            
-              .col-md-6
+              .col-md-12.mb-4.mb-md-0
+                h5 Bodega de almacenamiento
                 figure
-                  img(src='@/assets/curso/tema2/img5.png', alt='Materiales')
+                  img(src='@/assets/curso/tema2/img5.png', alt='Bodega de almacenamiento')
             
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Diversos usos y subproductos
-                p Las especies que son aprovechadas comercialmente tienen la característica de poseer varios usos, además del principal. Por ejemplo, en la producción bovina existen productos principales, como leche y carne; pero también estos animales proveen otras materias primas como el cuero o la carnaza, lo cual les confiere una connotación especial.
+              .col-md-4.mb-4.mb-md-0
+                h5 Bodega de almacenamiento de alimento
+                p Debe contar con la capacidad suficiente para almacenar el alimento balanceado del sistema productivo, debe contar con un tipo de orden especifico y los bultos o materias primas no pueden estar en contacto con las superficies de las mismas debe ser lo suficientemente alta para lograr apilar los bultos, generalmente son construidas de cemento y ladrillo.
             
-              .col-md-6
+              .col-md-8
                 figure
-                  img(src='@/assets/curso/tema2/img6.png', alt='Materiales')
+                  img(src='@/assets/curso/tema2/img6.png', alt='Bodega de almacenamiento de alimento')
 
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Diversos usos y subproductos
-                p Las especies que son aprovechadas comercialmente tienen la característica de poseer varios usos, además del principal. Por ejemplo, en la producción bovina existen productos principales, como leche y carne; pero también estos animales proveen otras materias primas como el cuero o la carnaza, lo cual les confiere una connotación especial.
-            
-              .col-md-6
+              .col-md-12.mb-4.mb-md-0
+                h5 Bodega de almacenamiento de alimento
                 figure
-                  img(src='@/assets/curso/tema2/img7.png', alt='Materiales')
+                  img(src='@/assets/curso/tema2/img7.png', alt='almacenamiento de alimento')
 
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Diversos usos y subproductos
-                p Las especies que son aprovechadas comercialmente tienen la característica de poseer varios usos, además del principal. Por ejemplo, en la producción bovina existen productos principales, como leche y carne; pero también estos animales proveen otras materias primas como el cuero o la carnaza, lo cual les confiere una connotación especial.
+              .col-md-4.mb-4.mb-md-0
+                h5 Silos de almacenamiento de alimento
+                p El alimento balanceado en algunos sistemas de explotación animal es almacenado de forma a granel en silos exteriores, eso silos son construidos con materiales de pvc o metálicos, estos a su vez alimentan de forma mecánica a los animales, estos son completamente herméticos para evitar el crecimiento bacteriano.
             
-              .col-md-6
+              .col-md-8
                 figure
-                  img(src='@/assets/curso/tema2/img8.png', alt='Materiales')
+                  img(src='@/assets/curso/tema2/img8.png', alt='almacenamiento de alimento')
 
             .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Diversos usos y subproductos
-                p Las especies que son aprovechadas comercialmente tienen la característica de poseer varios usos, además del principal. Por ejemplo, en la producción bovina existen productos principales, como leche y carne; pero también estos animales proveen otras materias primas como el cuero o la carnaza, lo cual les confiere una connotación especial.
-            
-              .col-md-6
+              .col-md-12.mb-4.mb-md-0
+                h5 Silos de almacenamiento de alimento
                 figure
-                  img(src='@/assets/curso/tema2/img9.png', alt='Materiales')
+                  img(src='@/assets/curso/tema2/img9.png', alt='Bodegas industriales')
 
             .row
+              .col-md-4.mb-4.mb-md-0
+                h5 Oficinas
+                p Áreas donde se realiza el análisis y control del sistema productivo, también se organiza y se archiva la información.
+              
               .col-md-6.mb-4.mb-md-0
-                h5 Diversos usos y subproductos
-                p Las especies que son aprovechadas comercialmente tienen la característica de poseer varios usos, además del principal. Por ejemplo, en la producción bovina existen productos principales, como leche y carne; pero también estos animales proveen otras materias primas como el cuero o la carnaza, lo cual les confiere una connotación especial.
-            
-              .col-md-6
+                h5 Oficinas
                 figure
-                  img(src='@/assets/curso/tema2/img10.png', alt='Materiales')
-
-            .row
-              .col-md-6.mb-4.mb-md-0
-                h5 Diversos usos y subproductos
-                p Las especies que son aprovechadas comercialmente tienen la característica de poseer varios usos, además del principal. Por ejemplo, en la producción bovina existen productos principales, como leche y carne; pero también estos animales proveen otras materias primas como el cuero o la carnaza, lo cual les confiere una connotación especial.
-            
-              .col-md-6
-                figure
-                  img(src='@/assets/curso/tema2/img11.png', alt='Materiales')
+                  img(src='@/assets/curso/tema2/img11.png', alt='Oficinas')
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido
@@ -211,7 +189,7 @@
       .h4 2.3.	Mantenimiento
 
     p.mb-4 El mantenimiento de las instalaciones tiene como objetivo evitar las diferentes averías y fallos, asegurando el funcionamiento ideal y disponibilidad.
-    p.mb-4 En las producciones pecuarias, el estado de las instalaciones es fundamental, no solo para que se mantenga la producción en niveles ideales, sino para obtener el mejor beneficio productivo de los animales.}
+    p.mb-4 En las producciones pecuarias, el estado de las instalaciones es fundamental, no solo para que se mantenga la producción en niveles ideales, sino para obtener el mejor beneficio productivo de los animales.
     p.mb-4 Es importante conocer los tipos de mantenimiento que se deben realizar en las producciones según sus necesidades y condiciones productivas para ser aplicadas:
 
     .row.mb-5
@@ -243,7 +221,7 @@
     p.mb-2 La programación de mantenimiento de las diferentes instalaciones está condicionada al sistema productivo y al tipo de instalación, allí radica la programación y periodicidad de las diferentes tareas o actividades. 
     separador
 
-    #t_2_3.titulo-segundo.color-acento-contenido
+    #t_2_4.titulo-segundo.color-acento-contenido
       .h4 2.4.	Instalaciones según especie y fase de desarrollo	
     
     p.mb-4 Las instalaciones en las explotaciones pecuarias son construidas y desarrolladas para      a brindar las mejores condiciones a las especies pecuarias y las personas que las manejan, debido a esto se realiza en algunos sistemas productivos la separación estructural de cada etapa productiva teniendo en cuenta condiciones especiales requeridas para cada área.   
@@ -373,7 +351,7 @@
           
         .row.align-items-center(titulo="Destete / transición")
           .col-md-5.mb-md-2
-            p.mb-4En estas instalaciones ingresan los lechones cuando son separados de sus madres, estos corrales tienen formas rectangulares para alojar de 15 a 20 cerdos con medidas recomendadas de 2 metros de ancho por 4.20 metros de largo.
+            p.mb-4 En estas instalaciones ingresan los lechones cuando son separados de sus madres, estos corrales tienen formas rectangulares para alojar de 15 a 20 cerdos con medidas recomendadas de 2 metros de ancho por 4.20 metros de largo.
             p.mb-4 Dentro de esta área se utilizan los cajones de recría los cuales constan de un piso de paja o una cama utilizada brindando unas áreas de reposo de los animales con adecuado aislamiento térmico, libres de corrientes de aire, dando al lechón un lugar de escondite y confort ya que son áreas calientes.
           .col-md-7.mb-md-2
             figure
@@ -415,7 +393,9 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img3.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p En las ganaderías bovinas el transporte de los animales se efectúa por medio de camiones o a pie es importante tener en cuenta en la construcción, adecuar un lugar especial para la recepción o despacho de animales llamado embarcadero, el cual consta de una plataforma que debe tener un pendiente no superior al 8 % para evitar caídas de los animales, y contar con unas barras a los laterales creando un pasillo, también cuentan con unas puertas corredizas para evitar que el ganado se escape y facilitando las labores de arreo y embarque.
+            p.mb-4 En las ganaderías bovinas el transporte de los animales se efectúa por medio de camiones o a pie, es importante tener en cuenta en la construcción, adecuar un lugar especial para la recepción o despacho de animales llamado embarcadero, el cual consta de una plataforma que debe tener una pendiente no superior al 8 % para evitar caídas de los animales, y contar con unas barras a los laterales creando un pasillo, también cuentan con unas puertas corredizas para evitar que el ganado se escape y facilitando las labores de arreo y embarque.
+
+    p.mb-4 En algunos predios ganaderos se crean corrales de recepción donde estos corrales deben contar con al menos 5 barras para animales pequeños y 7 barras para animales mucho más grandes dispuestas horizontalmente donde la última barra superior alcance la altura de 1,30 m se deben fijar barras de manera horizontal al suelo de manera segura y fija que sea resistente al manejo animal. 
     
     h4.mb-4 Corrales de manejo
 
@@ -447,7 +427,7 @@
           
         .row(titulo="Brete o apretadero")
           .col-md-5.mb-md-2
-            p.mb-4En Diseñado para diferentes prácticas de manejo animal, es una forja de tubos de hierro y acero resistente con acabados pulidos para evitar lastimar al animal cuenta con una puerta delantera generalmente son corredizas o por medio de acción de palancas cuyo objetivo es sostener al animal por el cuello así asegundo la cabeza manteniendo fijo al animal, en la parte de atrás cuenta con una puerta corrediza, lateralmente algunas cuentan con fierros móviles para facilitar el trabajo.
+            p.mb-4En Diseñado para diferentes prácticas de manejo animal, es una forja de tubos de hierro y acero resistente con acabados pulidos para evitar lastimar al animal cuenta con una puerta delantera generalmente son corredizas o por medio de acción de palancas cuyo objetivo es sostener al animal por el cuello así asegurando la cabeza manteniendo fijo al animal, en la parte de atrás cuenta con una puerta corrediza, lateralmente algunas cuentan con fierros móviles para facilitar el trabajo.
             p.mb-4 Existen diseños de apretaderos acondicionados con básculas para pesaje animal.
           .col-md-7.mb-md-2
             figure

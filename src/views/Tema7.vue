@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 7
-      h1  Equipos e Implementos
+      h1  Gestación
     
     .row.mb-4
       .col-md-12.col-12
@@ -15,8 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema7/img1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-4 La gestación es un proceso fisiológico de los animales donde la hembra inicia un proceso de desarrollo, conformación y maduración embrionaria la cual se produce por la fecundación del óvulo con el espermatozoide.
-            p La gestación de los animales varía dependiendo de la especie a continuación se explicarán los tiempos de gestación para cada especie animal (ver tabla 3).
+            p.mb-4 La gestación es un proceso fisiológico de los animales donde la hembra inicia un proceso de desarrollo, conformación y maduración embrionaria la cual se produce por la fecundación del óvulo con el espermatozoide. <br><br/> La gestación de los animales varía dependiendo de la especie a continuación se explicarán los tiempos de gestación para cada especie animal (ver tabla 3).
 
     .row.justify-content-center.mb-4
       .col-md-8
@@ -104,19 +103,19 @@
             img(src='@/assets/curso/tema7/3.png' alt='AvatarTop')
             .tarjeta.color-rosa6.p-2
               h5.text-center Progesterona en leche
-              p.text-center estas pruebas son útiles para realizar seguimiento a animales con problemas de preñez, al momento de la monta o inseminación los niveles deben estar bajos y después de 18 a 21 días estas deben aumentar.
+              p.text-center Estas pruebas son útiles para realizar seguimiento a animales con problemas de preñez, al momento de la monta o inseminación los niveles deben estar bajos y después de 18 a 21 días estas deben aumentar.
 
           .tarjeta-avatar1
             img(src='@/assets/curso/tema7/4.png' alt='AvatarTop')
             .tarjeta.color-rosa6.p-2
               h5.text-center Crecimiento fetal
-              p.text-center si bien es un método de diagnóstico muy tardío, se puede utilizar como signo de diagnóstico. Teniendo en cuanta que la gran parte del crecimiento fetal se da en los últimos meses.
+              p.text-center Si bien es un método de diagnóstico muy tardío, se puede utilizar como signo de diagnóstico. Teniendo en cuenta que la gran parte del crecimiento fetal se da en los últimos meses.
 
           .tarjeta-avatar1
             img(src='@/assets/curso/tema7/5.png' alt='AvatarTop')
             .tarjeta.color-rosa6.p-2
               h5.text-center Análisis de progesterona en sangre
-              p.text-center los análisis de sangre son métodos muy utilizados en granjas o predios muy tecnificados en este se evidencia los niveles de progesterona en sangre los cuales en caso de una preñez tienen que aumentar y permanecer elevados.
+              p.text-center Los análisis de sangre son métodos muy utilizados en granjas o predios muy tecnificados en este se evidencia los niveles de progesterona en sangre los cuales en caso de una preñez tienen que aumentar y permanecer elevados.
 
     P.mb-4 Los cuidados que se les deben dar a las hembras en estado de gestación son de vital importancia para garantizar un parto ideal y el nacimiento de animales en perfectas condiciones, el objetivo de la gran mayoría de explotaciones es la cría de animales para su posterior engorde, se debe considerar realizar unos cuidados especiales a las madres donde los factores nutricionales, confort animal, manejo sanitario, y tiempos de descanso son determinantes para lograr el objetivo final. Estos cuidados son:
 

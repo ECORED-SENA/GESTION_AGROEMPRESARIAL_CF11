@@ -61,12 +61,16 @@
       .col-md-8
         figure
           img(src='@/assets/curso/tema1/img1.png' alt='Empresa Industrial')
+    separador
+
+    #t_1_1.titulo-segundo.color-acento-contenido
+      .h4 1.1. Características
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-md-9
+      .col-md-12
         p.text-center Las especies animales que se trabajan en los sistemas productivos pecuarios se caracterizan, entre otras cosas, por:
 
-    .row 
+    .row.mb-4
       .col-md-12
         .tarjeta.fondo-slyder.mb-5
           SlyderA(tipo="b")
@@ -116,8 +120,8 @@
                   img(src='@/assets/curso/tema1/img6.png', alt='Materiales')
     separador
 
-    #t_1_1.titulo-segundo.color-acento-contenido
-      .h4 1.1. Características
+    #t_1_2.titulo-segundo.color-acento-contenido
+      .h4 1.2. Etapas de desarrollo
 
     p.mb-4 Los diferentes sistemas productivos extraen los recursos de la canasta familiar de granjas especializadas. Estas se especializan en las especies animales bovinas, porcinas, aves (pollo engorde, gallina ponedora), pequeños rumiantes (ovejas y cabras), y equinos. A continuación, se puede ver las características y etapas de desarrollo de estas especies:
 
@@ -126,8 +130,8 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
 
-    #t_1_2.titulo-segundo.color-acento-contenido
-      .h4 1.2.	Etapas de desarrollo
+    #t_1_3.titulo-segundo.color-acento-contenido
+      .h4 1.3. Técnicas de manejo
 
     p.mb-3 La definición de las diferentes técnicas de manejo es un concepto que se utiliza para definir todas las acciones realizadas por los manipuladores de los animales en pro de un buen comportamiento animal y mejor un aspecto productivo, para brindar al animal condiciones óptimas para lograr mejor desempeño del mismo, estas técnicas están fundamentadas en:
 

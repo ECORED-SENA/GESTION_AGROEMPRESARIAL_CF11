@@ -6,7 +6,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1  Equipos e Implementos
+      h1  Bienestar Animal
 
     .row.mb-4
       .col-md-12.col-12
@@ -63,8 +63,8 @@
     #t_4_2.titulo-segundo.color-acento-contenido
       .h4 4.2.	Comportamiento Animal	
 
-    p.mb-4 El comportamiento animal está basado en la genética y las condiciones ambientales de cada uno de los animales. El comportamiento instintivo está muy pocamente relacionado con aprendizajes o vivencias del animal, este comportamiento se considera que está asociado a la genética y estos son los comportamientos naturales de cada especie (parto, succión de pezón para obtención de leche, comportamiento reproductivo, entre otros); por otro lado están los comportamientos basados en las vivencias y el entorno del animal, estos aprendizajes son esenciales en la primera etapa de vida ya que usualmente se aprende de los padres o de la manada. 
-    p.mb-4 A continuación, se puede ver un poco más al respecto:
+    p.mb-4 Los animales deben ser tratados con respeto y forma compasiva, entre los aspectos del bienestar animal se encuentra la muerte digna en el momento que corresponda y que sea estrictamente necesario terminar con el sufrimiento del animal. 
+    p.mb-4 Entre los principios básicos de bienestar animal siempre se habla de la regla de las “cinco libertades”:
 
     .row.mb-4
       .col-md-12.col-12
@@ -114,6 +114,8 @@
       .col-md-6
         figure
           img(src='@/assets/curso/tema4/1.jpg', alt='Niño en una granja alimentando una cabra')
+
+    p.mb-4 La zona de fuga hace referencia al punto de equilibrio o balance y el punto ciego, el conocimiento de esto facilita el entendimiento del desplazamiento de los animales. El punto de equilibrio hace referencia a una línea imaginaria a la altura de la cruz de los animales, permite analizar la dirección de movimiento del animal dependiendo del lado en el cual se invada la zona de fuga; si las personas se acercan por detrás del punto de equilibro el animal avanza y si se hace el acercamiento desde el frente del punto de equilibrio el animal retrocede. El punto ciego se encuentra detrás de la cola del animal, se debe evitar que en el momento de una posible manipulación los operarios se posicionen en este lugar para intentar mover el animal desde este punto porque no funciona y puede generar accidentes dentro de las granjas. 
     
     .row.mb-2
       .linearoja
@@ -124,7 +126,7 @@
           img(src='@/assets/curso/tema4/2.jpg', alt='Rebaño de ovejas')
 
       .col-md-6
-        p.mb-4 Cuando se requiera el desplazamiento de animales domésticos de presa, se deben tener en cuenta unas recomendaciones:
+        p.mb-4 <b>Cuando se requiera el desplazamiento de animales domésticos de presa, se deben tener en cuenta unas recomendaciones:</b>
         ul.lista-ul--color
           li 
             i.fas.fa-angle-right
@@ -170,7 +172,7 @@
         .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
           p.mb-0 La garantía de un buen trato hacia los animales desde el primer momento que pisen la granja de explotación pecuaria no solo es beneficioso para el animal y la producción si no para un manejo fácil y seguro a través de su vida y sus años productivos, ya que los animales recuerdan experiencias atemorizantes o que les ocasionan dolor y desarrollan comportamientos defensivos para evitarlo. 
 
-    p.mb-4 La garantía de un buen trato hacia los animales desde el primer momento que pisen la granja de explotación pecuaria no solo es beneficioso para el animal y la producción si no para un manejo fácil y seguro a través de su vida y sus años productivos, ya que los animales recuerdan experiencias atemorizantes o que les ocasionan dolor y desarrollan comportamientos defensivos para evitarlo. 
+    p.mb-4 Se debe actualizar y sensibilizar al personal que esté directamente implicado en el manejo de los animales, de esta manera se garantiza un trato adecuado hacia ellos; además se debe mantener en buen estado las instalaciones de manera que sean apropiadas para una adecuada estadía de los animales y un correcto desarrollo del animal que pueda garantizar su bienestar óptimo dentro de la granja. 
 
 </template>
 
