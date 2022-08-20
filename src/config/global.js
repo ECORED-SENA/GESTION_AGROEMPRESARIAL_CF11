@@ -242,132 +242,168 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Bavera, G.: Bocco, O.;, Beguet, H.; y Petryna, A. (2005). Crecimiento, desarrollo y precocidad. Cursos de Producción Bovina de Carne, FAV UNRC.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.produccion-animal.com.ar/informacion_tecnica/exterior/05-crecimiento_desarrollo_y_precocidad.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Fortín, A.; Perdomo, J. (2009). Determinación de la calidad del calostro bovino a partir de la densidad y de la concentración de IgG y del número de partos de la vaca y su efecto en el desarrollo de los terneros hasta los 30 días de edad.',
+      link: 'https://bdigital.zamorano.edu/bitstream/11036/430/1/T2884.pdf',
+    },
+    {
+      referencia:
+        'Goicochea, J. (2016), Descorné zootécnico y quirúrgico en bovinos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.produccion-animal.com.ar/informacion_tecnica/cria/206-Descorne.pdf',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Instituto colombiano agropecuario (2021). Resolución No 090464, definiciones.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.ica.gov.co/getattachment/74c359e3-9201-4db9-849f-98ab5a9e2d0b/2021R90464.aspx',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Organización Mundial de la Salud. (2021). Código de los animales terrestres, Capítulo 7.1.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://www.oie.int/es/que-hacemos/sanidad-y-bienestar-animal/bienestar-animal/',
+    },
+    {
+      referencia: 'Poultrylife. (2019). Gallinas Ponedoras.',
+      link:
+        'https://poultrylife.com/gallinas-ponedoras/ciclo-de-vida-de-las-gallinas-ponedoras/',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'SENASA (2015). Manual de bienestar animal, un enfoque práctico para el buen manejo de especies domésticas durante su tenencia, producción, concentración, transporte y faena.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'http://www.senasa.gob.ar/sites/default/files/ARBOL_SENASA/ANIMAL/BOVINOS_BUBALINOS/INDUSTRIA/ESTABL_IND/BIENESTAR/manual_de_bienestar_animal_especies_domesticas_-_senasa_-_version_1-2015.pdf',
     },
     {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+      referencia: 'UAB (s.f.) Manejo y producción de porcino.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'http://llotjadevic.org/redaccio/arxius/imatgesbutlleti/manual porcino final.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Cartílago',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Tejido firme y flexible carente vasos sanguíneos que brinda apoyo en muchas partes del cuerpo, está en tráquea, bronquios, oído externo entre otros.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Cauterización',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Destrucción de tejido con instrumento caliente, corriente eléctrica o sustancia cáustica.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Fecundación',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Es la unión de espermatozoide con óvulo para el futuro inicio de una cría. La célula formada de esta unión dará el desarrollo a una embriogénesis. Este proceso se realiza en el interior del cuerpo de la hembra.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Fosas Nasales',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Las fosas nasales son dos cavidades óseas separadas por un delgado tabique nasal sagital, comunicadas con el exterior por los orificios nasales o narinas, y situadas por encima de la cavidad bucal.',
     },
     {
-      termino: 'Moda',
+      termino: 'Glándula mamaria',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Órgano glandular formado de tejido conjuntivo, grasa y tejido mamario que produce leche.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Inflamación',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Proceso por el cual se genera enrojecimiento, hinchazón (aumento de tamaño), dolor o sensación de calor en un área del cuerpo. Es una reacción de este para protegerse de las lesiones, las enfermedades o la irritación de los tejidos.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Inmunoglobulinas',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Proteínas de vital importancia para vida que circulan en el torrente sanguíneo y realizan una amplia variedad de funciones entre las principales está la contribución al sistema inmune.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Malformación',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Alteraciones anatómicas congénitas que ocurre en la etapa intrauterina que pueden ser sistémicas, orgánicas o extremidades.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Parto',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'Expulsión del feto con membranas fetales después de cumplir el tiempo de gestación que garantiza el desarrollo completo del feto.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'Precoz',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Que ocurre o sucede antes de tiempo que se considera habitual o necesario.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Rudimento',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Desarrollo imperfecto o primitivo de algo y hace referencia a los primeros trabajos de una disciplina.',
     },
     {
-      termino: 'Interés superior del menor',
+      termino: 'Unidad de gran ganado (UGG)',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Es un equivalente de medición para manejar las cargas animales en los potreros bovinos una unidad gran ganado equivale a 450 kg, y se recomienda que por hectárea la carga sea de 0.65 U.G.G.',
+    },
+    {
+      termino: 'Zona vulvar',
+      significado:
+        'Zona externa del órgano reproductivo de la hembra se compone de labios menores y mayores.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Características',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'TvAgro, Ángel, J. (2016). Mejores Razas Bovinas Productoras de Leche en Colombia. [Video] YouTube. ',
+      tipo: 'Video complementario',
+      link: 'https://www.youtube.com/watch?v=O776f8snC00',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Instalaciones y alojamiento pecuario',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Facultad de medicina veterinaria y zootecnia –UNAM. (2016). Instalaciones y estructuras ganaderas. [Video] YouTube.',
+      tipo: 'Video complementario',
+      link: 'https://www.youtube.com/watch?v=aRCAt4se8PA',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Equipos e implementos',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Agrovícola yauyo´s. (2020).Cómo equipar tu galpón de pollos-gallinas para el máximo rendimiento. [Video] YouTube. ',
+      tipo: 'Video complementario',
+      link: 'https://www.youtube.com/watch?v=R4L1WISl0TA',
+    },
+    {
+      tema: 'Bienestar animal',
+      referencia:
+        'OIE. (2021). Código sanitario para animales terrestres, Bienestar animal.',
+      tipo: 'Documento de apoyo ',
+      link:
+        'https://www.oie.int/es/que-hacemos/normas/codigos-y-manuales/acceso-en-linea-al-codigo-terrestre/?id=169&L=1&htmfile=titre_1.7.htm',
+    },
+    {
+      tema: 'Recepción de animales',
+      referencia:
+        'Central ganadera. (2020). Proceso de Recepción de Porcinos y Garantía de Bienestar Animal Central Ganadera S.A. [Video] YouTube.',
+      tipo: 'Video de apoyo',
+      link: 'https://www.youtube.com/watch?v=4jPbNllYtLg',
+    },
+    {
+      tema: 'Prácticas de manejo animal',
+      referencia:
+        'Instituto nacional de carnes. (2020). Protocolo Buenas Prácticas de manejo animal. Versión 6. ',
+      tipo: 'Documento de apoyo ',
+      link:
+        'https://www.inac.uy/innovaportal/file/11637/1/protocolo-inac-ba-bovino---predio-1.pdf',
+    },
+    {
+      tema: 'Lactación',
+      referencia:
+        'Facultad veterinaria Universidad de Zaragoza España. (2018). Parto y manejo del lechón recién nacido. [Video] YouTube.',
+      tipo: 'Video complementario',
+      link: 'https://www.youtube.com/watch?v=6yXTlLWj_Fg',
     },
   ],
   creditos: {
