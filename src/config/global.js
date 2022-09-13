@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'Este componente aborda aspectos relacionados con      exigencias del mercado de alimentos y materias primas, que obligan a empresas agropecuarias a desarrollar procesos altamente eficientes, enfocados en la calidad y bienestar para las personas. Se afianzará en cómo, mediante un manejo animal basado en buenas prácticas pecuarias, se alcanzan altos estándares de eficiencia para obtener productos más competitivos, inocuos y diferenciados.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

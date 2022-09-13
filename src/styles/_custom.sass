@@ -7,8 +7,8 @@
   &-2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 62%
-    right: 67%
+    top: 54%
+    right: 48%
 
 @keyframes float1
   0%
@@ -24,6 +24,29 @@
     -webkit-transform: rotate(359deg)
 
 //Tema 1
+
+.slyder-a__tipo-b 
+  position: relative
+  display: flex
+  justify-content: space-between
+  align-items: center
+
+
+.bg_grad-01
+  position: relative
+  .row, .tarjeta-avatar, SlyderF, .bloque-texto-g,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: -0px
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fond1.jpg")
+    background-repeat: no-repeat
+
 
 .fa-chevron-right:before 
   content: "\f054"
@@ -81,6 +104,12 @@
   bottom: 0
   background-position: center
   background-size: cover
+  @media (max-width: 992px)
+    height: 100%
+    
+.bloque-texto-g
+  @media (max-width: 992px)
+    padding-top: 10% !important
 
 .color-1
   background-color: #E8CBD3
@@ -129,8 +158,28 @@
   background-size: cover
   background-repeat: no-repeat
   padding: 2rem
+  @media screen and ( max-width: 999px )
+    background-image: url('../assets/curso/tema1/fondo_slyder.png')
+    background-size: cover
+    background-repeat: no-repeat
+    padding: 0.5rem
 
 //tema2
+
+.bg_grad-02
+  position: relative
+  .row, .titulo-segundo, #t_2_1, separador, .h2, p,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0px
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fond2.jpg")
+    background-repeat: no-repeat
 
 .color-2
   background-color: #EAECC0
@@ -141,6 +190,7 @@
 .clr-paleYellow
   background-color: #FFF8D9
   height: 473px
+  border-radius: 20px
   @media screen and ( max-width: 999px )
     height: auto
 
@@ -167,7 +217,7 @@
 
 .titulo-principal1
   margin-bottom: 48px
-  padding-bottom: 20px
+  padding-bottom: 0px
   display: flex
   align-items: center
 
@@ -215,6 +265,21 @@
 
 //tema3
 
+.bg_grad-03
+  position: relative
+  .row, .titulo-segundo, #t_3_1, separador, .h2, p, .titulo-principal1, h5, SlyderF, .tarjeta,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: -20px
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fond3.jpg")
+    background-repeat: no-repeat
+
 .tabs-c
   border-bottom: 0px
 
@@ -251,7 +316,7 @@
 
 .color-rosa2
   background-color: #E8CBD3
-  height: 475px
+  height: 530px
   @media (max-width: 1000px)
     height: auto
 
@@ -306,7 +371,68 @@
   background-color: rgba(255, 255, 255, 0.95)
   right: -40%
 
+.bg_grad-04
+  position: relative
+  .row, p, SlyderF, .tarjeta-avatar, #t_4_1, #t_4_2, separador, figure,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0px
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fond4.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-05
+  position: relative
+  .row, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0px
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fond5.jpg")
+    background-repeat: no-repeat
+
 //tema5
+
+.pasos-b__header__item--before .pasos-b__header__item__dot
+  border-color: #CED371
+  background-color: #CED371
+
+
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+ background-color: #CED371
+
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after
+  background-color: #CED371
+
+.pasos-b.color-acento-botones .pasos-b__header__item--active .pasos-b__header__item__dot
+  border-color: #FFB500
+  background-color: #FFB500
+  box-shadow: 0px 2px 5px #00000048
+
+.bg_grad-06
+  position: relative
+  .row, separador, #t_5_1.titulo-segundo, p, #t_5_2.titulo-segundo, .tarjeta,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0px
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fond6.jpg")
+    background-repeat: no-repeat
 
 .bg1
   background-image: url(../assets/curso/tema1/fondo_slyder.png)
@@ -419,3 +545,40 @@
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
   background-color: #E8CBD3
   color: #12263F
+
+.bg_grad-07
+  position: relative
+  .row, separador, #t_6_2.titulo-segundo, p, #t_6_3.titulo-segundo, .titulo-principal1, SlyderF,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 0px
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fond7.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-07
+  position: relative
+  .row, separador, p, SlyderF,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -0rem 
+    top: -25px
+    left: 0px
+    width: calc( 100% + 3rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fond8.jpg")
+    background-repeat: no-repeat
+
+.fondo-blanco
+  background-color: #ffffff
+
+.fondo-gris
+  background-color: #F6F6F6
+

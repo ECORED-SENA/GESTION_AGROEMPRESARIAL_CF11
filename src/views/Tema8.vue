@@ -67,20 +67,20 @@
                     th.text-center.text-white Duración
                 tbody
                   tr
-                    td.text-center Vaca
-                    td.text-center 305 días
+                    td.text-center.fondo-blanco Vaca
+                    td.text-center.fondo-blanco 305 días
                   tr
-                    td.text-center Yegua
-                    td.text-center 11 - 12 meses
+                    td.text-center.fondo-gris Yegua
+                    td.text-center.fondo-gris 11 - 12 meses
                   tr
-                    td.text-center Oveja
-                    td.text-center 6 - 7 meses
+                    td.text-center.fondo-blanco Oveja
+                    td.text-center.fondo-blanco 6 - 7 meses
                   tr
-                    td.text-center Cabra
-                    td.text-center 7 - 8 meses (sistema intensivo)
+                    td.text-center.fondo-gris Cabra
+                    td.text-center.fondo-gris 7 - 8 meses (sistema intensivo)
                   tr
-                    td.text-center Cerda
-                    td.text-center 21 a 28 días
+                    td.text-center.fondo-blanco Cerda
+                    td.text-center.fondo-blanco 21 a 28 días
 
     .titulo-principal1.color-acento-contenido.mb-2
       .titulo-principal1__numero

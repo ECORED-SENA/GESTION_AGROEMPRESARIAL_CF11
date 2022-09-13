@@ -8,26 +8,27 @@
         span 2
       h1  Instalaciones y alojamiento pecuario
     
-    .row.mb-4
-      .col-md-12.col-12
-        .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.jpg')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p Para el manejo de los animales y la obtención de sus mejores rendimientos es necesario contar con instalaciones que les ofrezcan las condiciones mínimas de confort, seguridad, protección y tranquilidad que estos requieren e, igualmente, dar al productor la comodidad que necesita para realizar las prácticas de manejo de la explotación productiva. 
-    
-    .row.mb-4
-      .col-lg-12
-        .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
-          p.mb-0 Tanto las instalaciones como los alojamientos en los que permanecen los animales deben ofrecer un entorno seguro tanto para los animales como para las personas que laboran en la unidad productiva, siempre con principios de bienestar animal y la salud de los trabajadores, independientemente de la clase de explotación, de su capacidad. 
-    separador
+    .bg_grad-02
+      .row.mb-4
+        .col-md-12.col-12
+          .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+            .bloque-texto-g__img(
+              :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.jpg')})`}"
+            )
+            .bloque-texto-g__texto.p-4
+              p Para el manejo de los animales y la obtención de sus mejores rendimientos es necesario contar con instalaciones que les ofrezcan las condiciones mínimas de confort, seguridad, protección y tranquilidad que estos requieren e, igualmente, dar al productor la comodidad que necesita para realizar las prácticas de manejo de la explotación productiva. 
+      
+      .row.mb-4
+        .col-lg-12
+          .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
+            p.mb-0 Tanto las instalaciones como los alojamientos en los que permanecen los animales deben ofrecer un entorno seguro tanto para los animales como para las personas que laboran en la unidad productiva, siempre con principios de bienestar animal y la salud de los trabajadores, independientemente de la clase de explotación, de su capacidad. 
+      separador
 
 
-    #t_2_1.titulo-segundo.color-acento-contenido
-      .h4 2.1. Tipos
+      #t_2_1.titulo-segundo.color-acento-contenido
+        .h2 2.1. Tipos
 
-    p.mb-4 Dentro de las instalaciones y alojamientos existen diferentes tipos para cada unidad pecuaria a trabajar dependiendo de las capacidades económicas de cada producción y necesidades de cada animal es importante conocer e identificar las instalaciones que mejor se adapten al sistema pecuario.
+      p.mb-4 Dentro de las instalaciones y alojamientos existen diferentes tipos para cada unidad pecuaria a trabajar dependiendo de las capacidades económicas de cada producción y necesidades de cada animal es importante conocer e identificar las instalaciones que mejor se adapten al sistema pecuario.
 
     .row.justify-content-center.mb-4
       .col-md-4.align-items-center
@@ -41,11 +42,11 @@
     
     .row.mb-4
       .col-md-12
-        .tarjeta.fondo-slyder.mb-5
+        .tarjeta.fondo-slyder.p-4
           SlyderA(tipo="b")
             .row
               .col-md-4.mb-4.mb-md-0
-                h5 Tradicionales
+                h4 Tradicionales
                 p Para este tipo de producción requieren unas instalaciones mucho más sencillas y practicas ya que los animales se alojan en los diferentes potreros, o áreas donde se alimentan y realizan su ciclo productivo durante la gran parte de su vida requiere una menor infraestructura  a comparación de la sistematizada o cerrados, por ende sus costos de producción son mucho menores, Los materiales que se usen en la construcción deben ser de fácil adquisición y de bajo costo, para minimizar los costos de producción pero que al mismo tiempo ofrezcan larga durabilidad, resistencia y confort al animal especialmente en las zonas donde hay una interacción directa con el animal.
             
               .col-md-8
@@ -54,13 +55,13 @@
 
             .row
               .col-md-12.mb-4.mb-md-0
-                h5 Alojamiento Tradicional
+                h4 Alojamiento Tradicional
                 figure
                   img(src='@/assets/curso/tema2/img2.png', alt='Galpón de gallinas')
 
             .row
               .col-md-4.mb-4.mb-md-0
-                h5 Sistematizadas
+                h4 Sistematizadas
                 p.mb-4 Para realizar este tipo de infraestructuras e instalaciones se debe tener en cuenta un factor bastante determinante como lo es el factor económico ya que la realización de este tipo de construcción es bastante costosa, pero también depende de unos factores como lo son la localización, el tipo de producción, el clima entre otros ya que en climas cálidos las construcciones pueden ser menores ya que no requieren tanto del control medioambiental como lo puede exigir un clima mucho más frio y lluvioso.
                 p Existen instalaciones que son necesarias y de común denominador para cualquier sistema productivo o explotación pecuaria como lo son la bodega de almacenamiento, los silos de almacenamiento de alimento (en caso de necesitarlo), la bodega de almacenamiento de alimento, áreas de oficinas.   
             
@@ -70,13 +71,13 @@
             
             .row
               .col-md-12.mb-4.mb-md-0
-                h5 Alojamiento Sistematizado
+                h4 Alojamiento Sistematizado
                 figure
                   img(src='@/assets/curso/tema2/img3.png', alt='Supervisor')
 
             .row
               .col-md-4.mb-4.mb-md-0
-                h5 Bodega de almacenamiento
+                h4 Bodega de almacenamiento
                 p Esta debe contar con la debida separación de los diferentes implementos utilizados en la explotación, siguiendo un orden especifico y puede contar con divisiones, su construcción puede ser en ladrillo cemento, metálico, madera entre otros materiales, es de gran importancia controlar las condiciones medio ambientales como la humedad, el calor entre otras.
             
               .col-md-8
@@ -85,13 +86,13 @@
             
             .row
               .col-md-12.mb-4.mb-md-0
-                h5 Bodega de almacenamiento
+                h4 Bodega de almacenamiento
                 figure
                   img(src='@/assets/curso/tema2/img5.png', alt='Bodega de almacenamiento')
             
             .row
               .col-md-4.mb-4.mb-md-0
-                h5 Bodega de almacenamiento de alimento
+                h4 Bodega de almacenamiento de alimento
                 p Debe contar con la capacidad suficiente para almacenar el alimento balanceado del sistema productivo, debe contar con un tipo de orden especifico y los bultos o materias primas no pueden estar en contacto con las superficies de las mismas debe ser lo suficientemente alta para lograr apilar los bultos, generalmente son construidas de cemento y ladrillo.
             
               .col-md-8
@@ -100,13 +101,13 @@
 
             .row
               .col-md-12.mb-4.mb-md-0
-                h5 Bodega de almacenamiento de alimento
+                h4 Bodega de almacenamiento de alimento
                 figure
                   img(src='@/assets/curso/tema2/img7.png', alt='almacenamiento de alimento')
 
             .row
               .col-md-4.mb-4.mb-md-0
-                h5 Silos de almacenamiento de alimento
+                h4 Silos de almacenamiento de alimento
                 p El alimento balanceado en algunos sistemas de explotación animal es almacenado de forma a granel en silos exteriores, eso silos son construidos con materiales de pvc o metálicos, estos a su vez alimentan de forma mecánica a los animales, estos son completamente herméticos para evitar el crecimiento bacteriano.
             
               .col-md-8
@@ -115,23 +116,19 @@
 
             .row
               .col-md-12.mb-4.mb-md-0
-                h5 Silos de almacenamiento de alimento
+                h4 Silos de almacenamiento de alimento
                 figure
                   img(src='@/assets/curso/tema2/img9.png', alt='Bodegas industriales')
 
             .row
-              .col-md-4.mb-4.mb-md-0
-                h5 Oficinas
-                p Áreas donde se realiza el análisis y control del sistema productivo, también se organiza y se archiva la información.
-              
-              .col-md-6.mb-4.mb-md-0
-                h5 Oficinas
+              .col-md-12.mb-4.mb-md-0
+                h4 Oficinas
                 figure
                   img(src='@/assets/curso/tema2/img11.png', alt='Oficinas')
     separador
 
     #t_2_2.titulo-segundo.color-acento-contenido
-      .h4 2.2.	Espacio mínimo vital
+      .h2 2.2.	Espacio mínimo vital
 
     p.mb-3 Es importante para la construcción de las diferentes áreas de producción conocer y reconocer las necesidades de espacio mínimo vital para cada animal, teniendo en cuenta las diferentes fases productivas ya que son factores determinantes del mismo.
     p.mb-5 Se conoce como espacio mínimo vital al espacio mínimo necesario para vivir ya sea un animal o un grupo de animales, se puede medir por unidades de animales por área, buscando no causar estrés en el animal y con un pilar importante para no alterar el animal como son las Buenas Prácticas de Bienestar Animal (ver tabla 1).
@@ -186,7 +183,7 @@
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido
-      .h4 2.3.	Mantenimiento
+      .h2 2.3.	Mantenimiento
 
     p.mb-4 El mantenimiento de las instalaciones tiene como objetivo evitar las diferentes averías y fallos, asegurando el funcionamiento ideal y disponibilidad.
     p.mb-4 En las producciones pecuarias, el estado de las instalaciones es fundamental, no solo para que se mantenga la producción en niveles ideales, sino para obtener el mejor beneficio productivo de los animales.
@@ -222,7 +219,7 @@
     separador
 
     #t_2_4.titulo-segundo.color-acento-contenido
-      .h4 2.4.	Instalaciones según especie y fase de desarrollo	
+      .h2 2.4.	Instalaciones según especie y fase de desarrollo	
     
     p.mb-4 Las instalaciones en las explotaciones pecuarias son construidas y desarrolladas para      a brindar las mejores condiciones a las especies pecuarias y las personas que las manejan, debido a esto se realiza en algunos sistemas productivos la separación estructural de cada etapa productiva teniendo en cuenta condiciones especiales requeridas para cada área.   
 
@@ -447,7 +444,7 @@
     .row.mb-4
       .col-md-12
         figure
-          img(src='@/assets/curso/tema2/animales3.jpg', alt='Equinos')
+          img(src='@/assets/curso/tema2/animales4.jpg', alt='Equinos')
 
     p.mb-4 Las instalaciones de alojamientos equinos son instalaciones que deben tener en cuenta las características climáticas para realizar la construcción, es así que se recomienda que en zonas de climas fríos su construcción se realice de norte a sur y en zonas de clima cálido de oriente a occidente. El alojamiento debe permitir un espacio adecuado para el animal, sin alterar su zona de confort, así como permitir un adecuado espacio entre los pasillos para permitir el movimiento seguro de los animales y sus cuidadores.
 
