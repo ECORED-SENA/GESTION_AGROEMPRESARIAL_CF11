@@ -119,14 +119,14 @@
 
       .row.justify-content-center.mb-4 
         .col-md-3
-          .crd.clr-paleYellow.align-items-center.p-4
+          .crd.clr-paleYellow.align-items-center.p-4.mb-4
             figure
               img(src='@/assets/curso/tema3/img3.png' alt='AvatarTop')
             h5 1 - Automáticos regulables
             p.text-center Son comederos automáticos que liberan el alimento a determinada hora, o situación programada todo es controlado por una computadora.
 
         .col-md-3
-          .crd.clr-paleYellow.align-items-center.p-4
+          .crd.clr-paleYellow.align-items-center.p-4.mb-4
             figure
               img(src='@/assets/curso/tema3/img4.png' alt='AvatarTop')
             h5 2 - Automáticos de libre alimentación
@@ -146,35 +146,35 @@
               LineaTiempoD.color-linea
                 .row.align-items-center(numero="1" titulo="Bebedero de cubeta") 
                   .col-md-4
-                    figure
+                    figure.mb-4
                       img(src='@/assets/curso/tema3/1.jpg' alt='Bebedero de agua')
                   .col-md-8  
                     p Recipientes de plásticos, requieren una limpieza continua y recambio de agua manual puede ser utilizado para hidratar varios animales al tiempo.
 
                 .row.align-items-center(numero="2" titulo="Distribuidores de agua autocontenida")
                   .col-md-4
-                    figure
+                    figure.mb-4
                       img(src='@/assets/curso/tema3/2.jpg' alt='Distribuidores de agua de plastico')
                   .col-md-8  
                     p Bebederos de plástico que requieren un llenado manual son muy utilizados en aves, su instalación puede ser colgante, requieren un acostumbramiento del animal.
 
                 .row.align-items-center(numero="3" titulo="Bebederos de campana")
                   .col-md-4
-                    figure
+                    figure.mb-4
                       img(src='@/assets/curso/tema3/3.jpg' alt='Bebedero')
                   .col-md-8  
                     p Son utilizados en los galpones de aves generalmente porque proporcionan agua de bebida a un grupo numeroso de aves, son fáciles de limpiar y de trasladar, se instalan directamente al suministro de agua.
 
                 .row.align-items-center(numero="4" titulo="Bebederos automáticos (tipo mordida) (niple)") 
                   .col-md-4
-                    figure
+                    figure.mb-4
                       img(src='@/assets/curso/tema3/4.jpg' alt='Diferentes bebederos automáticos')
                   .col-md-8  
                     p Son bebederos que son automáticos requieren de un acostumbramiento del animal para aprender a beber se requiere de una calibración especial en presión de agua, flujo y altura es recomendable que la presión se aumente a medida que el animal se desarrolla.
 
                 .row.align-items-center(numero="5" titulo="Bebederos de canal") 
                   .col-md-4
-                    figure
+                    figure.mb-4
                       img(src='@/assets/curso/tema3/5.jpg' alt='Vacas bebiendo agua')
                   .col-md-8  
                     p Son bebederos muy utilizados en ganadería bovina pequeños rumiantes y para hidratar equinos, consta de un canal lleno de agua que puede ser conectado directo al suministro o llenado por los cuidadores.
@@ -240,7 +240,6 @@
           )
           .bloque-texto-g1__texto.p-4
             p Las diferentes técnicas de manejo son establecidas por el tipo de equipo usado ya que cada equipo dispone de sus técnicas de manejo, para este es importante determinar para cuantos animales está fabricado el equipo, en caso de los comederos hay unas especificaciones para cuantos animales, de esta manera se tendrá que realizar la cuenta de cuantos comederos se necesita para la producción. Es importante en las técnicas de manejo tener en cuenta las condiciones de limpieza y desinfección de los componentes ya que estos están en directo contacto con los animales y pueden ser causantes de la proliferación de agentes infecciosos.
-    
 
 </template>
 

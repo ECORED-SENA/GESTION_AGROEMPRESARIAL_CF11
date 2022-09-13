@@ -85,7 +85,7 @@
 
       .row.mb-4.align-items-center.justify-content-center.mb-4
         .col-md-4
-          figure
+          figure.mb-4
             img(src='@/assets/curso/tema6/img2.jpg' alt='Cabra pariendo')
         .col-md-8
           p.mb-4 Después de reconocer los animales en estado de gestación se debe realizar una marcación, separación o marcación clara para identificar al animal y realizar un seguimiento para cuando esté próximo a parir y realizar la asistencia del parto. 
@@ -152,7 +152,7 @@
       .row.align-items-center.justify-content-center.mb-4
         .col-md-6
           p.mb-4 Dentro de los procedimientos de manejo animal encontramos uno muy utilizado para evaluar factores productivos tanto de los animales como del predio pecuario este es el pesaje, este consiste por medio de básculas determinar el peso de los animales, para así evaluar diferentes factores de crecimiento y ganancias de peso.
-          p.mb-0 Es importante disponer de una báscula o una cinta biométrica, la importancia de este radica en la identificación de animales o lotes donde sus ganancias son pobres y no son productivos siempre se deben realizar muestras significativas en caso de no poder realizar el pesaje de todos los animales este se usa principalmente en las aves ya que el crecimiento de estas es muy parejo bajo buenas condiciones de alimentación.
+          p.mb-4 Es importante disponer de una báscula o una cinta biométrica, la importancia de este radica en la identificación de animales o lotes donde sus ganancias son pobres y no son productivos siempre se deben realizar muestras significativas en caso de no poder realizar el pesaje de todos los animales este se usa principalmente en las aves ya que el crecimiento de estas es muy parejo bajo buenas condiciones de alimentación.
 
         .col-md-6
           figure
@@ -165,7 +165,7 @@
 
       .row.align-items-center.justify-content-center.mb-4
         .col-md-6
-          figure
+          figure.mb-4
             img(src='@/assets/curso/tema6/img5.jpg' alt='ordeño de vaca')
 
         .col-md-6
@@ -180,7 +180,7 @@
       .row.align-items-center.justify-content-center.mb-4
         .col-md-6
           p.mb-4 El pre-sellado es antes de las labores de ordeño donde primero se realiza una limpieza de los pezones, posterior se sumergen en la solución desinfectante, a continuación, los pezones deben secarse de manera uniforme logrando un secado óptimo eliminando todo el componente de la solución desinfectante. 
-          p.mb-0 Posterior a este se realizan el respectivo despunte donde se eliminan los 3 a 4 primeros choros de leche para eliminar así todo residuo ya sea suciedad, desinfectante, etc.
+          p.mb-4 Posterior a este se realizan el respectivo despunte donde se eliminan los 3 a 4 primeros choros de leche para eliminar así todo residuo ya sea suciedad, desinfectante, etc.
 
         .col-md-6
           figure
@@ -207,7 +207,7 @@
               i.fas.fa-angle-right
               | En caso de los rayos infrarrojos se obtiene una mejor precisión y mayor igualdad.
           p.mb-4 En el mercado existen máquinas especiales para cortar picos hechas con unas estructuras de lámina calibre 16 y 18 donde por medio de unos electrodos calientan la lámina causando así el corte y la cauterización al mismo tiempo se emplea con el pie para así permitir al operario usar las manos para sujetar el animal. 
-          p.mb-0 Un proceso de mal despique produce en las aves un gran estrés, en algunos casos el mal uso de las despicadoras puede causar hasta el corte de la lengua del animal por ende este animal no podrá alimentarse bien y será un animal improductivo por causa de un mal despique, es importante apenas terminar el proceso que las aves tengan a disposición grandes cantidades de agua para beber, ya que en esta radica el éxito de la despicada. 
+          p.mb-4 Un proceso de mal despique produce en las aves un gran estrés, en algunos casos el mal uso de las despicadoras puede causar hasta el corte de la lengua del animal por ende este animal no podrá alimentarse bien y será un animal improductivo por causa de un mal despique, es importante apenas terminar el proceso que las aves tengan a disposición grandes cantidades de agua para beber, ya que en esta radica el éxito de la despicada. 
 
         .col-md-6
           figure
@@ -220,7 +220,7 @@
 
       .row.justify-content-center.mb-4
         .col-md-6
-          figure.align-items-center
+          figure.align-items-center.mb-4
             img(src='@/assets/curso/tema6/img8.jpg' alt='limpieza en las tetas de la vaca')
         .col-md-6
           p.mb-4 Esta técnica consiste en el recorte del tejido corneo sobrante que crece por condiciones normales pero la falta de desgaste del animal genera que este crezca más de lo normal causando alteraciones en el caminar acumulación de material que posteriormente se transforma en una patología mucho más complicada, por ende, se realiza el corte de las mimas.

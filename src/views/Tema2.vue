@@ -242,7 +242,7 @@
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Localización")
           .col-md-3
-            figure
+            figure.mb-4
               img(src='@/assets/curso/tema2/imgslyder.png', alt='Granja')
           .col-md-9.mb-4.mb-md-0
             p Se recomienda que según el tipo de explotación avícula los galpones deben construirse en un terreno con buen drenaje y una corriente natural, donde las corrientes de aire no sean tan fuertes se recomienda aprovechar si hay árboles para así regular la temperatura y utilizarlos de barrera para romper el viento. Debe estar en un lugar de fácil supervisión lejos del ruido y cualquier causal de estrés para el animal lejos de las aguas estancadas o tierras con tendencia a inundarse. 
@@ -251,7 +251,7 @@
           .col-md-12.mb-md-2
             p La orientación del galpón es importante según la zona en la que se va a construir y las condiciones climáticas de la misma, ya sea para clima frío y templado o para clima cálido.
           .col-md-3.mb-md-2
-            figure
+            figure.mb-4
               img(src='@/assets/curso/tema2/imgslyder1.png', alt='Orientación para clima frío y templado')
           .col-md-9.mb-md-2
             h5.mb-3 Clima frio y templado:
@@ -265,13 +265,13 @@
             p Los galpones en la actualidad se pueden dividir en dos clases o tipos dependiendo su tecnología aplicada y características estos son: los galpones tradicionales y los galpones mucho más modernos con tecnología para el control y confort medioambiental que son galpones de ambiente controlado.
 
           .col-md-3.mb-4
-            figure
+            figure.mb-4
               img(src='@/assets/curso/tema2/imgslyder2.png', alt='Galpón de pollos')
           .col-md-9
             h5 Galpones tradicionales:
             p Son los más comunes y antiguos donde se alojan los animales en ocasiones, solo se cuenta, con medios de aireación por ventiladores, el uso de cortinas para controlar las condiciones ambientales y generar un mejor ambiente para el animal.
           .col-md-3
-            figure
+            figure.mb-4
               img(src='@/assets/curso/tema2/imgslyder3.png', alt='Galpón con trabajador')
           .col-md-9
             h5 Galpones de ambiente controlado:
