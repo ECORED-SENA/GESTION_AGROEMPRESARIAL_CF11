@@ -8,7 +8,7 @@
         span 7
       h1  Gestación
     
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -16,8 +16,7 @@
           )
           .bloque-texto-g__texto.p-4
             p.mb-4 La gestación es un proceso fisiológico de los animales donde la hembra inicia un proceso de desarrollo, conformación y maduración embrionaria la cual se produce por la fecundación del óvulo con el espermatozoide. <br><br/> La gestación de los animales varía dependiendo de la especie a continuación se explicarán los tiempos de gestación para cada especie animal (ver tabla 3).
-
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Tabla 3.
@@ -45,11 +44,10 @@
               tr
                 td.text-center Ovino
                 td.text-center 152 días
+    p.mb-4(data-aos="fade-right") Para la identificación y seguimiento de la preñez se debe tener claro, los tiempos y periodos de presentación del celo animal, ya que si se hay una repetición de celo quiere decir que el animal no se encuentra preñado o en gestación. 
+    p.mb-4(data-aos="fade-right") Presentación de celo en las especies pecuarias (ver tabla 4):
 
-    p.mb-4 Para la identificación y seguimiento de la preñez se debe tener claro, los tiempos y periodos de presentación del celo animal, ya que si se hay una repetición de celo quiere decir que el animal no se encuentra preñado o en gestación. 
-    p.mb-4 Presentación de celo en las especies pecuarias (ver tabla 4):
-
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Tabla 4.
@@ -78,15 +76,15 @@
                 td.text-center Ovinos
                 td.text-center 18 a 22 días 
 
-    p.mb-5 Existen métodos para diagnosticar la preñez de los animales, donde se puede separar dos grandes grupos, el primer grupo de métodos es el más práctico y utilizado y es por medio del sentir u observar, y el otro método se basa en marcadores químicos hormonales que tiene un animal gestante.
+    p.mb-5(data-aos="fade-left") Existen métodos para diagnosticar la preñez de los animales, donde se puede separar dos grandes grupos, el primer grupo de métodos es el más práctico y utilizado y es por medio del sentir u observar, y el otro método se basa en marcadores químicos hormonales que tiene un animal gestante.
 
 
     .bg_grad-07
-      .row.justify-content-center.mb-4
+      .row.justify-content-center.mb-4(data-aos="fade-right")
         .col-md-5
           h5.text-center Para iniciar las labores de asistencia es importante tener en cuenta las siguientes recomendaciones:
 
-      .row.mb-4
+      .row.mb-4(data-aos="fade-left")
         .col-md-12
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
             .tarjeta-avatar1
@@ -119,9 +117,9 @@
                 h5.text-center Análisis de progesterona en sangre
                 p.text-center Los análisis de sangre son métodos muy utilizados en granjas o predios muy tecnificados en este se evidencia los niveles de progesterona en sangre los cuales en caso de una preñez tienen que aumentar y permanecer elevados.
 
-    P.mb-4 Los cuidados que se les deben dar a las hembras en estado de gestación son de vital importancia para garantizar un parto ideal y el nacimiento de animales en perfectas condiciones, el objetivo de la gran mayoría de explotaciones es la cría de animales para su posterior engorde, se debe considerar realizar unos cuidados especiales a las madres donde los factores nutricionales, confort animal, manejo sanitario, y tiempos de descanso son determinantes para lograr el objetivo final. Estos cuidados son:
+    P.mb-4(data-aos="fade-right") Los cuidados que se les deben dar a las hembras en estado de gestación son de vital importancia para garantizar un parto ideal y el nacimiento de animales en perfectas condiciones, el objetivo de la gran mayoría de explotaciones es la cría de animales para su posterior engorde, se debe considerar realizar unos cuidados especiales a las madres donde los factores nutricionales, confort animal, manejo sanitario, y tiempos de descanso son determinantes para lograr el objetivo final. Estos cuidados son:
 
-    .row.align-items-center.justify-content-center.mb-4
+    .row.align-items-center.justify-content-center.mb-4(data-aos="fade-down")
       .col-md-5
         .row.justify-content-center   
           .col-lg-12
@@ -151,7 +149,7 @@
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema7',
   data: () => ({
     // variables de vue
   }),

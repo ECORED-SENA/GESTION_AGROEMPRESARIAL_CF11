@@ -8,7 +8,7 @@
         span 8
       h1  Lactación
     
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -17,16 +17,16 @@
           .bloque-texto-g__texto.p-4
             p.mb-4 Los mamíferos son animales vertebrados cuya característica más marcada es la provisión de leche hacia sus crías, por medio de esta generan una protección para las crías ayudando a su supervivencia. En la lactancia se pasan nutrientes e inmunidad de la madre a la cría, inicia inmediatamente ocurre el nacimiento hasta que las crías sean capaces de conseguir su alimento por cuenta propia.
 
-    p.mb-4 En cuanto la cría va creciendo, los componentes requeridos en la leche van cambiando de acuerdo con las necesidades; la cantidad de lactosa presente en la leche va disminuyendo gradualmente y van aumentando ácidos grasos y proteínas. La duración de la lactancia es propia de cada especie.
+    p.mb-4(data-aos="fade-left") En cuanto la cría va creciendo, los componentes requeridos en la leche van cambiando de acuerdo con las necesidades; la cantidad de lactosa presente en la leche va disminuyendo gradualmente y van aumentando ácidos grasos y proteínas. La duración de la lactancia es propia de cada especie.
    
-    .titulo-principal1.color-acento-contenido.mb-2
+    .titulo-principal1.color-acento-contenido.mb-2(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h3 La anatomía de la glándula mamaria es diferente entre especies
 
-    p.mb-4 El número de glándulas y los pezones no son iguales en la vaca, la yegua y cerda. Sin embargo, la anatomía microscópica es muy similar en todas las especies. La glándula mamaria en todas las especies se da desde la etapa fetal:
+    p.mb-4(data-aos="fade-left") El número de glándulas y los pezones no son iguales en la vaca, la yegua y cerda. Sin embargo, la anatomía microscópica es muy similar en todas las especies. La glándula mamaria en todas las especies se da desde la etapa fetal:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Glándula mamaria rumiantes")
           .col-md-12
@@ -82,21 +82,21 @@
                     td.text-center.fondo-blanco Cerda
                     td.text-center.fondo-blanco 21 a 28 días
 
-    .titulo-principal1.color-acento-contenido.mb-2
+    .titulo-principal1.color-acento-contenido.mb-2(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h3 Anomalías de las glándulas mamarias
 
-    p.mb-4 Se pueden agrupar en secciones por el tipo de anomalía y origen, como se ve a continuación:
+    p.mb-4(data-aos="fade-left") Se pueden agrupar en secciones por el tipo de anomalía y origen, como se ve a continuación:
 
-    SlyderB.vaca.p-4.mb-5(:datos="datosSlyder")
+    SlyderB.vaca.p-4.mb-5(:datos="datosSlyder")(data-aos="fade-up")
 
 
 </template>
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema8',
   data: () => ({
     datosSlyder: [
       {

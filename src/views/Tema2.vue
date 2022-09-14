@@ -9,7 +9,7 @@
       h1  Instalaciones y alojamiento pecuario
     
     .bg_grad-02
-      .row.mb-4
+      .row.mb-4(data-aos="fade-left")
         .col-md-12.col-12
           .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img(
@@ -18,19 +18,19 @@
             .bloque-texto-g__texto.p-4
               p Para el manejo de los animales y la obtención de sus mejores rendimientos es necesario contar con instalaciones que les ofrezcan las condiciones mínimas de confort, seguridad, protección y tranquilidad que estos requieren e, igualmente, dar al productor la comodidad que necesita para realizar las prácticas de manejo de la explotación productiva. 
       
-      .row.mb-4
+      .row.mb-4(data-aos="fade-right")
         .col-lg-12
           .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
             p.mb-0 Tanto las instalaciones como los alojamientos en los que permanecen los animales deben ofrecer un entorno seguro tanto para los animales como para las personas que laboran en la unidad productiva, siempre con principios de bienestar animal y la salud de los trabajadores, independientemente de la clase de explotación, de su capacidad. 
       separador
 
 
-      #t_2_1.titulo-segundo.color-acento-contenido
+      #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         .h2 2.1. Tipos
 
-      p.mb-4 Dentro de las instalaciones y alojamientos existen diferentes tipos para cada unidad pecuaria a trabajar dependiendo de las capacidades económicas de cada producción y necesidades de cada animal es importante conocer e identificar las instalaciones que mejor se adapten al sistema pecuario.
+      p.mb-4(data-aos="fade-right") Dentro de las instalaciones y alojamientos existen diferentes tipos para cada unidad pecuaria a trabajar dependiendo de las capacidades económicas de cada producción y necesidades de cada animal es importante conocer e identificar las instalaciones que mejor se adapten al sistema pecuario.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-up")
       .col-md-4.align-items-center
         .crd.clr-paleYellow-1.p-4.mb-4
           p.mb-0 Los diferentes tipos de instalaciones dependen principalmente de la explotación pecuaria y del recurso de inversión, existen alojamientos tradicionales en los cuales su inversión es mínima y se utilizan elementos propios de los predios pecuarios como lo son guaduas, madera, entre otros para darle un control y cuidado al animal, por otro lado están los alojamientos sistematizados en los cuales su infraestructura es mucho más costosa y se logra un control de las condiciones medioambientales con ayuda de la tecnología, logrando así un mayor bienestar animal y eliminando todas las condiciones de estrés. 
@@ -38,9 +38,9 @@
         figure
           img(src='@/assets/curso/tema2/img2.jpg', alt='Pollos')
 
-    p.mb-4 Existen también instalaciones que son necesarias y de común denominador para cualquier sistema productivo o explotación pecuaria, como son la bodega de almacenamiento, los silos de almacenamiento de alimento (en caso de necesitarlo), la bodega de almacenamiento de alimento y las áreas de oficinas, a continuación, se puede ver cada una de estas instalaciones:
+    p.mb-4(data-aos="fade-left") Existen también instalaciones que son necesarias y de común denominador para cualquier sistema productivo o explotación pecuaria, como son la bodega de almacenamiento, los silos de almacenamiento de alimento (en caso de necesitarlo), la bodega de almacenamiento de alimento y las áreas de oficinas, a continuación, se puede ver cada una de estas instalaciones:
     
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12
         .tarjeta.fondo-slyder.p-4
           SlyderA(tipo="b")
@@ -127,13 +127,13 @@
                   img(src='@/assets/curso/tema2/img11.png', alt='Oficinas')
     separador
 
-    #t_2_2.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 2.2.	Espacio mínimo vital
 
-    p.mb-3 Es importante para la construcción de las diferentes áreas de producción conocer y reconocer las necesidades de espacio mínimo vital para cada animal, teniendo en cuenta las diferentes fases productivas ya que son factores determinantes del mismo.
-    p.mb-5 Se conoce como espacio mínimo vital al espacio mínimo necesario para vivir ya sea un animal o un grupo de animales, se puede medir por unidades de animales por área, buscando no causar estrés en el animal y con un pilar importante para no alterar el animal como son las Buenas Prácticas de Bienestar Animal (ver tabla 1).
+    p.mb-3(data-aos="fade-left") Es importante para la construcción de las diferentes áreas de producción conocer y reconocer las necesidades de espacio mínimo vital para cada animal, teniendo en cuenta las diferentes fases productivas ya que son factores determinantes del mismo.
+    p.mb-5(data-aos="fade-left") Se conoce como espacio mínimo vital al espacio mínimo necesario para vivir ya sea un animal o un grupo de animales, se puede medir por unidades de animales por área, buscando no causar estrés en el animal y con un pilar importante para no alterar el animal como son las Buenas Prácticas de Bienestar Animal (ver tabla 1).
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-up")
       .col-md-8
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
@@ -182,14 +182,14 @@
                   p Adulta 1 animal/ 3-5 metros 
     separador
 
-    #t_2_3.titulo-segundo.color-acento-contenido
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 2.3.	Mantenimiento
 
-    p.mb-4 El mantenimiento de las instalaciones tiene como objetivo evitar las diferentes averías y fallos, asegurando el funcionamiento ideal y disponibilidad.
-    p.mb-4 En las producciones pecuarias, el estado de las instalaciones es fundamental, no solo para que se mantenga la producción en niveles ideales, sino para obtener el mejor beneficio productivo de los animales.
-    p.mb-4 Es importante conocer los tipos de mantenimiento que se deben realizar en las producciones según sus necesidades y condiciones productivas para ser aplicadas:
+    p.mb-4(data-aos="fade-left") El mantenimiento de las instalaciones tiene como objetivo evitar las diferentes averías y fallos, asegurando el funcionamiento ideal y disponibilidad.
+    p.mb-4(data-aos="fade-left") En las producciones pecuarias, el estado de las instalaciones es fundamental, no solo para que se mantenga la producción en niveles ideales, sino para obtener el mejor beneficio productivo de los animales.
+    p.mb-4(data-aos="fade-left") Es importante conocer los tipos de mantenimiento que se deben realizar en las producciones según sus necesidades y condiciones productivas para ser aplicadas:
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade-up")
       .col-sm-6.col-xl-4.mb-3.mb-xl-0
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -215,30 +215,30 @@
               h1 Mantenimiento predictivo
               p La importancia de este tipo de mantenimiento es la recopilación y análisis de datos que permiten realizar estrategias de mantenimiento, si se detectan datos o valores que para su análisis pueden ser raros o de cuidado se puede considerar un mantenimiento preventivo.
 
-    p.mb-2 La programación de mantenimiento de las diferentes instalaciones está condicionada al sistema productivo y al tipo de instalación, allí radica la programación y periodicidad de las diferentes tareas o actividades. 
+    p.mb-2(data-aos="fade-left") La programación de mantenimiento de las diferentes instalaciones está condicionada al sistema productivo y al tipo de instalación, allí radica la programación y periodicidad de las diferentes tareas o actividades. 
     separador
 
-    #t_2_4.titulo-segundo.color-acento-contenido
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 2.4.	Instalaciones según especie y fase de desarrollo	
     
-    p.mb-4 Las instalaciones en las explotaciones pecuarias son construidas y desarrolladas para      a brindar las mejores condiciones a las especies pecuarias y las personas que las manejan, debido a esto se realiza en algunos sistemas productivos la separación estructural de cada etapa productiva teniendo en cuenta condiciones especiales requeridas para cada área.   
+    p.mb-4(data-aos="fade-left") Las instalaciones en las explotaciones pecuarias son construidas y desarrolladas para      a brindar las mejores condiciones a las especies pecuarias y las personas que las manejan, debido a esto se realiza en algunos sistemas productivos la separación estructural de cada etapa productiva teniendo en cuenta condiciones especiales requeridas para cada área.   
 
-    .titulo-principal1.color-acento-contenido
+    .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h3.mb-0 Aves de corral 
 
-    .row 
+    .row.mb-4(data-aos="fade-up")
       figure
         img(src='@/assets/curso/tema2/animales1.jpg', alt='Animales de granja')
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-lg-12
         .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
           p.mb-0 Las instalaciones requeridas para las producciones avícolas dependen del sistema productivo utilizado en el predio ya que un sistema productivo intensivo requiere unas instalaciones mucho más sofisticadas, el alojamiento debe ser un ambiente controlado y duradero ya sea de tipo tradicional o sistematizado. Para la producción de avicultura intensiva es necesario contar con laboratorios (en lo cual no se va a profundizar) y en galpones.
 
-    p.mb-4 Los galpones son la instalación de alojamiento más importante en el sistema pecuario avícola ya que allí es donde se alojan las aves durante todo su ciclo productivo, para la elaboración y construcción de estos se deben tener en cuenta ciertas recomendaciones de localización, orientación y materiales de fabricación para lograr un mayor confort y aprovechamiento del lugar. A continuación, se pueden ver sus características:
+    p.mb-4(data-aos="fade-right") Los galpones son la instalación de alojamiento más importante en el sistema pecuario avícola ya que allí es donde se alojan las aves durante todo su ciclo productivo, para la elaboración y construcción de estos se deben tener en cuenta ciertas recomendaciones de localización, orientación y materiales de fabricación para lograr un mayor confort y aprovechamiento del lugar. A continuación, se pueden ver sus características:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-up")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Localización")
           .col-md-3
@@ -277,19 +277,19 @@
             h5 Galpones de ambiente controlado:
             p Son galpones con un sistema tecnológico de regulación e información contando con un sistema controlado de ventilación, refrigeración por evaporación o aspersión de agua para generar un ambiente más fresco, o sistemas de calefacción automática para generar un ambiente más cálido mucho más utilizado en el manejo del pollito. Este también cuenta con sistema de iluminación para brindar al pollo una luz constante así eliminado los factores negativos del fotoperiodo.
             
-    .titulo-principal1.color-acento-contenido
+    .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h3.mb-0 Cerdos
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12
         figure
           img(src='@/assets/curso/tema2/animales2.jpg', alt='Cerdos')
 
-    p.mb-4 Las instalaciones de los diferentes sistemas productivos porcícolas cuentan con infraestructuras para las diferentes etapas productivas de los animales, estas edificaciones dependen del número y fase productiva que alojen y siempre tendrán en cuenta como mínimo unos aspectos importantes para el manejo animal:    
+    p.mb-4(data-aos="fade-right") Las instalaciones de los diferentes sistemas productivos porcícolas cuentan con infraestructuras para las diferentes etapas productivas de los animales, estas edificaciones dependen del número y fase productiva que alojen y siempre tendrán en cuenta como mínimo unos aspectos importantes para el manejo animal:    
 
-    .row 
+    .row(data-aos="fade-up")
       .col-md-6
         .crd.clr-paleYellow2.p-4.mb-4
           p.mb-4 <b>a)</b> La localización de cada nave en el contexto global de las edificaciones de la granja con objeto de minimizar y facilitar el trasiego de animales dentro y entre naves. 
@@ -315,9 +315,9 @@
                 figure
                   img(src='@/assets/curso/tema2/img12.jpg', alt='Industria de cerdos')
 
-    p.mb-4 En los sistemas productivos porcícolas de ciclo cerrado, las principales instalaciones son las siguientes: 
+    p.mb-4(data-aos="fade-right") En los sistemas productivos porcícolas de ciclo cerrado, las principales instalaciones son las siguientes: 
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-up")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Área de gestación")
           .col-md-12.mb-4.mb-md-0
@@ -368,22 +368,22 @@
             figure
               img(src='@/assets/curso/tema2/acordeon6.png', alt='Cerdo en cuarentena')
 
-    .titulo-principal1.color-acento-contenido
+    .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h3.mb-0 Bovinos
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12
         figure
           img(src='@/assets/curso/tema2/animales3.jpg', alt='Bovinos')
 
-    p.mb-4 En la ganadería bovina la gran mayoría de producciones de ganadería de carne son de tipo extensivo lo cual requiere unas instalaciones más de tipo tradicional y un poco rudimentarias, siendo más importante las instalaciones necesarias destinadas al cargue y descargue, como también todas aquellas para la práctica, ya sea para realizar actividades sanitarias como vacunaciones, fumigaciones, baños y todo tipo de tareas que estos requieran, mientras que para la producción de leche se requiere tener condiciones e infraestructura ideal para realizar el proceso de extracción de la leche y según el tipo de producción para el alojamiento de las vacas productivas. 
-    p.mb-4 En los sistemas productivos bovinos las principales instalaciones son las siguientes:
+    p.mb-4(data-aos="fade-right") En la ganadería bovina la gran mayoría de producciones de ganadería de carne son de tipo extensivo lo cual requiere unas instalaciones más de tipo tradicional y un poco rudimentarias, siendo más importante las instalaciones necesarias destinadas al cargue y descargue, como también todas aquellas para la práctica, ya sea para realizar actividades sanitarias como vacunaciones, fumigaciones, baños y todo tipo de tareas que estos requieran, mientras que para la producción de leche se requiere tener condiciones e infraestructura ideal para realizar el proceso de extracción de la leche y según el tipo de producción para el alojamiento de las vacas productivas. 
+    p.mb-4(data-aos="fade-right") En los sistemas productivos bovinos las principales instalaciones son las siguientes:
 
-    h4.mb-4 Instalaciones para la recepción
+    h4.mb-4(data-aos="fade-left") Instalaciones para la recepción
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12.col-12
         .bloque-texto-g.color-primario1.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -392,14 +392,14 @@
           .bloque-texto-g__texto.p-4
             p.mb-4 En las ganaderías bovinas el transporte de los animales se efectúa por medio de camiones o a pie, es importante tener en cuenta en la construcción, adecuar un lugar especial para la recepción o despacho de animales llamado embarcadero, el cual consta de una plataforma que debe tener una pendiente no superior al 8 % para evitar caídas de los animales, y contar con unas barras a los laterales creando un pasillo, también cuentan con unas puertas corredizas para evitar que el ganado se escape y facilitando las labores de arreo y embarque.
 
-    p.mb-4 En algunos predios ganaderos se crean corrales de recepción donde estos corrales deben contar con al menos 5 barras para animales pequeños y 7 barras para animales mucho más grandes dispuestas horizontalmente donde la última barra superior alcance la altura de 1,30 m se deben fijar barras de manera horizontal al suelo de manera segura y fija que sea resistente al manejo animal. 
+    p.mb-4(data-aos="fade-right") En algunos predios ganaderos se crean corrales de recepción donde estos corrales deben contar con al menos 5 barras para animales pequeños y 7 barras para animales mucho más grandes dispuestas horizontalmente donde la última barra superior alcance la altura de 1,30 m se deben fijar barras de manera horizontal al suelo de manera segura y fija que sea resistente al manejo animal. 
     
-    h4.mb-4 Corrales de manejo
+    h4.mb-4(data-aos="fade-left") Corrales de manejo
 
-    p.mb-4  Este corral es un corral diseñado para todas las labores de manejo animal que requieran en el predio pecuario como lo son el descornado, herrado, vacunación, curación, entre otros. Puede ser construido de materiales como madera, hierro, madera plástica entre otros elementos que por su resistencia se pueden usar el cual cuenta de barras de forma horizontal y vertical asegurando que los animales no se escapen.   
-    p.mb-4  Este corral debe contar con diferentes áreas las cuales son divididas de la siguiente forma:
+    p.mb-4(data-aos="fade-right")  Este corral es un corral diseñado para todas las labores de manejo animal que requieran en el predio pecuario como lo son el descornado, herrado, vacunación, curación, entre otros. Puede ser construido de materiales como madera, hierro, madera plástica entre otros elementos que por su resistencia se pueden usar el cual cuenta de barras de forma horizontal y vertical asegurando que los animales no se escapen.   
+    p.mb-4(data-aos="fade-left")  Este corral debe contar con diferentes áreas las cuales son divididas de la siguiente forma:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-up")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Corrales de retención")
           .col-md-5.mb-md-2
@@ -430,25 +430,25 @@
             figure
               img(src='@/assets/curso/tema2/4.png', alt='Cerdo en cuarentena')
 
-    h4.mb-4 Salas de ordeño 
+    h4.mb-4(data-aos="fade-right") Salas de ordeño 
 
-    p.mb-4  Dentro de las instalaciones para la producción de leche en el ganado bovino y pequeños rumiantes encontramos el corazón de la producción el cual es la sala de ordeño o lugar de ordeño en el cual se realizan todas las labores relacionadas a la recolección de la leche, este lugar debe encontrarse en un sitio de la granja equidistante para evitar largos recorridos de los animales, debe contar con unas entradas y salidas claras, es importante para el sistema productivo identificar la sala de ordeño que más se adecue a las características de la producción dentro de estas encontramos:
+    p.mb-4(data-aos="fade-right")  Dentro de las instalaciones para la producción de leche en el ganado bovino y pequeños rumiantes encontramos el corazón de la producción el cual es la sala de ordeño o lugar de ordeño en el cual se realizan todas las labores relacionadas a la recolección de la leche, este lugar debe encontrarse en un sitio de la granja equidistante para evitar largos recorridos de los animales, debe contar con unas entradas y salidas claras, es importante para el sistema productivo identificar la sala de ordeño que más se adecue a las características de la producción dentro de estas encontramos:
 
-    SlyderB.vaca.p-4.mb-5(:datos="datosSlyder")
+    SlyderB.vaca.p-4.mb-5(:datos="datosSlyder")(data-aos="fade-up")
 
-    .titulo-principal1.color-acento-contenido
+    .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
         span 
       h3.mb-0 Equinos 
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12
         figure
           img(src='@/assets/curso/tema2/animales4.jpg', alt='Equinos')
 
-    p.mb-4 Las instalaciones de alojamientos equinos son instalaciones que deben tener en cuenta las características climáticas para realizar la construcción, es así que se recomienda que en zonas de climas fríos su construcción se realice de norte a sur y en zonas de clima cálido de oriente a occidente. El alojamiento debe permitir un espacio adecuado para el animal, sin alterar su zona de confort, así como permitir un adecuado espacio entre los pasillos para permitir el movimiento seguro de los animales y sus cuidadores.
+    p.mb-4(data-aos="fade-right") Las instalaciones de alojamientos equinos son instalaciones que deben tener en cuenta las características climáticas para realizar la construcción, es así que se recomienda que en zonas de climas fríos su construcción se realice de norte a sur y en zonas de clima cálido de oriente a occidente. El alojamiento debe permitir un espacio adecuado para el animal, sin alterar su zona de confort, así como permitir un adecuado espacio entre los pasillos para permitir el movimiento seguro de los animales y sus cuidadores.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12.col-12
         .bloque-texto-g.color-primario1.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -457,9 +457,9 @@
           .bloque-texto-g__texto.p-4
             p Las instalaciones equinas o caballerizas deben ser construidas con materiales fáciles de lavar, resistentes y que no absorban la humedad, se recomienda para el piso de las instalaciones materiales fáciles de limpiar y antideslizante. Los pisos de materiales como asfalto, ladrillo y concreto con materiales que por su durabilidad y el no requerir un mantenimiento constante, son de gran elección para la construcción de estas.
 
-    p.mb-4  Un elemento fundamental de los alojamientos equinos son las camas independientes del material que se elija, debe cumplir con unas condiciones de grosor y limpieza para asegurar que los animales no sufran patologías, las cuales se presentan en la siguiente tabla 2:
+    p.mb-4(data-aos="fade-right")  Un elemento fundamental de los alojamientos equinos son las camas independientes del material que se elija, debe cumplir con unas condiciones de grosor y limpieza para asegurar que los animales no sufran patologías, las cuales se presentan en la siguiente tabla 2:
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-left")
       .col-md-12
         .titulo-sexto.color-acento-contenido
           h5 Tabla 2.

@@ -9,7 +9,7 @@
       h1  Especie animal 
 
     .bg_grad-01
-      .row.mb-5
+      .row.mb-5(data-aos="fade-up")
         .col-md-12.col-12
           .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img(
@@ -19,11 +19,11 @@
               p Los sistemas productivos pecuarios se basan en la explotación y aprovechamiento de especies animales de las cuales se obtienen, principalmente, alimentos y materias primas para la industria como leche, huevo, cárnicos, pieles y fibras, entre otros, los cuales se consumen a diario en todos los hogares del mundo.
               br
               p Además de los alimentos y las materias primas, existen sistemas pecuarios enfocados en la obtención de otro tipo de beneficios de los animales, como trabajo (mulares, asnales), recreación (equinos, peces ornamentales) e incluso polinización (apicultura).    
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-up")
         .col-md-10
           p La producción pecuaria ha tenido progresos importantes en los últimos años gracias a la evolución de las tecnologías en materia de:
       
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade-up")
         SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
           .tarjeta-avatar
             img(src='@/assets/curso/tema1/vec1.svg' alt='Alimentación')
@@ -55,20 +55,20 @@
               .text-black.p-4
                 h5.text-center Instalaciones
 
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up")
         .col-md-8
           p.text-center Los progresos de la producción pecuaria se evidencian, entre otras cosas, en el aumento de los volúmenes de producción y en el mejoramiento de la calidad de los productos destinados a atender la creciente demanda.
 
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up")
         .col-md-8
           figure
             img(src='@/assets/curso/tema1/img1.png' alt='Empresa Industrial')
 
-      .row.justify-content-center.align-items-center.mb-3
+      .row.justify-content-center.align-items-center.mb-3(data-aos="fade-up")
         .col-md-12
           p.text-center Las especies animales que se trabajan en los sistemas productivos pecuarios se caracterizan, entre otras cosas, por:
 
-      .row.mb-4
+      .row.mb-4(data-aos="fade-left")
         .col-md-12
           .tarjeta.fondo-slyder.mb-5
             SlyderA(tipo="b")
@@ -118,22 +118,22 @@
                     img(src='@/assets/curso/tema1/img6.png', alt='Materiales')
     separador
 
-    #t_1_1.titulo-segundo.color-acento-contenido
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.1. Etapas de desarrollo
 
-    p.mb-4 Los diferentes sistemas productivos extraen los recursos de la canasta familiar de granjas especializadas. Estas se especializan en las especies animales bovinas, porcinas, aves (pollo engorde, gallina ponedora), pequeños rumiantes (ovejas y cabras), y equinos. A continuación, se puede ver las características y etapas de desarrollo de estas especies:
+    p.mb-4(data-aos="fade-right") Los diferentes sistemas productivos extraen los recursos de la canasta familiar de granjas especializadas. Estas se especializan en las especies animales bovinas, porcinas, aves (pollo engorde, gallina ponedora), pequeños rumiantes (ovejas y cabras), y equinos. A continuación, se puede ver las características y etapas de desarrollo de estas especies:
 
-    figure.mb-5
+    figure.mb-5(data-aos="fade-up")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/03pDoWm6PVo" title="Manejo de las especies pecuarias" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
 
-    #t_1_2.titulo-segundo.color-acento-contenido
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 1.2. Técnicas de manejo
 
-    p.mb-4 La definición de las diferentes técnicas de manejo es un concepto que se utiliza para definir todas las acciones realizadas por los manipuladores de los animales en pro de un buen comportamiento animal y mejor un aspecto productivo, para brindar al animal condiciones óptimas para lograr mejor desempeño del mismo, estas técnicas están fundamentadas en:
+    p.mb-4(data-aos="fade-right") La definición de las diferentes técnicas de manejo es un concepto que se utiliza para definir todas las acciones realizadas por los manipuladores de los animales en pro de un buen comportamiento animal y mejor un aspecto productivo, para brindar al animal condiciones óptimas para lograr mejor desempeño del mismo, estas técnicas están fundamentadas en:
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-md-4
         figure.mb-4
           img(src='@/assets/curso/tema1/img7.png', alt='Texto que describa la imagen')
@@ -147,7 +147,7 @@
             | Aplicar las diferentes medidas de bioseguridad, con la finalidad de conocer y reducir todas las diferentes situaciones de peligro que se puedan presentar tanto para la protección del hombre como del animal.
           li 
             i.fas.fa-angle-right
-            | Aplicación de los diferentes conocimientos relacionados a las instalaciones y equipos, utilizados con el fin de mantener relajados y tranquilos a los animales, identificar y retirar las distracciones, para así mejorar las labores realizadas donde se ejecute menos trabajo con mayor rendimiento y obteniendo eficacia en la producción.
+            | Aplicación de los diferentes conocimientos relacionados a las instalaciones y equipos, utilizados con el fin de mantener relajados y tranquilos a los animales, identificar y retirar las distracciones, para así mejorar las labores realizadas donde se ejecute menos trabajo con mayor rendimiento y obteniendo eficacia en la producción
           li 
             i.fas.fa-angle-right
             | Aplicación de los diferentes métodos de adiestramiento animal, que no ponga en peligro el personal y a las especies animales, desde el momento de su nacimiento hasta la el final de la vida útil productiva facilitando su manejo, conducción y traslado.

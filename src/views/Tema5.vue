@@ -8,9 +8,9 @@
         span 5
       h1  Recepción de Animales
 
-    p.mb-4 Los procesos de recepción de animales en las producciones pecuarias es el momento en el que llegan al predio los animales nuevos siendo estos requeridos, ya que existen producciones especialmente la ganadera donde se recepcionan animales juveniles para realizar el proceso de ceba, o cuando se realiza un cambio de reproductor en el predio, la llegada de animales nuevos entre otros aspectos es de gran importancia para la continuidad del ciclo productivo.
+    p.mb-4(data-aos="fade-right") Los procesos de recepción de animales en las producciones pecuarias es el momento en el que llegan al predio los animales nuevos siendo estos requeridos, ya que existen producciones especialmente la ganadera donde se recepcionan animales juveniles para realizar el proceso de ceba, o cuando se realiza un cambio de reproductor en el predio, la llegada de animales nuevos entre otros aspectos es de gran importancia para la continuidad del ciclo productivo.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       .col-md-12.col-12
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -22,12 +22,12 @@
     .bg_grad-06
       separador 
 
-      #t_5_1.titulo-segundo.color-acento-contenido
+      #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         .h2 5.1.	Procedimientos
 
-      p.mb-4 Al ingresar los animales nuevos se deben tener claros los protocolos de bioseguridad de cada producción, para así, proceder al descargue de los animales en el área de cuarentena dispuesta por el predio, para allí realizar el aislamiento y vigilancia de los mismos en busca de sintomatología. No menos importante se debe respetar el periodo de aclimatación de los animales nuevos, logrando que el nivel de estrés y alteración del sistema inmune se regule para evitar muertes repentinas o enfermedades. Se pueden ver algunos procedimientos a seguir:
+      p.mb-4(data-aos="fade-left") Al ingresar los animales nuevos se deben tener claros los protocolos de bioseguridad de cada producción, para así, proceder al descargue de los animales en el área de cuarentena dispuesta por el predio, para allí realizar el aislamiento y vigilancia de los mismos en busca de sintomatología. No menos importante se debe respetar el periodo de aclimatación de los animales nuevos, logrando que el nivel de estrés y alteración del sistema inmune se regule para evitar muertes repentinas o enfermedades. Se pueden ver algunos procedimientos a seguir:
 
-      .row 
+      .row.mb-4(data-aos="fade-up") 
         .col-md-12
           .crd.clr-paleYellow5.p-4.mb-4
             .row.align-items-center.justify-content-center.mb-4 
@@ -71,12 +71,12 @@
                   img(src='@/assets/curso/tema5/carro2.png', alt='Niño en una granja alimentando una cabra')
       separador
 
-      #t_5_2.titulo-segundo.color-acento-contenido
+      #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         .h2 5.2.	Documentos sanitarios oficiales
 
-      p.mb-4 Documentos sanitarios oficiales para realizar el transporte de animales vivos con destino ya sea al matadero u otros predios pecuarios, es importante conocerlos ya que al momento de la recepción se deben revisar y verificar su validez, estos son:
+      p.mb-4(data-aos="fade-left") Documentos sanitarios oficiales para realizar el transporte de animales vivos con destino ya sea al matadero u otros predios pecuarios, es importante conocerlos ya que al momento de la recepción se deben revisar y verificar su validez, estos son:
 
-      .tarjeta.bg1.p-4.mb-5
+      .tarjeta.bg1.p-4.mb-5(data-aos="fade-down")
         PasosB.color-acento-botones
           .row.align-items-center(titulo="").p-4
             .col-lg-7
@@ -116,7 +116,7 @@
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema5',
   data: () => ({
     // variables de vue
   }),
