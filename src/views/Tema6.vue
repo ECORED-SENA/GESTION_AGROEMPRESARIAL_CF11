@@ -20,69 +20,72 @@
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       .h2 6.1. Protocolos
 
-    .bg_grad-07
+    .bg7
       .row.align-items-center.justify-content-center.mb-4(data-aos="fade-up")
         .col-lg-12
           .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
             h5 Protocolos
-            p.mb-0 Los protocolos de manejo animal son el conjunto de reglas o lineamientos que rigen las actividades realizadas para el manejo animal, este protocolo debe ser determinado a partir de la especie a manejar y el sistema productivo, es importante tener en cuenta los requisitos, descripción de la actividad, el nivel, los criterios de cumplimiento.
-      separador
+            p Los protocolos de manejo animal son el conjunto de reglas o lineamientos que rigen las actividades realizadas para el manejo animal, este protocolo debe ser determinado a partir de la especie a manejar y el sistema productivo, es importante tener en cuenta los requisitos, descripción de la actividad, el nivel, los criterios de cumplimiento.
+            p.mb-0 #[b Nota.] En el material complementario se dejará un ejemplo.  
+        separador
 
-      #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        .h2 6.2.	Programación
+        #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          .h2 6.2.	Programación
 
-      .row.justify-content-center.mb-4(data-aos="fade-up")
-        .col-md-6
-          .crd.clr-paleYellow6.p-4.mb-4.align-items-center
-            p.mb-4 Las diferentes actividades de manejo animal requieren de una programación, dependiendo de la práctica de manejo que se vaya a realizar, es importante tener en cuenta que estas actividades son determinadas principalmente por el tipo de sistema productivo y la especie a tratar, cabe tener en cuenta también el tiempo de producción del animal para así determinar cada cuanto tiempo es requerida la actividad. 
-            p.mb-4 Las actividades como el pesaje en las aves se realizan cada 15 días o cada 30 días dependiendo el sistema productivo, en el ganado cada 60 días, y en las demás especies generalmente cada 30 días, las actividades de despique en las aves ponedoras se realiza entre los primeros 8 a12 días y posteriormente se hace un refuerzo entre la semana 10 a la12 más o menos, en relación con el despezuñado, el primer recorte se realiza a los 3 meses de edad y se repite cada 3 y 6 meses, dependiendo del tipo de explotación. 
-        .col-md-6
-          figure
-            img(src='@/assets/curso/tema6/img1.jpg', alt='Mujer alimentando gallinas')
+        .row.justify-content-center.mb-4(data-aos="fade-up")
+          .col-md-6
+            .crd.clr-paleYellow6.p-4.mb-4.align-items-center
+              p.mb-4 Las diferentes actividades de manejo animal requieren de una programación, dependiendo de la práctica de manejo que se vaya a realizar, es importante tener en cuenta que estas actividades son determinadas principalmente por el tipo de sistema productivo y la especie a tratar, cabe tener en cuenta también el tiempo de producción del animal para así determinar cada cuanto tiempo es requerida la actividad. 
+              p.mb-4 Las actividades como el pesaje en las aves se realizan cada 15 días o cada 30 días dependiendo el sistema productivo, en el ganado cada 60 días, y en las demás especies generalmente cada 30 días, las actividades de despique en las aves ponedoras se realiza entre los primeros 8 a12 días y posteriormente se hace un refuerzo entre la semana 10 a la12 más o menos, en relación con el despezuñado, el primer recorte se realiza a los 3 meses de edad y se repite cada 3 y 6 meses, dependiendo del tipo de explotación. 
+          .col-md-6
+            figure
+              img(src='@/assets/curso/tema6/img1.jpg', alt='Mujer alimentando gallinas')
 
-      p.mb-4(data-aos="fade-left") En ocasiones la programación de las labores se realiza de manera en que se ve necesario hacerla ya que en ocasiones los animales requieren de la actividad y por ende se debe realizar.
-      separador
+        p.mb-4(data-aos="fade-left") En ocasiones la programación de las labores se realiza de manera en que se ve necesario hacerla ya que en ocasiones los animales requieren de la actividad y por ende se debe realizar.
 
-      
-      #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        .h2 6.3.	Procedimientos técnicos
 
-      p.mb-4(data-aos="fade-left") Hay diferentes procedimientos técnicos para los procesos relacionados con el manejo animal, los cuales se desarrollarán a continuación:
+        separador
 
-      .titulo-principal1.color-acento-contenido.mb-4(data-aos="fade-right")
-        .titulo-principal1__numero
-          span 
-        h3.mb-0 Procedimientos técnicos para atención de la gestación y parto
+        
+        #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          .h2 6.3.	Procedimientos técnicos
 
-      p.mb-4(data-aos="fade-left") Es importante para la atención del parto reconocer los signos característicos de una gestación para así aprender a identificar el animal que se encuentra en este estado.
+        p.mb-4(data-aos="fade-left") Hay diferentes procedimientos técnicos para los procesos relacionados con el manejo animal, los cuales se desarrollarán a continuación:
 
-      .row.mb-4(data-aos="fade-up")
-        .col-md-12.col-12
-          SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
-            .tarjeta-avatar
-              img(src='@/assets/curso/tema6/1.png' alt='AvatarTop')
-              .tarjeta.color-rosa4.p-4
-                p.text-center <b>Agrandamiento de la ubre</b>
+        .titulo-principal1.color-acento-contenido.mb-4(data-aos="fade-right")
+          .titulo-principal1__numero
+            span 
+          h3.mb-0 Procedimientos técnicos para atención de la gestación y parto
 
-            .tarjeta-avatar
-              img(src='@/assets/curso/tema6/2.png' alt='AvatarTop')
-              .tarjeta.color-rosa4.p-4
-                p.text-center <b>Tumefacción vulvar</b>
+        p.mb-4(data-aos="fade-left") Es importante para la atención del parto reconocer los signos característicos de una gestación para así aprender a identificar el animal que se encuentra en este estado.
 
-            .tarjeta-avatar
-              img(src='@/assets/curso/tema6/3.png' alt='AvatarTop')
-              .tarjeta.color-rosa4.p-4
-                p.text-center <b>Agrandamiento de pezones y venas mamarias.</b>
+        .row.mb-4(data-aos="fade-up")
+          .col-md-12.col-12
+            SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+              .tarjeta-avatar
+                img(src='@/assets/curso/tema6/1.png' alt='AvatarTop')
+                .tarjeta.color-rosa4.p-4
+                  p.text-center <b>Agrandamiento de la ubre</b>
 
-            .tarjeta-avatar
-              img(src='@/assets/curso/tema6/4.png' alt='AvatarTop')
-              .tarjeta.color-rosa4.p-4
-                p.text-center <b>Agrandamiento del abdomen llegándose a volver muy prominente y tenso. </b>
+              .tarjeta-avatar
+                img(src='@/assets/curso/tema6/2.png' alt='AvatarTop')
+                .tarjeta.color-rosa4.p-4
+                  p.text-center <b>Tumefacción vulvar</b>
 
-            .tarjeta-avatar
-              img(src='@/assets/curso/tema6/5.png' alt='AvatarTop')
-              .tarjeta.color-rosa4.p-4
-                p.text-center <b>En algunos casos expulsión de leche por la ubre.</b>
+              .tarjeta-avatar
+                img(src='@/assets/curso/tema6/3.png' alt='AvatarTop')
+                .tarjeta.color-rosa4.p-4
+                  p.text-center <b>Agrandamiento de pezones y venas mamarias.</b>
+
+              .tarjeta-avatar
+                img(src='@/assets/curso/tema6/4.png' alt='AvatarTop')
+                .tarjeta.color-rosa4.p-4
+                  p.text-center <b>Agrandamiento del abdomen llegándose a volver muy prominente y tenso. </b>
+
+              .tarjeta-avatar
+                img(src='@/assets/curso/tema6/5.png' alt='AvatarTop')
+                .tarjeta.color-rosa4.p-4
+                  p.text-center <b>En algunos casos expulsión de leche por la ubre.</b>
 
       .row.mb-4.align-items-center.justify-content-center.mb-4
         .col-md-4(data-aos="fade-right")
@@ -148,7 +151,7 @@
 
       .row.my-4(data-aos="fade-left")
         .col-xxl-2.col-xl-3.col-lg-3.col-md-4.col-sm-5.col-7
-          h4.fondotitulo3.p-3.m-2.text-white.mb-0.py-4 Pesaje
+          h3.fondotitulo3.p-3.m-2.text-white.mb-0.py-4.pt-5 Pesaje
 
       .row.align-items-center.justify-content-center.mb-4
         .col-md-6(data-aos="fade-right")
@@ -161,7 +164,7 @@
 
       .row.my-4(data-aos="fade-right")
         .col-xxl-2.col-xl-3.col-lg-3.col-md-4.col-sm-5.col-7
-          h4.fondotitulo4.p-3.m-2.text-white.mb-0.py-4 ordeño
+          h3.fondotitulo4.p-3.m-2.text-white.mb-0.py-4.pt-5 Ordeño
 
       .row.align-items-center.justify-content-center.mb-4
         .col-md-6(data-aos="fade-right")
@@ -190,7 +193,7 @@
 
       .row.my-4(data-aos="fade-right")
         .col-xxl-2.col-xl-3.col-lg-3.col-md-4.col-sm-5.col-7
-          h4.fondotitulo5.p-3.m-2.text-white.mb-0.py-4 despique
+          h3.fondotitulo5.p-3.m-2.text-white.mb-0.py-4.pt-5 Despique
 
       p.mb-4(data-aos="fade-left") Este tipo de prácticas son realizadas en los diferentes sistemas productivos de aves, donde se realiza un corte del pico, como principal objetivo evitar todo tipo de heridas o laceraciones que se puedan causar entre los mismos animales, evitando todo tipo de canibalismo, crecimiento excesivo del pico que pueda causar desperdicio de alimento, y en las gallinas ponedoras evitar que la gallina rompa el huevo.
       p.mb-4(data-aos="fade-left") En la práctica existen 2 tipos o métodos para realizar el corte de los picos uno cuenta con un cuchillo caliente o una hoja de metal filosa y el segundo método es realizado con tecnología de rayos infrarrojos donde el método de la hoja de metal caliente es el más utilizado en la gran mayoría de producciones.
@@ -214,7 +217,7 @@
 
       .row.mb-4(data-aos="fade-right")
         .col-xxl-3.col-xl-4.col-lg-4.col-md-5.col-sm-6.col-8
-          h4.fondotitulo6.p-3.m-2.text-white.mb-0.py-4 Despezuñado
+          h3.fondotitulo6.p-3.m-2.text-white.mb-0.py-4.pt-5 Despezuñado
 
       .row.justify-content-center.mb-4
         .col-md-6(data-aos="fade-right")

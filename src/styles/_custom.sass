@@ -203,6 +203,19 @@
   @media screen and ( max-width: 1400px )
     height: auto
   
+.clr-paleYellow1
+  background-color: #EAECC0
+  border-radius: 20px
+  @media screen and ( max-width: 999px )
+    height: auto  
+
+.img-a 
+  display: block
+  margin: auto
+
+.img-t
+  width: auto
+  height: auto   
 
 .tabla-a thead 
   border-top: 0px solid
@@ -248,6 +261,9 @@
 .titulo-principal1.color-acento-contenido .titulo-principal1__numero 
   background-color: #A3314F
   align-items: center
+
+.bgp
+  background-color: #A3314F 
 
 .tarjeta.tarjeta-azul
   background-color: #F6F6F6
@@ -466,14 +482,12 @@
   align-items: center
 
 .lineamarilla
-  border-bottom: 3px solid #CED371
-  margin-bottom: 48px
-  display: flex
-  align-items: center
+  background-color: #CED371
+
 
 .clr-paleYellow5
   background-color: #F6F6F6
-  height: 847px
+  height: 887px
   border-radius: 20px
   @media screen and ( max-width: 999px )
     height: auto
@@ -548,6 +562,8 @@
   display: block
   width: auto
   
+.wt
+  font-size: 18px !important  
 
 .tarjeta-avatar1 .tarjeta 
   display: inline-block
@@ -597,6 +613,21 @@
     background-image: url("../assets/curso/temas/fond8.jpg")
     background-repeat: no-repeat
 
+.bg7
+  position: relative
+  .row, separador, #t_6_2.titulo-segundo, p, #t_6_3.titulo-segundo, .titulo-principal1, SlyderF,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: 10rem
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/img1.png")
+    background-repeat: no-repeat
+
 .fondo-blanco
   background-color: #ffffff
 
@@ -619,22 +650,34 @@
   background-image: url('../assets/curso/tema6/fondotitulo.svg')
   background-position: right
   background-repeat: no-repeat
-  background-size: cover
+  background-size: 100% auto
+
 
 .fondotitulo4
   background-image: url('../assets/curso/tema6/fondotitulo2.svg')
   background-position: right
   background-repeat: no-repeat
-  background-size: cover
+  background-size: 100% auto
 
 .fondotitulo5
   background-image: url('../assets/curso/tema6/fondotitulo3.svg')
   background-position: right
   background-repeat: no-repeat
-  background-size: cover
+  background-size: 100% auto
 
 .fondotitulo6
   background-image: url('../assets/curso/tema6/fondotitulo4.svg')
   background-position: right
   background-repeat: no-repeat
-  background-size: cover
+  background-size: 100% auto
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: $bp-max-sm )
+    width: 25px
+    height: 25px    
+
+.slyder-a__bullets__item    
+  @media (max-width: $bp-max-sm )
+    width: 10px
+    height: 10px  
+    margin: 0 3px  
