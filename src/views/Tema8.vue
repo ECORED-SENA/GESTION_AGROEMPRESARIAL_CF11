@@ -63,8 +63,8 @@
               table
                 thead
                   tr
-                    th.text-center.text-white Animal
-                    th.text-center.text-white Duración
+                    th.text-center.text-white.wt Animal
+                    th.text-center.text-white.wt Duración
                 tbody
                   tr
                     td.text-center.fondo-blanco Vaca
@@ -89,7 +89,7 @@
 
     p.mb-4(data-aos="fade-left") Se pueden agrupar en secciones por el tipo de anomalía y origen, como se ve a continuación:
 
-    SlyderB.vaca.p-4.mb-5(:datos="datosSlyder")(data-aos="fade-up")
+    SlyderB.vaca.p-4.mb-5(:datos="datosSlyder")(data-aos="fade-right")
 
 
 </template>

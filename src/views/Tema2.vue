@@ -44,84 +44,93 @@
       .col-md-12
         .tarjeta.fondo-slyder.p-4
           SlyderA(tipo="b")
-            .row
+            .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Tradicionales
                 p Para este tipo de producción requieren unas instalaciones mucho más sencillas y practicas ya que los animales se alojan en los diferentes potreros, o áreas donde se alimentan y realizan su ciclo productivo durante la gran parte de su vida requiere una menor infraestructura  a comparación de la sistematizada o cerrados, por ende sus costos de producción son mucho menores, Los materiales que se usen en la construcción deben ser de fácil adquisición y de bajo costo, para minimizar los costos de producción pero que al mismo tiempo ofrezcan larga durabilidad, resistencia y confort al animal especialmente en las zonas donde hay una interacción directa con el animal.
             
-              .col-md-8
+              .col-md-7
                 figure
                   img(src='@/assets/curso/tema2/img1.png', alt='Ternero')
 
-            .row
-              .col-md-12.mb-4.mb-md-0
+            .row.justify-content-center.align-items-start
+              .col-md-11.mb-4.mb-md-0
                 h4 Alojamiento Tradicional
                 figure
                   img(src='@/assets/curso/tema2/img2.png', alt='Galpón de gallinas')
 
-            .row
+            .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Sistematizadas
                 p.mb-4 Para realizar este tipo de infraestructuras e instalaciones se debe tener en cuenta un factor bastante determinante como lo es el factor económico ya que la realización de este tipo de construcción es bastante costosa, pero también depende de unos factores como lo son la localización, el tipo de producción, el clima entre otros ya que en climas cálidos las construcciones pueden ser menores ya que no requieren tanto del control medioambiental como lo puede exigir un clima mucho más frio y lluvioso.
                 p Existen instalaciones que son necesarias y de común denominador para cualquier sistema productivo o explotación pecuaria como lo son la bodega de almacenamiento, los silos de almacenamiento de alimento (en caso de necesitarlo), la bodega de almacenamiento de alimento, áreas de oficinas.   
             
-              .col-md-8
+              .col-md-7
                 figure
                   img(src='@/assets/curso/tema2/img1.png', alt='Chivo')
             
-            .row
-              .col-md-12.mb-4.mb-md-0
+            .row.justify-content-center.align-items-start
+              .col-md-11.mb-4.mb-md-0
                 h4 Alojamiento Sistematizado
                 figure
                   img(src='@/assets/curso/tema2/img3.png', alt='Supervisor')
 
-            .row
+            .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Bodega de almacenamiento
                 p Esta debe contar con la debida separación de los diferentes implementos utilizados en la explotación, siguiendo un orden especifico y puede contar con divisiones, su construcción puede ser en ladrillo cemento, metálico, madera entre otros materiales, es de gran importancia controlar las condiciones medio ambientales como la humedad, el calor entre otras.
             
-              .col-md-8
+              .col-md-7
                 figure
                   img(src='@/assets/curso/tema2/img4.png', alt='Bodegas industriales')
             
-            .row
-              .col-md-12.mb-4.mb-md-0
+            .row.justify-content-center.align-items-start
+              .col-md-11.mb-4.mb-md-0
                 h4 Bodega de almacenamiento
                 figure
                   img(src='@/assets/curso/tema2/img5.png', alt='Bodega de almacenamiento')
             
-            .row
+            .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Bodega de almacenamiento de alimento
                 p Debe contar con la capacidad suficiente para almacenar el alimento balanceado del sistema productivo, debe contar con un tipo de orden especifico y los bultos o materias primas no pueden estar en contacto con las superficies de las mismas debe ser lo suficientemente alta para lograr apilar los bultos, generalmente son construidas de cemento y ladrillo.
             
-              .col-md-8
+              .col-md-7
                 figure
                   img(src='@/assets/curso/tema2/img6.png', alt='Bodega de almacenamiento de alimento')
 
-            .row
-              .col-md-12.mb-4.mb-md-0
+            .row.justify-content-center.align-items-start
+              .col-md-11.mb-4.mb-md-0
                 h4 Bodega de almacenamiento de alimento
                 figure
                   img(src='@/assets/curso/tema2/img7.png', alt='almacenamiento de alimento')
 
-            .row
+            .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Silos de almacenamiento de alimento
                 p El alimento balanceado en algunos sistemas de explotación animal es almacenado de forma a granel en silos exteriores, eso silos son construidos con materiales de pvc o metálicos, estos a su vez alimentan de forma mecánica a los animales, estos son completamente herméticos para evitar el crecimiento bacteriano.
             
-              .col-md-8
+              .col-md-7
                 figure
                   img(src='@/assets/curso/tema2/img8.png', alt='almacenamiento de alimento')
 
-            .row
-              .col-md-12.mb-4.mb-md-0
+            .row.justify-content-center.align-items-start
+              .col-md-11.mb-4.mb-md-0
                 h4 Silos de almacenamiento de alimento
                 figure
                   img(src='@/assets/curso/tema2/img9.png', alt='Bodegas industriales')
 
-            .row
-              .col-md-12.mb-4.mb-md-0
+            .row.justify-content-center.align-items-start
+              .col-md-4.mb-4.mb-md-0
+                h4 Oficinas
+                p Áreas donde se realiza el análisis y control del sistema productivo, también se organiza y se archiva la información.
+            
+              .col-md-7
+                figure
+                  img(src='@/assets/curso/tema2/img10.png', alt='Oficinas')
+
+            .row.justify-content-center.align-items-start
+              .col-md-11.mb-4.mb-md-0
                 h4 Oficinas
                 figure
                   img(src='@/assets/curso/tema2/img11.png', alt='Oficinas')
@@ -452,7 +461,7 @@
       .col-md-12.col-12
         .bloque-texto-g.color-primario1.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/tema2/img4.jpg')})`}"
+            :style="{'background-image': `url(${require('@/assets/curso/tema2/img5.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
             p Las instalaciones equinas o caballerizas deben ser construidas con materiales fáciles de lavar, resistentes y que no absorban la humedad, se recomienda para el piso de las instalaciones materiales fáciles de limpiar y antideslizante. Los pisos de materiales como asfalto, ladrillo y concreto con materiales que por su durabilidad y el no requerir un mantenimiento constante, son de gran elección para la construcción de estas.

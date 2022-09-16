@@ -124,20 +124,20 @@
 
         p <b>Se pueden utilizar de dos maneras dependiendo el sistema productivo y etapa del animal:</b>
 
-      .row.justify-content-center.mb-4(data-aos="fade-down")
+      .row.justify-content-center(data-aos="fade-down")
         .col-md-3
-          .crd.clr-paleYellow.align-items-center.p-4.mb-4
+          .crd.clr-paleYellow1.align-items-center.p-4.h-100
             figure.mb-4
               img(src='@/assets/curso/tema3/img3.png' alt='AvatarTop')
-            h5 1 - Automáticos regulables
-            p.text-center Son comederos automáticos que liberan el alimento a determinada hora, o situación programada todo es controlado por una computadora.
+            h5.text-center 1 - Automáticos regulables
+            p.text-center.mb-0 Son comederos automáticos que liberan el alimento a determinada hora, o situación programada todo es controlado por una computadora.
 
         .col-md-3
-          .crd.clr-paleYellow.align-items-center.p-4.mb-4
+          .crd.clr-paleYellow1.align-items-center.p-4.h-100
             figure.mb-4
               img(src='@/assets/curso/tema3/img4.png' alt='AvatarTop')
-            h5 2 - Automáticos de libre alimentación
-            p.text-center Comederos en los cuales el animal aprende a liberar el alimento así comiendo cada que el animal tenga hambre o deseos de alimentarse, aplicando así un sistema de alimentación a voluntad del animal.
+            h5.text-center 2 - Automáticos de libre alimentación
+            p.text-center.mb-0 Comederos en los cuales el animal aprende a liberar el alimento así comiendo cada que el animal tenga hambre o deseos de alimentarse, aplicando así un sistema de alimentación a voluntad del animal.
 
       .row.my-4(data-aos="fade-right")
         .col-xxl-2.col-xl-3.col-lg-3.col-md-4.col-sm-5.col-7

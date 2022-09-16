@@ -30,45 +30,48 @@
       .row.mb-4(data-aos="fade-up") 
         .col-md-12
           .crd.clr-paleYellow5.p-4.mb-4
-            .row.align-items-center.justify-content-center.mb-4 
+            .row.align-items-center.justify-content-center.mb-4.pt-2 
               .col-lg-4.col-12
-                .titulo-principal1.color-acento-contenido.mb-3
-                  .titulo-principal1__numero.p-1
-                    h5.text-white.text-center Solicitud de documentos sanitarios vigentes
+                .row
+                  .col-lg-12.mb-3
+                    .bgp.p-1
+                      h5.mb-0.text-white Solicitud de documentos sanitarios vigentes
                 p Revisión de la documentación.
               .col-lg-1.col-4
                 figure
-                  img(src='@/assets/curso/tema5/documentos.png', alt='Niño en una granja alimentando una cabra')
+                  img.img-a.img-t(src='@/assets/curso/tema5/documentos.png', alt='Niño en una granja alimentando una cabra')
             
             .row.justify-content-center
               .col-md-10  
-                .lineamarilla
+                hr.lineamarilla
 
             .row.align-items-center.justify-content-center.mb-4
               .col-md-5.col-6
                 figure.mb-4
-                  img(src='@/assets/curso/tema5/carro1.png', alt='Niño en una granja alimentando una cabra')
+                  img.img-a.img-t(src='@/assets/curso/tema5/carro1.png', alt='Niño en una granja alimentando una cabra')
               .col-md-5
-                .titulo-principal1.color-acento-contenido.mb-3
-                  .titulo-principal1__numero
-                    h5.p-1.mb-1.text-white.text-center Verificación del medio de transporte y condición animal
+                .row
+                  .col-lg-11.mb-3
+                    .bgp.p-1
+                      h5.mb-0.text-white  Verificación del medio de transporte y condición animal
                 p Se realiza una verificación visual de las condiciones en la que fueron transportados los animales evaluando conjuntamente a los animales para descartar muertes, laceraciones, heridas, entre otras injurias causadas en el viaje.
 
             .row.justify-content-center
               .col-md-10  
-                .lineamarilla
+                hr.lineamarilla
 
             .row.align-items-center.justify-content-center.mb-4
               .col-md-5
-                .titulo-principal1.color-acento-contenido.mb-3
-                  .titulo-principal1__numero
-                    h5.p-1.mb-1.text-white.text-center Descargue de los animales
+                .row
+                  .col-lg-6.mb-3
+                    .bgp.p-1
+                      h5.mb-0.text-white Descargue de los animales
                 p.mb-4 Este proceso debe realizarse de manera calmada y tranquila por parte de los operarios para evitar que los animales entren en pánico o estrés y puedan sufrir lesiones, se recomienda que se realice a través de plataformas especiales para el descargue y cargue de animales las cuales deben contar con superficies antideslizante con un inclinación menor a 20 grados, se debe asegurar que la entrada la salida del camión hacia la rampa quede bien alineada y a una distancia cercana para evitar fracturas de miembros por parte de los animales. 
                 p.mb-4 Es importante realizar un conteo para asegurar que coincidan los animales descargados con los adquiridos o citados en la documentación. 
 
               .col-md-5.col-10
                 figure
-                  img(src='@/assets/curso/tema5/carro2.png', alt='Niño en una granja alimentando una cabra')
+                  img.img-a.img-t(src='@/assets/curso/tema5/carro2.png', alt='Niño en una granja alimentando una cabra')
       separador
 
       #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
