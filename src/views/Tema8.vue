@@ -76,7 +76,7 @@
                     td.text-center.fondo-blanco Oveja
                     td.text-center.fondo-blanco 6 - 7 meses
                   tr
-                    td.text-center.fondo-gris  Cabra
+                    td.text-center.fondo-gris Cabra
                     td.text-center.fondo-gris 7 - 8 meses (sistema intensivo)
                   tr
                     td.text-center.fondo-blanco Cerda
