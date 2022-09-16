@@ -198,31 +198,35 @@
     p.mb-4(data-aos="fade-left") En las producciones pecuarias, el estado de las instalaciones es fundamental, no solo para que se mantenga la producción en niveles ideales, sino para obtener el mejor beneficio productivo de los animales.
     p.mb-4(data-aos="fade-left") Es importante conocer los tipos de mantenimiento que se deben realizar en las producciones según sus necesidades y condiciones productivas para ser aplicadas:
 
-    .row.mb-5(data-aos="fade-up")
-      .col-sm-6.col-xl-4.mb-3.mb-xl-0
-        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
-          .indicador--hover(v-if="indicadorTarjetaFlip")
-          .tarjeta-flip__contenedor.color-2
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/flip1.png')})`}")
-            .tarjeta-flip__contenido.p-5.p-xl-5
-              h1 Mantenimiento preventivo
-              p Este tipo de tareas tiene como objetivo principal reducir todos los riesgos, fallas y posibles daños en las instalaciones, es importante tener en cuenta las programaciones de mantenimiento de cada producción.
+    .row.mb-4.mb-md-5(data-aos="fade-down")
+      .col-lg-4.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema2/flip1.png')
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.bghover
+            h5.text-center.mb-0 Mantenimiento preventivo
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4
+              h5 Mantenimiento preventivo
+              p.mb-0 Este tipo de tareas tiene como objetivo principal reducir todos los riesgos, fallas y posibles daños en las instalaciones, es importante tener en cuenta las programaciones de mantenimiento de cada producción.
+      .col-lg-4.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema2/flip2.png')
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.bghover
+            h5.text-center.mb-0 Mantenimiento correctivo
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4
+              h5 Mantenimiento correctivo
+              p.mb-0 El mantenimiento correctivo consiste en reparar la avería después de producirse, es importante realizarla lo más rápido posible después de que sucede ya que si es una avería que afecte un área productiva importante puede causar retrasos importantes y por ende perdidas económicas considerables.
+      .col-lg-4.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema2/flip3.png')
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.bghover
+            h5.text-center.mb-0 Mantenimiento predictivo
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4
+              h5 Mantenimiento predictivo
+              p.mb-0 La importancia de este tipo de mantenimiento es la recopilación y análisis de datos que permiten realizar estrategias de mantenimiento, si se detectan datos o valores que para su análisis pueden ser raros o de cuidado se puede considerar un mantenimiento predictivo.
 
-      .col-sm-6.col-xl-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
-          .tarjeta-flip__contenedor.color-2
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/flip2.png')})`}")
-            .tarjeta-flip__contenido.p-5.p-xl-5
-              h1 Mantenimiento correctivo
-              p El mantenimiento correctivo consiste en reparar la avería después de producirse, es importante realizarla lo más rápido posible después de que sucede ya que si es una avería que afecte un área productiva importante puede causar retrasos importantes y por ende perdidas económicas considerables.
-
-      .col-sm-6.col-xl-4.mb-4.mb-sm-0
-        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
-          .tarjeta-flip__contenedor.color-2
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema2/flip3.png')})`}")
-            .tarjeta-flip__contenido.p-5.p-xl-5
-              h1 Mantenimiento predictivo
-              p La importancia de este tipo de mantenimiento es la recopilación y análisis de datos que permiten realizar estrategias de mantenimiento, si se detectan datos o valores que para su análisis pueden ser raros o de cuidado se puede considerar un mantenimiento preventivo.
 
     p.mb-2(data-aos="fade-left") La programación de mantenimiento de las diferentes instalaciones está condicionada al sistema productivo y al tipo de instalación, allí radica la programación y periodicidad de las diferentes tareas o actividades. 
     separador
