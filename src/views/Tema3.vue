@@ -125,7 +125,7 @@
         p <b>Se pueden utilizar de dos maneras dependiendo el sistema productivo y etapa del animal:</b>
 
       .row.justify-content-center(data-aos="fade-down")
-        .col-md-3
+        .col-md-3.mb-4
           .crd.clr-paleYellow1.align-items-center.p-4.h-100
             figure.mb-4
               img(src='@/assets/curso/tema3/img3.png' alt='AvatarTop')
@@ -213,7 +213,7 @@
         .py-3.py-md-4(titulo="Ordeñadoras mecánicas")
           .row.p-4
             .col-md-6.mb-4.mb-md-0
-              p Este equipo permite realizar el ordeño de los animales son muy utilizados en grandes rumiantes como en pequeños, estas máquinas aplican vacío parcial al pezón para lograr extraer la leche, ejerce fuerzas que provoca un masaje en el pezón para aumentar la circulación del mismo evitando congestiones y posibles problemas de mastitis, estos equipos cuentan con un copa de ordeño, pezoneras, bomba de vacío, regulador de vacío, recibidor y bomba para la leche, mangueras de conducción, colector de ordeño, motor, entre otras. Es importante realizar una previa limpieza u desinfección de las diferentes partes para evitar enfermedades o alteraciones en el producto.
+              p Este equipo permite realizar el ordeño de los animales son muy utilizados en grandes rumiantes como en pequeños, estas máquinas aplican vacío parcial al pezón para lograr extraer la leche, ejerce fuerzas que provoca un masaje en el pezón para aumentar la circulación del mismo evitando congestiones y posibles problemas de mastitis, estos equipos cuentan con una copa de ordeño, pezoneras, bomba de vacío, regulador de vacío, recibidor y bomba para la leche, mangueras de conducción, colector de ordeño, motor, entre otras. Es importante realizar una previa limpieza u desinfección de las diferentes partes para evitar enfermedades o alteraciones en el producto.
             .col-md-6
               figure
                 img(src='@/assets/curso/tema3/img7.png', alt='Pollos bebes')

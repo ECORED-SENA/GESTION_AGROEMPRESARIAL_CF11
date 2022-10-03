@@ -23,6 +23,13 @@
   to 
     -webkit-transform: rotate(359deg)
 
+html
+  white-space:nowrap
+
+body 
+  display:inline-block
+  overflow-x: hidden
+
 //Tema 1
 
 .slyder-a__tipo-b 
@@ -40,7 +47,7 @@
     content: ''
     position: absolute
     margin: 0 -3rem 
-    top: -0px
+    top: 0px
     left: 0px
     width: calc( 100% + 6rem)
     height: 100%
@@ -137,11 +144,11 @@
     height: auto
   @media screen and ( max-width: 500px )
     background-color: #E8CBD3
-    width: 290px
+    width: 360px
     height: auto
-  @media screen and ( max-width: 400px )
+  @media screen and ( max-width: 300px )
     background-color: #E8CBD3
-    width: 255px
+    width: auto
     height: auto
 
 .tarjeta-avatar > img 
@@ -357,6 +364,16 @@
   background-color: #E8CBD3
   width: 330px
   @media (max-width: 1000px)
+    width: 520px
+  @media (max-width: 800px)
+    width: 400px
+  @media (max-width: 600px)
+    width: 380px
+  @media (max-width: 500px)
+    width: 300px
+  @media (max-width: 420px)
+    width: 250px
+  @media (max-width: 320px)
     width: auto
 
 .tarjeta-avatar > img 
@@ -535,9 +552,13 @@
     width: 340px
   @media (max-width: 1000px)
     width: 500px
-  @media (max-width: 800px)
-    width: 300px
+  @media (max-width: 780px)
+    width: 380px
   @media (max-width: 600px)
+    width: 370px
+  @media (max-width: 500px)
+    width: 320px
+  @media (max-width: 400px)
     width: auto
 
 .color-rosa5
@@ -550,9 +571,13 @@
     width: 340px
   @media (max-width: 1000px)
     width: 500px
-  @media (max-width: 800px)
-    width: 300px
+  @media (max-width: 780px)
+    width: 380px
   @media (max-width: 600px)
+    width: 370px
+  @media (max-width: 500px)
+    width: 320px
+  @media (max-width: 400px)
     width: auto
 
 .clr-paleYellow7
@@ -642,7 +667,7 @@
 
 .bg7
   position: relative
-  .row, separador, #t_6_2.titulo-segundo, p, #t_6_3.titulo-segundo, .titulo-principal1, SlyderF,
+  .row, separador, #t_6_1.titulo-segundo, p, #t_6_2.titulo-segundo, .titulo-principal1, SlyderF,
     position: relative
   &::before
     content: ''

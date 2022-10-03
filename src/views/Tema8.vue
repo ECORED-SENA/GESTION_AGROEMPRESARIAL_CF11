@@ -108,7 +108,7 @@ export default {
       {
         titulo: 'Alteraciones (tamaño y estructura)',
         texto:
-          '<b>Hiperplasia mamaria</b><br></br>Crecimiento descontrolado de células dentro de la glándula mamaria.<br></br><b>Quistes</b><br></br>Sáculos que son llenados por presencia de líquido debido a una salida secretora obstruida.<br></br><b>Inflamación</b><br></br>La inflamación de la glándula mamaria es la afección más común en animales, existen de diferentes tipos por el origen que tenga, entre los más comunes están:<br></br><b>Tumores</b><br></br>De origen conectivo y origen epitelial como adenomas y carcinomas.<br></br>edema y endurecimiento, se observan cambios físicos en la leche.',
+          '<b>Hiperplasia mamaria</b><br></br>Crecimiento descontrolado de células dentro de la glándula mamaria.<br></br><b>Quistes</b><br></br>Sáculos que son llenados por presencia de líquido debido a una salida secretora obstruida.<br></br><b>Inflamación</b><br></br>La inflamación de la glándula mamaria es la afección más común en animales, existen de diferentes tipos por el origen que tenga, entre los más comunes están:<br></br><b>Tumores</b><br></br>De origen conectivo y origen epitelial como adenomas y carcinomas.<br></br>Edema y endurecimiento, se observan cambios físicos en la leche.',
         imagen: require('@/assets/curso/tema8/tetas2.jpg'),
       },
       {

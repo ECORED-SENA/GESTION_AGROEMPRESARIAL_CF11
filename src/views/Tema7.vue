@@ -31,19 +31,20 @@
             tbody
               tr
                 td.text-center Bovino 
-                td.text-center 283 días
+                td.text-center 283 días.
               tr
                 td.text-center Caprino
-                td.text-center 150 días
+                td.text-center 150 días.
               tr
                 td.text-center Porcino
                 td.text-center 3 meses, 3 semanas, 3 días.
               tr
                 td.text-center Equino
-                td.text-center 11-12 meses
+                td.text-center 11-12 meses.
               tr
                 td.text-center Ovino
-                td.text-center 152 días
+                td.text-center 152 días.
+
     p.mb-4(data-aos="fade-right") Para la identificación y seguimiento de la preñez se debe tener claro, los tiempos y periodos de presentación del celo animal, ya que si se hay una repetición de celo quiere decir que el animal no se encuentra preñado o en gestación. 
     p.mb-4(data-aos="fade-right") Presentación de celo en las especies pecuarias (ver tabla 4):
 
@@ -62,19 +63,19 @@
             tbody
               tr
                 td.text-center Bovinos 
-                td.text-center Cada  21 días
+                td.text-center Cada  21 días.
               tr
                 td.text-center Equinos 
-                td.text-center 18 - 20 días 
+                td.text-center 18 - 20 días.
               tr
                 td.text-center Porcinos 
                 td.text-center 2 a 7 días después del destete.
               tr
                 td.text-center Caprinos 
-                td.text-center 18 a 22 días 
+                td.text-center 18 a 22 días. 
               tr
                 td.text-center Ovinos
-                td.text-center 18 a 22 días 
+                td.text-center 18 a 22 días.
 
     p.mb-5(data-aos="fade-left") Existen métodos para diagnosticar la preñez de los animales, donde se puede separar dos grandes grupos, el primer grupo de métodos es el más práctico y utilizado y es por medio del sentir u observar, y el otro método se basa en marcadores químicos hormonales que tiene un animal gestante.
 
@@ -126,7 +127,7 @@
             LineaTiempoD.color-primario
               .row.align-items-center(numero="1" titulo="Alimentación") 
                 .col-md-12
-                  p El alimento ofrecido al animal en estado de gestación tiene que cumplir con los requerimientos nutricionales exigidos tanto por la madre como por el feto en estado de desarrollo, este alimento tiene que ser de calidad y en cantidad suficiente para evitar la desnutrición del animal y futuros problemas en el parto, es importante también realizar una suplementación con minerales para así evitar problemas de hipocalcemia deficiencias de fosforo entre otros problemas por deficiencia de minerales.
+                  p El alimento ofrecido al animal en estado de gestación tiene que cumplir con los requerimientos nutricionales exigidos tanto por la madre como por el feto en estado de desarrollo, este alimento tiene que ser de calidad y en cantidad suficiente para evitar la desnutrición del animal y futuros problemas en el parto, es importante también realizar una suplementación con minerales para así evitar problemas de hipocalcemia deficiencias de fósforo entre otros problemas por deficiencia de minerales.
 
               .row.align-items-center(numero="2" titulo="Sanidad")
                 .col-md-12
@@ -134,7 +135,7 @@
 
               .row.align-items-center(numero="3" titulo="Espacio adecuado")
                 .col-md-12
-                  p Es importante ofrecer el espacio adecuado a los animales para evitar situaciones de estrés por confinamiento, también elegir un lugar plano donde el aminal no tenga riesgos de caídas o deslices.
+                  p Es importante ofrecer el espacio adecuado a los animales para evitar situaciones de estrés por confinamiento, también elegir un lugar plano donde el animal no tenga riesgos de caídas o deslices.
 
               .row.align-items-center(numero="4" titulo="Tiempo de descanso") 
                 .col-md-12

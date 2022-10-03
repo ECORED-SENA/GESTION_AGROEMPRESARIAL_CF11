@@ -47,7 +47,7 @@
             .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Tradicionales
-                p Para este tipo de producción requieren unas instalaciones mucho más sencillas y practicas ya que los animales se alojan en los diferentes potreros, o áreas donde se alimentan y realizan su ciclo productivo durante la gran parte de su vida requiere una menor infraestructura  a comparación de la sistematizada o cerrados, por ende sus costos de producción son mucho menores, Los materiales que se usen en la construcción deben ser de fácil adquisición y de bajo costo, para minimizar los costos de producción pero que al mismo tiempo ofrezcan larga durabilidad, resistencia y confort al animal especialmente en las zonas donde hay una interacción directa con el animal.
+                p Para este tipo de producción requieren unas instalaciones mucho más sencillas y prácticas ya que los animales se alojan en los diferentes potreros, o áreas donde se alimentan y realizan su ciclo productivo durante la gran parte de su vida requiere una menor infraestructura  a comparación de la sistematizada o cerrados, por ende sus costos de producción son mucho menores, Los materiales que se usen en la construcción deben ser de fácil adquisición y de bajo costo, para minimizar los costos de producción pero que al mismo tiempo ofrezcan larga durabilidad, resistencia y confort al animal especialmente en las zonas donde hay una interacción directa con el animal.
             
               .col-md-7
                 figure
@@ -62,7 +62,7 @@
             .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Sistematizadas
-                p.mb-4 Para realizar este tipo de infraestructuras e instalaciones se debe tener en cuenta un factor bastante determinante como lo es el factor económico ya que la realización de este tipo de construcción es bastante costosa, pero también depende de unos factores como lo son la localización, el tipo de producción, el clima entre otros ya que en climas cálidos las construcciones pueden ser menores ya que no requieren tanto del control medioambiental como lo puede exigir un clima mucho más frio y lluvioso.
+                p.mb-4 Para realizar este tipo de infraestructuras e instalaciones se debe tener en cuenta un factor bastante determinante como lo es el factor económico ya que la realización de este tipo de construcción es bastante costosa, pero también depende de unos factores como lo son la localización, el tipo de producción, el clima entre otros ya que en climas cálidos las construcciones pueden ser menores ya que no requieren tanto del control medioambiental como lo puede exigir un clima mucho más frío y lluvioso.
                 p Existen instalaciones que son necesarias y de común denominador para cualquier sistema productivo o explotación pecuaria como lo son la bodega de almacenamiento, los silos de almacenamiento de alimento (en caso de necesitarlo), la bodega de almacenamiento de alimento, áreas de oficinas.   
             
               .col-md-7
@@ -78,7 +78,7 @@
             .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Bodega de almacenamiento
-                p Esta debe contar con la debida separación de los diferentes implementos utilizados en la explotación, siguiendo un orden especifico y puede contar con divisiones, su construcción puede ser en ladrillo cemento, metálico, madera entre otros materiales, es de gran importancia controlar las condiciones medio ambientales como la humedad, el calor entre otras.
+                p Esta debe contar con la debida separación de los diferentes implementos utilizados en la explotación, siguiendo un orden especifico y puede contar con divisiones, su construcción puede ser en ladrillo, cemento, metálico, madera entre otros materiales, es de gran importancia controlar las condiciones medioambientales como la humedad, el calor entre otras.
             
               .col-md-7
                 figure
@@ -93,7 +93,7 @@
             .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Bodega de almacenamiento de alimento
-                p Debe contar con la capacidad suficiente para almacenar el alimento balanceado del sistema productivo, debe contar con un tipo de orden especifico y los bultos o materias primas no pueden estar en contacto con las superficies de las mismas debe ser lo suficientemente alta para lograr apilar los bultos, generalmente son construidas de cemento y ladrillo.
+                p Debe contar con la capacidad suficiente para almacenar el alimento balanceado del sistema productivo, debe contar con un tipo de orden especifico y los bultos o materias primas no pueden estar en contacto con las superficies de la mismas, debe ser lo suficientemente alta para lograr apilar los bultos, generalmente son construidas de cemento y ladrillo.
             
               .col-md-7
                 figure
@@ -108,7 +108,7 @@
             .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Silos de almacenamiento de alimento
-                p El alimento balanceado en algunos sistemas de explotación animal es almacenado de forma a granel en silos exteriores, eso silos son construidos con materiales de pvc o metálicos, estos a su vez alimentan de forma mecánica a los animales, estos son completamente herméticos para evitar el crecimiento bacteriano.
+                p El alimento balanceado en algunos sistemas de explotación animal es almacenado de forma a granel en silos exteriores, esos silos son construidos con materiales de PVC o metálicos, estos a su vez alimentan de forma mecánica a los animales, estos son completamente herméticos para evitar el crecimiento bacteriano.
             
               .col-md-7
                 figure
@@ -258,7 +258,7 @@
             figure.mb-4
               img(src='@/assets/curso/tema2/imgslyder.png', alt='Granja')
           .col-md-9.mb-4.mb-md-0
-            p Se recomienda que según el tipo de explotación avícula los galpones deben construirse en un terreno con buen drenaje y una corriente natural, donde las corrientes de aire no sean tan fuertes se recomienda aprovechar si hay árboles para así regular la temperatura y utilizarlos de barrera para romper el viento. Debe estar en un lugar de fácil supervisión lejos del ruido y cualquier causal de estrés para el animal lejos de las aguas estancadas o tierras con tendencia a inundarse. 
+            p Se recomienda que según el tipo de explotación avícola los galpones deben construirse en un terreno con buen drenaje y una corriente natural, donde las corrientes de aire no sean tan fuertes se recomienda aprovechar si hay árboles para así regular la temperatura y utilizarlos de barrera para romper el viento. Debe estar en un lugar de fácil supervisión lejos del ruido y cualquier causal de estrés para el animal lejos de las aguas estancadas o tierras con tendencia a inundarse. 
 
         .row.align-items-center(titulo="Orientación")
           .col-md-12.mb-md-2
@@ -267,7 +267,7 @@
             figure.mb-4
               img(src='@/assets/curso/tema2/imgslyder1.png', alt='Orientación para clima frío y templado')
           .col-md-9.mb-md-2
-            h5.mb-3 Clima frio y templado:
+            h5.mb-3 Clima frío y templado:
             p.mb-5 Este clima se considera desde los 15 y 20 grados centígrados donde el eje más largo del galpón se direccione de norte a sur esto para lograr una mayor temperatura provocada por la luz solar que el este permanentemente se posiciona sobre el galpón.
             h5.mb-3 Clima cálido:
             p.mb-5 Las condiciones de clima cálido se presentan a temperaturas mayores de los 20 grados centígrados donde el eje del galpón se debe ubicar de manera de oriente a occidente para así tener periodos de sombra y regular un poco la temperatura.
@@ -288,7 +288,7 @@
               img(src='@/assets/curso/tema2/imgslyder3.png', alt='Galpón con trabajador')
           .col-md-9
             h5 Galpones de ambiente controlado:
-            p Son galpones con un sistema tecnológico de regulación e información contando con un sistema controlado de ventilación, refrigeración por evaporación o aspersión de agua para generar un ambiente más fresco, o sistemas de calefacción automática para generar un ambiente más cálido mucho más utilizado en el manejo del pollito. Este también cuenta con sistema de iluminación para brindar al pollo una luz constante así eliminado los factores negativos del fotoperiodo.
+            p Son galpones con un sistema tecnológico de regulación e información contando con un sistema controlado de ventilación, refrigeración por evaporación o aspersión de agua para generar un ambiente más fresco, o sistemas de calefacción automática para generar un ambiente más cálido mucho más utilizado en el manejo del pollito. Este también cuenta con sistema de iluminación para brindar al pollo una luz constante así eliminado los factores negativos del fotoperíodo.
             
     .titulo-principal1.color-acento-contenido(data-aos="fade-right")
       .titulo-principal1__numero
@@ -334,7 +334,7 @@
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
         .row.align-items-center(titulo="Área de gestación")
           .col-md-12.mb-4.mb-md-0
-            p.mb-4 Esta área cuenta con una jaula por cerda donde se encontrara la cerda desde el momento de la inseminación hasta su traslado a la sala de maternidad (110 días más o menos), esta jaula deberá se confortable para el animal donde se pueda parar y acostar con facilidad pero evitando que tenga mucho espacio para no provocar lesiones ya que el peso que pueden alcanzar en esta etapa puede ser muy alto, de esta manera también se facilita el manejo frente a la detección de celo y preñez , la alimentación y demás prácticas que son de vital importancia.
+            p.mb-4 Esta área cuenta con una jaula por cerda donde se encontrara la cerda desde el momento de la inseminación hasta su traslado a la sala de maternidad (110 días más o menos), esta jaula deberá ser confortable para el animal donde se pueda parar y acostar con facilidad pero evitando que tenga mucho espacio para no provocar lesiones ya que el peso que pueden alcanzar en esta etapa puede ser muy alto, de esta manera también se facilita el manejo frente a la detección de celo y preñez , la alimentación y demás prácticas que son de vital importancia.
           .col-md-3
             figure.mb-4
               img(src='@/assets/curso/tema2/acordeon1.png', alt='Cerdo montando una hembra')
@@ -555,7 +555,7 @@ export default {
       {
         titulo: 'Rotativo',
         texto:
-          'Los animales son ingresados a una plataforma circular la cual realiza el ordeño al mismo tiempo que va sacado los animales mientras gira a medida que va girando sale una y entra otra ocupando el lugar de la anterior. Es una de las salas más costosas por el costo de inversión.',
+          'Los animales son ingresados a una plataforma circular la cual realiza el ordeño al mismo tiempo que va sacando los animales mientras gira a medida que va girando sale una y entra otra ocupando el lugar de la anterior. Es una de las salas más costosas por el costo de inversión.',
         imagen: require('@/assets/curso/tema2/vaca2.jpg'),
       },
       {

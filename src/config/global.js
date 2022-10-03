@@ -39,20 +39,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Características',
+            titulo: 'Etapas de desarrollo',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Etapas de desarrollo',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
             titulo: 'Técnicas de manejo',
-            hash: 't_1_3',
+            hash: 't_1_2',
           },
         ],
       },
@@ -168,20 +162,14 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '6.1',
-            titulo: 'Protocolos',
+            titulo: 'Programación',
             hash: 't_6_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '6.2',
-            titulo: 'Programación',
-            hash: 't_6_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.3',
             titulo: 'Procedimientos técnicos',
-            hash: 't_6_3',
+            hash: 't_6_2',
           },
         ],
       },
@@ -242,7 +230,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Bavera, G.: Bocco, O.;, Beguet, H.; y Petryna, A. (2005). Crecimiento, desarrollo y precocidad. Cursos de Producción Bovina de Carne, FAV UNRC.',
+        'Bavera, G.; Bocco, O.; Beguet, H.; y Petryna, A. (2005). Crecimiento, desarrollo y precocidad. Cursos de Producción Bovina de Carne, FAV UNRC.',
       link:
         'https://www.produccion-animal.com.ar/informacion_tecnica/exterior/05-crecimiento_desarrollo_y_precocidad.pdf',
     },

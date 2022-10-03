@@ -26,7 +26,7 @@
       p.mb-4(data-aos="fade-right") Entre los principios básicos de bienestar animal siempre se habla de la regla de las “cinco libertades”
 
       .row.mb-4(data-aos="fade-up")
-        .col-md-12
+        .col-md-12.col-12
           SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
             .tarjeta-avatar
               img(src='@/assets/curso/tema4/1.png' alt='AvatarTop')
@@ -103,7 +103,7 @@
             .row.justify-content-center.align-items-start
               .col-md-4.mb-4.mb-md-0
                 h4 Animales. Tipo de comportamiento. 
-                p Todos los animales tienen un tipo de comportamiento según el nivel de luminosidad ya sea natural o el que se proporcione en un ambiente controlado, la cantidad de horas luz determina el ciclo circadiano del animal, en países con estaciones climáticas los animales adquieren un tipo de comportamiento especifico de cada especie para aumentar su confort y seguridad en cada una de las estaciones.
+                p Todos los animales tienen un tipo de comportamiento según el nivel de luminosidad ya sea natural o el que se proporcione en un ambiente controlado, la cantidad de horas luz determina el ciclo circadiano del animal, en países con estaciones climáticas los animales adquieren un tipo de comportamiento específico de cada especie para aumentar su confort y seguridad en cada una de las estaciones.
             
               .col-md-7
                 figure
@@ -242,7 +242,7 @@
       .row.mb-4(data-aos="fade-up")
         .col-lg-12
           .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
-            p.mb-0 La garantía de un buen trato hacia los animales desde el primer momento que pisen la granja de explotación pecuaria no solo es beneficioso para el animal y la producción si no para un manejo fácil y seguro a través de su vida y sus años productivos, ya que los animales recuerdan experiencias atemorizantes o que les ocasionan dolor y desarrollan comportamientos defensivos para evitarlo. 
+            p.mb-0 La garantía de un buen trato hacia los animales desde el primer momento que pisen la granja de explotación pecuaria no solo es beneficioso para el animal y la producción sino para un manejo fácil y seguro a través de su vida y sus años productivos, ya que los animales recuerdan experiencias atemorizantes o que les ocasionan dolor y desarrollan comportamientos defensivos para evitarlo. 
 
       p.mb-4(data-aos="fade-right") Se debe actualizar y sensibilizar al personal que esté directamente implicado en el manejo de los animales, de esta manera se garantiza un trato adecuado hacia ellos; además se debe mantener en buen estado las instalaciones de manera que sean apropiadas para una adecuada estadía de los animales y un correcto desarrollo del animal que pueda garantizar su bienestar óptimo dentro de la granja. 
 

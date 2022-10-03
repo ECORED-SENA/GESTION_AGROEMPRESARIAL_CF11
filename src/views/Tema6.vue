@@ -15,10 +15,6 @@
       .col-md-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema6/animales.png', alt='Animales de granja')
-    separador 
-
-    #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      .h2 6.1. Protocolos
 
     .bg7
       .row.align-items-center.justify-content-center.mb-4(data-aos="fade-up")
@@ -26,17 +22,17 @@
           .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
             h5 Protocolos
             p Los protocolos de manejo animal son el conjunto de reglas o lineamientos que rigen las actividades realizadas para el manejo animal, este protocolo debe ser determinado a partir de la especie a manejar y el sistema productivo, es importante tener en cuenta los requisitos, descripción de la actividad, el nivel, los criterios de cumplimiento.
-            p.mb-0 #[b Nota.] En el material complementario se dejará un ejemplo.  
+            p.mb-0 #[b Nota.] En el material complementario prácticas de manejo animal se dejará un ejemplo.  
         separador
 
-        #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          .h2 6.2.	Programación
+        #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          .h2 6.1.	Programación
 
         .row.justify-content-center.mb-4(data-aos="fade-up")
           .col-md-6
             .crd.clr-paleYellow6.p-4.mb-4.align-items-center
               p.mb-4 Las diferentes actividades de manejo animal requieren de una programación, dependiendo de la práctica de manejo que se vaya a realizar, es importante tener en cuenta que estas actividades son determinadas principalmente por el tipo de sistema productivo y la especie a tratar, cabe tener en cuenta también el tiempo de producción del animal para así determinar cada cuanto tiempo es requerida la actividad. 
-              p.mb-4 Las actividades como el pesaje en las aves se realizan cada 15 días o cada 30 días dependiendo el sistema productivo, en el ganado cada 60 días, y en las demás especies generalmente cada 30 días, las actividades de despique en las aves ponedoras se realiza entre los primeros 8 a12 días y posteriormente se hace un refuerzo entre la semana 10 a la12 más o menos, en relación con el despezuñado, el primer recorte se realiza a los 3 meses de edad y se repite cada 3 y 6 meses, dependiendo del tipo de explotación. 
+              p.mb-4 Las actividades como el pesaje en las aves se realizan cada 15 días o cada 30 días dependiendo el sistema productivo, en el ganado cada 60 días, y en las demás especies generalmente cada 30 días, las actividades de despique en las aves ponedoras se realiza entre los primeros 8 a 12 días y posteriormente se hace un refuerzo entre la semana 10 a la s12 más o menos, en relación con el despezuñado, el primer recorte se realiza a los 3 meses de edad y se repite cada 3 y 6 meses, dependiendo del tipo de explotación. 
           .col-md-6
             figure
               img(src='@/assets/curso/tema6/img1.jpg', alt='Mujer alimentando gallinas')
@@ -47,8 +43,8 @@
         separador
 
         
-        #t_6_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          .h2 6.3.	Procedimientos técnicos
+        #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          .h2 6.2.	Procedimientos técnicos
 
         p.mb-4(data-aos="fade-left") Hay diferentes procedimientos técnicos para los procesos relacionados con el manejo animal, los cuales se desarrollarán a continuación:
 
@@ -178,7 +174,7 @@
       .row.mb-4(data-aos="fade-down")
         .col-lg-12
           .cajon.color-acento-contenido(style='background-color: #E1E4A8').p-4
-            p.mb-0 La limpieza y la higiene en el ordeño es un punto importante en la realización de un ordeño adecuado donde por medio de estas prácticas aseguramos la salud del animal y el cuidado de la ubre, así asegurando la producción se debe tener en cuenta realizar un lavado de tanto las patas como la ubre y posterior a este realizar un secado de la misma, así logrando un estimulación inicial, teniendo en cuenta los conceptos de sellado y pre-sellado en la limpieza y desinfección de la ubre donde el sellado consiste en realizar el sumergimiento del pezón en una solución desinfectante comúnmente yodada, después se realiza la limpieza y por último el secado esto es realizado después de las labores de ordeño.
+            p.mb-0 La limpieza y la higiene en el ordeño es un punto importante en la realización de un ordeño adecuado donde por medio de estas prácticas aseguramos la salud del animal y el cuidado de la ubre, así asegurando la producción se debe tener en cuenta realizar un lavado de tanto las patas como la ubre y posterior a este realizar un secado de la misma, así logrando una estimulación inicial, teniendo en cuenta los conceptos de sellado y pre-sellado en la limpieza y desinfección de la ubre donde el sellado consiste en realizar el sumergimiento del pezón en una solución desinfectante comúnmente yodada, después se realiza la limpieza y por último el secado esto es realizado después de las labores de ordeño.
 
       .row.align-items-center.justify-content-center.mb-4
         .col-md-6(data-aos="fade-right")
@@ -224,7 +220,7 @@
           figure.align-items-center.mb-4
             img(src='@/assets/curso/tema6/img8.jpg' alt='limpieza en las tetas de la vaca')
         .col-md-6(data-aos="fade-left")
-          p.mb-4 Esta técnica consiste en el recorte del tejido corneo sobrante que crece por condiciones normales pero la falta de desgaste del animal genera que este crezca más de lo normal causando alteraciones en el caminar acumulación de material que posteriormente se transforma en una patología mucho más complicada, por ende, se realiza el corte de las mimas.
+          p.mb-4 Esta técnica consiste en el recorte del tejido córneo sobrante que crece por condiciones normales pero la falta de desgaste del animal genera que este crezca más de lo normal causando alteraciones en el caminar acumulación de material que posteriormente se transforma en una patología mucho más complicada, por ende, se realiza el corte de las mismas.
           .crd.clr-paleYellow7.p-4.mb-4.align-items-center
             p.mb-0 Este recorte debe hacerse con mucho cuidado solo cortando la parte que crece en exceso y se hace de manera progresiva, en caso de ver sangrado detener la práctica.
 
