@@ -78,79 +78,79 @@
       
       p.mb-4(data-aos="fade-right") A continuación, se puede ver un poco más al respecto:
 
-    .row.mb-4(data-aos="fade-up")
-      .col-md-12
-        .tarjeta.fondo-slyder.p-4
-          SlyderA(tipo="b")
-            .row.justify-content-center.align-items-start
-              .col-md-4.mb-4.mb-md-0
-                h4 Animales Domésticos. Primeras vivencias de nacimiento. 
-                p En animales domésticos se conoce como impronta a las primeras vivencias desde el nacimiento y días posteriores a este, los primeros días son determinantes para el futuro comportamiento de cada animal en su vida adulta.
-            
-              .col-md-7
-                figure
-                  img(src='@/assets/curso/tema4/img1.png', alt='Ternero')
+      .row.mb-4(data-aos="fade-up")
+        .col-md-12
+          .tarjeta.fondo-slyder.p-4
+            SlyderA(tipo="b")
+              .row.justify-content-center.align-items-start
+                .col-md-4.mb-4.mb-md-0
+                  h4 Animales Domésticos. Primeras vivencias de nacimiento. 
+                  p En animales domésticos se conoce como impronta a las primeras vivencias desde el nacimiento y días posteriores a este, los primeros días son determinantes para el futuro comportamiento de cada animal en su vida adulta.
+              
+                .col-md-7
+                  figure
+                    img(src='@/assets/curso/tema4/img1.png', alt='Ternero')
 
-            .row.justify-content-center.align-items-start
-              .col-md-4.mb-4.mb-md-0
-                h4 Animales de Presa. Visión y olfato para una supervivencia.
-                p Los animales de presa dependen de sentidos como audición, visión y olfato para una supervivencia y desde el punto de vista de una explotación, estos sentidos son importantes para una adecuada relación entre cuidador y animal. En cuanto a la visión tiene una importancia relevante en el manejo, la invasión de esta zona determinará que el animal se mueva (o fugue) en una dirección particular de acuerdo con la posición desde donde se ingrese a la misma. (SENASA, 2015). En los animales el olfato y audición sirven para detectar depredadores cuando están cerca y en partes oscuras se agudiza la audición con movimientos selectivos en los que se puede posicionar para obtener un máximo rendimiento auditivo. 
-            
-              .col-md-7
-                figure
-                  img(src='@/assets/curso/tema4/img2.png', alt='Ternero')
+              .row.justify-content-center.align-items-start
+                .col-md-4.mb-4.mb-md-0
+                  h4 Animales de Presa. Visión y olfato para una supervivencia.
+                  p Los animales de presa dependen de sentidos como audición, visión y olfato para una supervivencia y desde el punto de vista de una explotación, estos sentidos son importantes para una adecuada relación entre cuidador y animal. En cuanto a la visión tiene una importancia relevante en el manejo, la invasión de esta zona determinará que el animal se mueva (o fugue) en una dirección particular de acuerdo con la posición desde donde se ingrese a la misma. (SENASA, 2015). En los animales el olfato y audición sirven para detectar depredadores cuando están cerca y en partes oscuras se agudiza la audición con movimientos selectivos en los que se puede posicionar para obtener un máximo rendimiento auditivo. 
+              
+                .col-md-7
+                  figure
+                    img(src='@/assets/curso/tema4/img2.png', alt='Ternero')
 
-            .row.justify-content-center.align-items-start
-              .col-md-4.mb-4.mb-md-0
-                h4 Animales. Tipo de comportamiento. 
-                p Todos los animales tienen un tipo de comportamiento según el nivel de luminosidad ya sea natural o el que se proporcione en un ambiente controlado, la cantidad de horas luz determina el ciclo circadiano del animal, en países con estaciones climáticas los animales adquieren un tipo de comportamiento específico de cada especie para aumentar su confort y seguridad en cada una de las estaciones.
-            
-              .col-md-7
-                figure
-                  img(src='@/assets/curso/tema4/img3.png', alt='Ternero')
+              .row.justify-content-center.align-items-start
+                .col-md-4.mb-4.mb-md-0
+                  h4 Animales. Tipo de comportamiento. 
+                  p Todos los animales tienen un tipo de comportamiento según el nivel de luminosidad ya sea natural o el que se proporcione en un ambiente controlado, la cantidad de horas luz determina el ciclo circadiano del animal, en países con estaciones climáticas los animales adquieren un tipo de comportamiento específico de cada especie para aumentar su confort y seguridad en cada una de las estaciones.
+              
+                .col-md-7
+                  figure
+                    img(src='@/assets/curso/tema4/img3.png', alt='Ternero')
 
-            .row.justify-content-center.align-items-start
-              .col-md-4.mb-4.mb-md-0
-                h4 Animales. Condición o etapa de vida.
-                p Existen comportamientos de los animales ligados a su condición o etapa de vida en la que se encuentran:
-                ul.lista-ul.ps-3
-                  li 
-                    i.fas.fa-angle-right
-                    p.mb-0 Macho y hembra.  
-                  li 
-                    i.fas.fa-angle-right
-                    p.mb-0 Edad. 
-                  li 
-                    i.fas.fa-angle-right
-                    p.mb-0 Estado reproductivo (castrado o sin castrar).
-                  li 
-                    i.fas.fa-angle-right
-                    p.mb-0 Hembras gestantes.
-                  li 
-                    i.fas.fa-angle-right
-                    p.mb-0 Hembras con cría o sin cría.                  
-            
-              .col-md-7
-                figure
-                  img(src='@/assets/curso/tema4/img4.png', alt='Ternero')
+              .row.justify-content-center.align-items-start
+                .col-md-4.mb-4.mb-md-0
+                  h4 Animales. Condición o etapa de vida.
+                  p Existen comportamientos de los animales ligados a su condición o etapa de vida en la que se encuentran:
+                  ul.lista-ul.ps-3
+                    li 
+                      i.fas.fa-angle-right
+                      p.mb-0 Macho y hembra.  
+                    li 
+                      i.fas.fa-angle-right
+                      p.mb-0 Edad. 
+                    li 
+                      i.fas.fa-angle-right
+                      p.mb-0 Estado reproductivo (castrado o sin castrar).
+                    li 
+                      i.fas.fa-angle-right
+                      p.mb-0 Hembras gestantes.
+                    li 
+                      i.fas.fa-angle-right
+                      p.mb-0 Hembras con cría o sin cría.                  
+              
+                .col-md-7
+                  figure
+                    img(src='@/assets/curso/tema4/img4.png', alt='Ternero')
 
-            .row.justify-content-center.align-items-start
-              .col-md-4.mb-4.mb-md-0
-                h4 Animales domésticos comportamientos.  Viven en Rebaño o parvada. 
-                p Los animales domésticos tienen comportamientos gregarios, viven en rebaño o parvada y tienen unas posiciones sociales dependiendo de fuerza, edad, sexo, entre otras. Tienen un comportamiento de apareamiento promiscuo y en su etapa juvenil, se debe reconocer el comportamiento de cada especie para minimizar el estrés en el manejo y garantizar un bienestar animal. Esto, para que nos genere un doble propósito debido a que un animal en un buen estado genera mayor productividad y rentabilidad en cualquier explotación pecuaria. 
-            
-              .col-md-7
-                figure
-                  img(src='@/assets/curso/tema4/img5.png', alt='Ternero')
+              .row.justify-content-center.align-items-start
+                .col-md-4.mb-4.mb-md-0
+                  h4 Animales domésticos comportamientos.  Viven en Rebaño o parvada. 
+                  p Los animales domésticos tienen comportamientos gregarios, viven en rebaño o parvada y tienen unas posiciones sociales dependiendo de fuerza, edad, sexo, entre otras. Tienen un comportamiento de apareamiento promiscuo y en su etapa juvenil, se debe reconocer el comportamiento de cada especie para minimizar el estrés en el manejo y garantizar un bienestar animal. Esto, para que nos genere un doble propósito debido a que un animal en un buen estado genera mayor productividad y rentabilidad en cualquier explotación pecuaria. 
+              
+                .col-md-7
+                  figure
+                    img(src='@/assets/curso/tema4/img5.png', alt='Ternero')
 
-            .row.justify-content-center.align-items-start
-              .col-md-4.mb-4.mb-md-0
-                h4 Animales. Actividades cotidianas no muy cambiantes. 
-                p Se recomienda realizar actividades cotidianas no muy cambiantes a las cuales el animal está acostumbrado para evitar estrés y reacciones inesperadas, todo esto se logra mediante las respuestas al estímulo aprendidas a lo largo de la vida del animal. 
-            
-              .col-md-7
-                figure
-                  img(src='@/assets/curso/tema4/img6.png', alt='Ternero')
+              .row.justify-content-center.align-items-start
+                .col-md-4.mb-4.mb-md-0
+                  h4 Animales. Actividades cotidianas no muy cambiantes. 
+                  p Se recomienda realizar actividades cotidianas no muy cambiantes a las cuales el animal está acostumbrado para evitar estrés y reacciones inesperadas, todo esto se logra mediante las respuestas al estímulo aprendidas a lo largo de la vida del animal. 
+              
+                .col-md-7
+                  figure
+                    img(src='@/assets/curso/tema4/img6.png', alt='Ternero')
 
     separador
 
