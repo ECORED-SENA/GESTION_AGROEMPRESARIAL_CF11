@@ -32,7 +32,7 @@
           .col-md-6
             .crd.clr-paleYellow6.p-4.mb-4.align-items-center
               p.mb-4 Las diferentes actividades de manejo animal requieren de una programación, dependiendo de la práctica de manejo que se vaya a realizar, es importante tener en cuenta que estas actividades son determinadas principalmente por el tipo de sistema productivo y la especie a tratar, cabe tener en cuenta también el tiempo de producción del animal para así determinar cada cuanto tiempo es requerida la actividad. 
-              p.mb-4 Las actividades como el pesaje en las aves se realizan cada 15 días o cada 30 días dependiendo el sistema productivo, en el ganado cada 60 días, y en las demás especies generalmente cada 30 días, las actividades de despique en las aves ponedoras se realiza entre los primeros 8 a 12 días y posteriormente se hace un refuerzo entre la semana 10 a la s12 más o menos, en relación con el despezuñado, el primer recorte se realiza a los 3 meses de edad y se repite cada 3 y 6 meses, dependiendo del tipo de explotación. 
+              p.mb-4 Las actividades como el pesaje en las aves se realizan cada 15 días o cada 30 días dependiendo el sistema productivo, en el ganado cada 60 días, y en las demás especies generalmente cada 30 días, las actividades de despique en las aves ponedoras se realiza entre los primeros 8 a 12 días y posteriormente se hace un refuerzo entre la semana 10 a las 12 más o menos, en relación con el despezuñado, el primer recorte se realiza a los 3 meses de edad y se repite cada 3 y 6 meses, dependiendo del tipo de explotación. 
           .col-md-6
             figure
               img(src='@/assets/curso/tema6/img1.jpg', alt='Mujer alimentando gallinas')
