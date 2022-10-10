@@ -23,6 +23,29 @@
   to 
     -webkit-transform: rotate(359deg)
 
+/// titulo rojo h4 + icono
+.img50
+  width: 50px
+.img70
+  width: 70px
+.img80
+  width: 80px
+
+.cstmH4
+  position: relative
+  padding-left: 1rem
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 50%
+    left: 0
+    transform: translateY(-50%)
+    width: 90%
+    height: 90%
+    background-color: #A3314F
+
 //Tema 1
 
 .slyder-a__tipo-b 
@@ -34,7 +57,7 @@
 
 .bg_grad-01
   position: relative
-  .row, .tarjeta-avatar, SlyderF, .bloque-texto-g,
+  & > *
     position: relative
   &::before
     content: ''
