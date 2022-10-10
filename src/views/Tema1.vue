@@ -410,7 +410,7 @@
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 1.2 Técnicas de manejo
+      h2 1.2 Etapas de desarrollo
 
     .row.justify-content-center.mb-4
       .col-xl-6.mb-4.mb-xl-0(data-aos="fade-right")

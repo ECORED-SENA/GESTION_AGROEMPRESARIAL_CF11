@@ -39,14 +39,20 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Etapas de desarrollo',
+            titulo: 'Características de las especies animales pecuarias',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Técnicas de manejo',
+            titulo: 'Etapas de desarrollo',
             hash: 't_1_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '1.3',
+            titulo: 'Técnicas de manejo',
+            hash: 't_1_3',
           },
         ],
       },
