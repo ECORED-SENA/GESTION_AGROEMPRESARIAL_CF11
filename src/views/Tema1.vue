@@ -201,7 +201,7 @@
               ul.fa-ul
                 li.mb-2
                   i.fa-li.fa.fa-check
-                  | Cuerpo un poco más alargado con forma de triangulo
+                  | Cuerpo un poco más alargado con forma de triángulo
                 li.mb-2
                   i.fa-li.fa.fa-check
                   | Su ubre es mucho más desarrollada y grande se evidencia un tamaño de pezones ideal
@@ -330,7 +330,7 @@
       .col-xl-6.order-2.order-xl-1
         p Animales mamíferos que cuentan con un solo dedo llamado casco, son animales propiamente herbívoros se alimentan de heno, pasto, granos de cebada, algunas hortalizas, avena, soja, maíz, entre otras. 
 
-        p Su sistema digestivo es un poco delicado por ende requiere muchos cuidados alimenticios y en la forma de alimentar ya que es recomendable repartir la ración en pequeñas cantidades pero muchas veces al contrario de alimentar solo con un gran ración, su usos productivos son principalmente la cría.
+        p Su sistema digestivo es un poco delicado por ende requiere muchos cuidados alimenticios y en la forma de alimentar ya que es recomendable repartir la ración en pequeñas cantidades pero muchas veces al contrario de alimentar solo con un gran ración, sus usos productivos son principalmente la cría.
       
       .col-xl-6.mb-4.mb-xl-0.order-1.order-xl-2(data-aos="zoom-in")
         figure
@@ -377,7 +377,7 @@
                   | COBB.
           tr
             td.text-center Huevo (gallina ponedora) 
-            td Se busca que las gallinas ponedoras tengan alto rendimiento en postura, una conformación de cascara de huevo fuerte y resistente, que su instinto de maternidad sea marcado.
+            td Se busca que las gallinas ponedoras tengan alto rendimiento en postura, una conformación de cáscara de huevo fuerte y resistente, que su instinto de maternidad sea marcado.
             td
               p Línea roja (huevo marrón)
               ul.fa-ul
@@ -455,7 +455,7 @@
       .py-3.py-md-4(titulo="Fase de inicio")
         .row.justify-content-center.px-5
           .col-xl-6.mb-4.mb-xl-0
-            p Esta fase va del nacimiento del animal hasta más o menos los 6 meses de la ternera, donde el animal las primeras 24 a 48 horas debe ser alimentado con calostro producido por la leche de su madre, en esta fase el desarrollo del componente digestivo es fundamental donde hay un desarrollo del rumen ya que las terneras recién nacidas funcionan como monogástricas, donde su estómago funcional es el abomaso, a medida de que el animal va creciendo e inicia el consumo de solidos este va desarrollando el rumen y retículo donde el rumen cuanta con un 25 %, el retículo un 5%, el omaso un 10% y el abomaso un 60% que a diferencia de su periodo final de desarrollo y conformación este termina en 80% rumen, 5% retículo 8% omaso y 7 % abomaso, así la ternera ya puede realizar los procesos de fermentación ruminal y captar todos los nutrientes y energía que brindan los forrajes.
+            p Esta fase va del nacimiento del animal hasta más o menos los 6 meses de la ternera, donde el animal las primeras 24 a 48 horas debe ser alimentado con calostro producido por la leche de su madre, en esta fase el desarrollo del componente digestivo es fundamental donde hay un desarrollo del rumen ya que las terneras recién nacidas funcionan como monogástricas, donde su estómago funcional es el abomaso, a medida de que el animal va creciendo e inicia el consumo de sólidos este va desarrollando el rumen y retículo donde el rumen cuanta con un 25 %, el retículo un 5%, el omaso un 10% y el abomaso un 60% que a diferencia de su periodo final de desarrollo y conformación este termina en 80% rumen, 5% retículo 8% omaso y 7 % abomaso, así la ternera ya puede realizar los procesos de fermentación ruminal y captar todos los nutrientes y energía que brindan los forrajes.
 
             p.mb-0 Este proceso toma un tiempo más o menos de 2 a 3 semanas de edad.
         
@@ -466,7 +466,7 @@
       .py-3.py-md-4(titulo="Fase de levante")
         .row.px-5
           .col-lg-6.mb-4.mb-lg-0
-            p Este periodo inicia después de realizarse el destete de los animales estos animales oscilan entre más o menos los 150 a 200 kg de peso vivo y una edad promedio entre los 8 meses y el año de edad. En esta fase los animales alcanzan la madurez sexual y en las vacas lecheras se toma hasta más o menos los 26 y 29 meses de edad.
+            p Este periodo inicia después de realizarse el destete de los animales, estos animales oscilan entre más o menos los 150 a 200 kg de peso vivo y una edad promedio entre los 8 meses y el año de edad. En esta fase los animales alcanzan la madurez sexual y en las vacas lecheras se toma hasta más o menos los 26 y 29 meses de edad.
         
           .col-lg-6            
             figure
@@ -475,7 +475,7 @@
       .py-3.py-md-4(titulo="Fase de producción")
         .row.px-5
           .col-lg-6.mb-4.mb-lg-0
-            p Esta fase inicia cuando la novilla o las vacas productivas alcanzan su primer parto o se encuentran preñadas iniciando su fase de producción lechera con un completo desarrollo de la glándula mamaria y una novilla lista para gestar una cría.
+            p Esta fase inicia cuando la novilla o las vacas productivas alcanzan su primer parto o se encuentran preñadas, iniciando su fase de producción lechera con un completo desarrollo de la glándula mamaria y una novilla lista para gestar una cría.
         
           .col-lg-6            
             figure
@@ -497,7 +497,7 @@
       .py-3.py-md-4(titulo="Fase de inicio")
         .row.px-5
           .col-lg-6.mb-4.mb-lg-0
-            p Esta fase no tiene gran diferencia a la ganadería de leche ya que el ternero posee las mismas características físicas y requiere el mismo cuidado.           
+            p Esta fase no tiene gran diferencia a la ganadería de leche, ya que el ternero posee las mismas características físicas y requiere el mismo cuidado.           
         
           .col-lg-6            
             figure
@@ -506,7 +506,7 @@
       .py-3.py-md-4(titulo="Fase de levante")
         .row.px-5
           .col-lg-6.mb-4.mb-lg-0
-            p Esta fase va generalmente hasta los 24 meses en hembras y 20 meses en machos es una fase de producción donde se debe aprovechar el pico de crecimiento de los animales.
+            p Esta fase va generalmente hasta los 24 meses en hembras y 20 meses en machos, es una fase de producción donde se debe aprovechar el pico de crecimiento de los animales.
 
             p Estos animales en la fase de levante requieren para una ganancia de 600 gramos al día se debe suministrar de proteína 601 gramos y altos niveles de calcio para su desarrollo osteomuscular, y un porcentaje más o menos del 2 % de su peso vivo en materia seca.          
         
@@ -539,9 +539,9 @@
       .py-3.py-md-4(titulo="Etapa de cría")
         .row.px-5
           .col-lg-6.mb-4.mb-lg-0
-            p Comienza en la semana cero de vida del ave hasta la semana número cinco, esta etapa es la más citica y delicada, se debe tener en cuenta aspectos para evitar que las aves contraigan enfermedades virales y bacteriológicas, se debe tener precaución como alimentación correcta (en las primeras dos horas de vida se debe suministrar solo agua a voluntad), cuidados por cambio del ambiente, aseo correcto, entre otros. 
+            p Comienza en la semana cero de vida del ave hasta la semana número cinco, esta etapa es la más crítica y delicada, se debe tener en cuenta aspectos para evitar que las aves contraigan enfermedades virales y bacteriológicas, se debe tener precaución como alimentación correcta (en las primeras dos horas de vida se debe suministrar solo agua a voluntad), cuidados por cambio del ambiente, aseo correcto, entre otros. 
 
-            p Cuando la pollita sale del cascaron se vacuna inmediatamente contra la enfermedad de NewCastle y Viruela aviar.           
+            p Cuando la pollita sale del cascarón se vacuna inmediatamente contra la enfermedad de NewCastle y Viruela aviar.           
         
           .col-lg-6            
             figure
@@ -589,7 +589,7 @@
       .py-3.py-md-4(titulo="Preinicio")
         .row.justify-content-center.px-5
           .col-xl-6.mb-4.mb-xl-0
-            p Se habla de preinicio en la parte más crítica y delicada de la vida del pollito va desde la salida de cascaron del pollito hasta el día 9 aproximadamente; es donde se debe prestar más atención para que en las siguientes etapas se pueda obtener un pollito vigoroso con excelente salud. 
+            p Se habla de preinicio en la parte más crítica y delicada de la vida del pollito, va desde la salida de cascarón del pollito hasta el día 9 aproximadamente; es donde se debe prestar más atención para que en las siguientes etapas se pueda obtener un pollito vigoroso con excelente salud. 
 
             p Antes de la llegada del pollito se deben de prender criadoras con unas 8 horas de anticipación aproximadamente con el fin de recibir el pollito a una temperatura de 32 grados Celsius, se debe recibir con agua fresca y alimento a disposición además se debe tener 23 horas de iluminación; tanto temperatura como iluminación irán disminuyendo día a día paulatinamente.
 
@@ -603,7 +603,7 @@
         .row.px-5
           .col-lg-6.mb-4.mb-lg-0
             p En esta etapa el pollito cambia el tipo de alimento, pasa de un alimento en su mayoría pulverizado a un alimento más denso y tiene una duración aproximada de 11 a 12 días, en esta fase hay desarrollo esquelético para un buen soporte de masa muscular en los siguientes días.
-            p Se debe ir aumentando el espacio lentamente en medida que el pollo va creciendo y aumentando el sistema de ventilación.           
+            p Se debe ir aumentando el espacio lentamente en la medida que el pollo va creciendo y aumentando el sistema de ventilación.           
         
           .col-lg-6            
             figure
@@ -614,7 +614,7 @@
           .col-lg-6.mb-4.mb-lg-0
             p En esta etapa se da una transición del alimento de iniciación al de engorde, esta etapa tiene una duración de 12 días aproximadamente, existe un cambio en la textura y en la densidad nutricional; en este momento se puede observar un crecimiento acelerado del ave. 
 
-            p Además, se debe estimular el pollo para una buena ingesta de alimento y con esto lograr un desempeño biológico óptimo de la línea genética seleccionada y es de suma importancia el suministro de una densidad nutricional optima con un consumo de agua adecuada que nos puede servir de indicador de consumo de alimento por ave, en esta instancia se requiere que el pollo tenga un buen acceso a los aminoácidos y energía que requiere su rápido crecimiento.           
+            p Además, se debe estimular el pollo para una buena ingesta de alimento y con esto lograr un desempeño biológico óptimo de la línea genética seleccionada y es de suma importancia el suministro de una densidad nutricional óptima con un consumo de agua adecuada que nos puede servir de indicador de consumo de alimento por ave, en esta instancia se requiere que el pollo tenga un buen acceso a los aminoácidos y energía que requiere su rápido crecimiento.           
         
           .col-lg-6            
             figure
@@ -644,7 +644,7 @@
               figure
                 img(src="@/assets/curso/tema1/t1_27.svg", alt="alt").img70
 
-    p(data-aos="fade-right") Según las diferentes etapas de desarrollo del cerdo las granjas porcinas comerciales dividen su sistema productivo en etapas dependiendo el crecimiento del animal y sus características de desarrollo, en las cuales también se evidencian las fases de inicio levante y ceba donde el objetivo general es producir carne de cerdo bajo estándares de calidad. 
+    p(data-aos="fade-right") Según las diferentes etapas de desarrollo del cerdo, las granjas porcinas comerciales dividen su sistema productivo en etapas dependiendo el crecimiento del animal y sus características de desarrollo, en las cuales también se evidencian las fases de inicio, levante y ceba donde el objetivo general es producir carne de cerdo bajo estándares de calidad. 
 
     p(data-aos="fade-right") Para entender el ciclo productivo de la producción porcina se debe conocer las características básicas tanto de la hembra como del macho:
 
@@ -652,7 +652,7 @@
       .py-3.py-md-4(titulo="Hembras")
         .row.px-5
           .col-xl-4.mb-4.mb-lg-0
-            p La reproducción de las hembras y el alcance de la madurez sexual están muy condicionado a la presencia de los machos en los sistemas de explotación ya que estimulan la hembra de manera natural logrando así acelerar los procesos de madurez. 
+            p La reproducción de las hembras y el alcance de la madurez sexual están muy condicionados a la presencia de los machos en los sistemas de explotación ya que estimulan la hembra de manera natural logrando así acelerar los procesos de madurez. 
 
             p Las características sexuales están también muy determinadas al medio ambiente y condiciones físicas del animal.          
         
@@ -683,7 +683,7 @@
       .py-3.py-md-4(titulo="Machos")
         .row.px-5
           .col-lg-6.mb-4.mb-lg-0
-            p La madurez sexual de los cerdos reproductores es un proceso que se da de manera gradual donde se evidencian caso desde los 5 meses un cerdo puede servir la hembra pero no es muy recomendable ya que muchas veces su desarrollo no es completo y no ha logrado su maduración, es aconsejable que se empiece a realizar a partir de los 7 a 8 meses de edad con un peso promedio de 110 a 120 kg.
+            p La madurez sexual de los cerdos reproductores es un proceso que se da de manera gradual donde se evidencian casos desde los 5 meses un cerdo puede servir la hembra pero no es muy recomendable ya que muchas veces su desarrollo no es completo y no ha logrado su maduración, es aconsejable que se empiece a realizar a partir de los 7 a 8 meses de edad con un peso promedio de 110 a 120 kg.
             p Sus 3 fases son:   
 
             p.mb-0 #[strong Iniciación:]
@@ -727,7 +727,8 @@
             | Aplicación de los diferentes métodos de adiestramiento animal, que no ponga en peligro el personal y a las especies animales, desde el momento de su nacimiento hasta la el final de la vida útil productiva facilitando su manejo, conducción y traslado.
           li 
             i.fas.fa-angle-right
-            | Aplicación de tratamientos de forma adecuada, que no ponga en riesgo la salud animal ni la humana.    
+            | Aplicación de tratamientos de forma adecuada, que no ponga en riesgo la salud animal ni la humana.   
+
   
 </template>
 
